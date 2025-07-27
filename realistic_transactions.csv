@@ -1,0 +1,1001 @@
+transaction_id,customer_name,customer_email,customer_location,merchant,transaction_amount,transaction_purpose,card_type,fraud_score,is_fraudulent
+6c446bc8-8c94-4be8-974f-53e5e5325140,Taylor Fuentes,solomonvalerie@yahoo.com,Victoriaberg,Adidas Outlet,2042.51,Online Purchase,Discover,85.02,0
+364cb0b4-33db-4060-9d18-b217351da421,Patrick Bernard,jeremiahgibson@hotmail.com,New Devinstad,Starbucks,1239.33,Online Purchase,American Express,71.04,0
+61e0974a-7c36-4a61-85c9-2a123bdc8a03,Stephanie Krueger,gruiz@allen.com,Haydenfurt,Target,2721.53,Gym Membership,Visa,3.89,0
+3118adfb-e812-477f-af09-b433a4f4055c,Johnny Joseph,hmartinez@long.org,North Jackie,Spotify,1210.66,Clothing Purchase,Discover,20.5,0
+f9bc317d-aede-44b4-b179-3b07095c9e1c,Olivia King,jhuynh@hotmail.com,North Christinaborough,PayPal Transfer,3276.3,Electronics Purchase,American Express,68.23,0
+0f56f0b3-c862-4fa0-bfb8-cef774ea3f00,Amber Phillips,finleywayne@hotmail.com,Josephville,Walmart,3773.89,Gym Membership,Visa,52.8,0
+31263c59-c753-46b5-9021-67e0bf894685,Barbara Nielsen,otaylor@ramsey-key.net,Kellyborough,Adidas Outlet,1340.43,Online Purchase,American Express,83.26,0
+df50ef2b-feb3-4a4a-910a-0125388ca2e4,Curtis Hall,gainesjared@gmail.com,South Jaclyn,Adidas Outlet,1591.98,Food Delivery,Discover,78.73,0
+afe4b262-5e46-4cdb-a776-30b04a1165c4,Sarah Lopez,fernandezpatrick@hunt.com,New Deniseburgh,Nike Store,3989.22,Streaming Subscription,MasterCard,91.56,0
+7624f448-70c9-4d34-96fb-d531b01a6fe6,Emily Perkins,leah37@spence.com,Parsonsstad,Nike Store,3756.03,Car Rental,MasterCard,43.2,0
+2e5bf524-dd72-45d3-bb95-480a81c59598,Kelly Foster,aallison@villanueva.com,North Oscarstad,Nike Store,2016.13,Electronics Purchase,Visa,80.15,0
+79468806-3bfd-4fae-af35-ba5f98f4abb4,Cassie Kemp,ymercer@yahoo.com,Elizabethborough,Netflix,1857.16,Clothing Purchase,MasterCard,10.15,0
+6e5c2d2f-16c4-4adf-8f9e-f4432fc03a91,Pedro George,eallen@hotmail.com,Murphyburgh,Spotify,4462.62,Gym Membership,Visa,29.38,0
+2a0ab60d-8be2-4836-a461-1979157e0035,Crystal Cummings,jsolis@hotmail.com,Lake Jennifer,Uber Eats,3905.55,Car Rental,American Express,70.2,1
+e3bebf21-8ea0-4b35-b5a5-7328d8ac7f1b,Stephen Young,nmccormick@gmail.com,Port Mirandafurt,Tesla Supercharger,59.36,Car Rental,Visa,86.64,0
+c8da16f1-81c6-4f5b-8227-201984fd4f53,Samantha Wood,cohenjorge@edwards-newton.com,West Brittany,McDonald's,4280.11,Gym Membership,MasterCard,37.77,0
+6adc15a8-7739-4b76-8395-10b77334b9d4,Nathaniel Hubbard,riosralph@yahoo.com,South Elizabeth,Netflix,4088.78,Clothing Purchase,Discover,5.52,0
+4464c43c-f65a-4545-b852-f59a1ff92256,Dakota White,ybush@torres.org,Guzmanmouth,Tesla Supercharger,3294.54,Online Purchase,MasterCard,86.06,1
+86d47b1d-56e4-4764-8d23-f192cd9e16c7,Lisa Evans,yhood@yahoo.com,Laurashire,Best Buy,1147.21,Online Purchase,MasterCard,38.09,0
+cd480719-4a81-417b-92dd-15010a271f4d,Christopher Powers,harperheather@jordan.net,Lake Jordanville,Walmart,4523.89,Bill Payment,Visa,34.02,0
+34e06662-d173-4ddf-8d42-c4208b62d567,Matthew Bradley,riverajames@martinez-kim.com,New Kimberly,Adidas Outlet,1874.79,Car Rental,Visa,15.73,0
+f94e853c-8fc7-4e50-ae09-62348fb6e677,Bradley Vega,katrinarodriguez@saunders.com,Wilkinsfort,McDonald's,3324.98,Grocery Shopping,American Express,93.08,0
+3a185923-04f0-413f-90a1-4cd4372b6a4b,Kevin Villanueva,megan98@atkinson.com,Port Josephside,Best Buy,788.75,Bill Payment,Discover,59.24,0
+1cb4a367-f73c-4999-b6ff-e5f1ca460638,Michael Stanley,jonathangregory@yahoo.com,West Kevin,Target,885.12,Food Delivery,American Express,45.91,1
+7c6761ef-679b-4727-95cc-f449dec00fd0,Debra Wilcox,russosteve@sawyer.com,Coreytown,Adidas Outlet,2062.75,Clothing Purchase,MasterCard,1.14,1
+5a2337aa-c82d-4241-9e0e-6a26c9da1ba4,Hannah Cook,deborah84@hotmail.com,New Tammy,Spotify,4704.03,Online Purchase,Discover,1.21,0
+b291902e-9a85-4d26-8365-528854fc9587,Douglas Vasquez,patriciarivera@carson.org,North Coreyport,Target,559.59,Hotel Booking,American Express,44.54,0
+92d619fb-54cb-43aa-bf85-ccd8dcd5da9b,Christopher Cochran,malik51@hotmail.com,Katiefort,Uber Eats,404.61,Car Rental,American Express,91.87,0
+677d562c-a83d-48f8-99e9-a377ccb19fde,Laura Craig,zbell@hotmail.com,Jacobsside,Adidas Outlet,1464.24,Clothing Purchase,Discover,94.06,0
+4795a776-fe55-4516-ac2d-0857f0a487cd,Christopher Sherman,riggsmichael@bryan.com,Ricefort,Google Play Store,1180.52,Gas Station,American Express,78.24,0
+9633b44d-8c6c-436b-b45a-d0c4b2a306d4,Matthew Ortiz,dixonapril@arnold.com,New George,McDonald's,2174.29,Gym Membership,MasterCard,59.05,0
+760133ea-a3c3-4dda-b6cb-a787a5f7dafe,Joshua Cummings,danielle85@gmail.com,Susanberg,Spotify,2448.07,Flight Ticket,MasterCard,19.37,0
+2eefa8f5-8d74-42c9-bd12-e663a83c9c14,Janet Rodriguez,kelly04@gmail.com,Williamfurt,Adidas Outlet,4189.24,Bill Payment,American Express,93.42,1
+df5dc80f-9292-479a-a5bf-c0c60fa2e9bf,Vincent Stephenson,cassandra24@white.biz,Fisherside,Best Buy,4956.54,Gym Membership,Visa,19.23,0
+4151ba00-9234-4966-934f-6543a13cf31b,Julie Peters,smithcynthia@yahoo.com,Osborneton,Nike Store,1270.42,Grocery Shopping,MasterCard,2.57,0
+7e27ca8f-87f3-49b9-ade9-562984e52507,Randy Fowler,eedwards@hotmail.com,Hollychester,PayPal Transfer,3218.4,Food Delivery,MasterCard,86.69,0
+32184b16-d667-4864-ae4c-9dac90885590,Whitney Boyd,yevans@hotmail.com,South Teresaland,Uber Eats,568.87,Flight Ticket,MasterCard,90.25,1
+882c8fea-c8cc-4ca7-8d11-f850bfd814ef,April Wang,emoore@jennings.com,North Patrickport,Target,4909.87,Streaming Subscription,Discover,72.13,0
+ac68328f-b812-4f63-a9b8-d73b0758ee4d,Steven Cannon,christian42@mitchell.biz,West Michellemouth,Starbucks,4967.91,Hotel Booking,American Express,8.96,0
+4c697706-c5be-45cb-939c-9ff4a39e52c5,James Walker,shawnrodriguez@hotmail.com,Hicksborough,Walmart,2812.81,Bill Payment,Visa,80.63,0
+434ff670-c4a5-41c2-8135-591e06b271ea,Shannon Brown,hrodriguez@shaw.com,Ashleyburgh,Adidas Outlet,999.4,Streaming Subscription,American Express,21.86,0
+a8b6bb9d-f95b-46f7-b506-c00fd58971b3,Ryan Anderson,cody63@yahoo.com,Austinbury,Walmart,3883.07,Gas Station,American Express,58.33,0
+887c47a8-a2a1-4eda-84a4-66d772a14521,Craig Ritter,rachelmays@hancock-stanley.com,Port John,Uber Eats,51.75,Food Delivery,Visa,35.01,0
+5f175f11-1cb9-414f-af28-2fd4b64d5480,Bonnie Martin,suzannehill@yahoo.com,Austinton,Walmart,1755.41,Online Purchase,MasterCard,36.68,0
+86d351eb-b0a2-450e-b3b8-ab4e53b6ec50,Jose Love,webermeagan@yahoo.com,Longland,Adidas Outlet,3456.12,Hotel Booking,MasterCard,88.6,0
+46e44b67-03e3-4aae-8b65-d422e24ca28f,Jessica Clark,alan42@ryan.com,Brendamouth,Target,3556.17,Flight Ticket,Discover,81.63,0
+339378a7-a4fb-484d-889b-db7c08d17ba7,Jason Fuller,joshua21@kennedy.com,Edwardsberg,Uber Eats,4678.23,Clothing Purchase,American Express,99.21,0
+20f1c49b-9cc7-491e-a37c-ab59bd0d4323,Dustin Perez,patelmaria@ortega-rodriguez.com,New Luisstad,Walmart,82.89,Grocery Shopping,MasterCard,28.06,0
+3a82f17d-f403-4b2c-8102-0d2558bbd61c,Maria Benton,stevencollins@hotmail.com,Brewermouth,Google Play Store,2535.36,Electronics Purchase,American Express,6.08,0
+25f7cfd1-110b-4a48-a26a-850d99863d4c,Kelly Hall,jeffrey01@sutton.com,West Joelview,Nike Store,3248.67,Online Purchase,Visa,87.69,0
+3e33b33c-19aa-4691-8bbe-bd94ff2d4e67,Michael Kirk,wfranklin@gmail.com,Port Melissaview,Spotify,4663.07,Bill Payment,Discover,90.51,0
+ea4e71da-cc1a-4dd4-bd2e-5fbd5ce8c42a,Zachary Martinez,tcampbell@hotmail.com,New Elizabethfurt,Spotify,691.32,Grocery Shopping,Discover,32.88,0
+62bce828-88b5-4087-8fd6-853013a02d0d,Eric Turner,grayjessica@yahoo.com,Ellisbury,McDonald's,919.93,Gym Membership,Discover,3.62,0
+8e5db2ef-d27e-4be0-ab39-c23cee91af8a,James Smith,christine73@lopez.com,Jasonton,Tesla Supercharger,308.26,Bill Payment,Visa,32.62,0
+e7193a76-cc92-4910-81ac-4a0b9b8071f4,Benjamin Mcdonald,crystal13@holden.biz,Port Jessicashire,Apple Store,3034.3,Gas Station,MasterCard,64.35,0
+639aad6e-f437-42ff-b073-cfc9004c1537,Daniel Mack,idavis@hotmail.com,Sherryfurt,Target,3234.65,Bill Payment,Visa,18.15,0
+a86923a6-269f-402b-a729-4ad1962a8081,Ruben Watson,carolsimmons@castillo.com,New Ronnieland,Best Buy,3837.75,Gas Station,MasterCard,91.56,0
+e8de1fef-ba70-445e-9955-ab6f0a7b784b,Susan Keller,asmith@yahoo.com,New Emilymouth,Adidas Outlet,1983.26,Online Purchase,Discover,83.69,0
+6befa741-6399-4dc4-8da6-cdd89e3d85e5,Erica Carrillo,itaylor@chang.net,Macdonaldmouth,Apple Store,3671.17,Grocery Shopping,American Express,77.74,0
+a8b899f7-e21e-4b25-94ee-e60fae523d5a,Michael Johnson,john37@gmail.com,New Alexis,Apple Store,1822.73,Clothing Purchase,Visa,44.87,0
+053cb069-0544-4bbc-b32a-cb8dae3ce338,Katie Zuniga,awright@nichols.org,Zacharybury,Uber Eats,1205.73,Car Rental,Visa,32.05,0
+0f60e78e-e712-43d3-bcb1-9fbefdbc6147,Evan Humphrey,kristincampbell@gmail.com,Gibsonhaven,Starbucks,2860.05,Flight Ticket,MasterCard,49.11,0
+a28494ed-2822-4126-9aaa-5b80e886a1fe,Paul Miller,jgarcia@stevens-francis.biz,North Michaelberg,McDonald's,2575.95,Online Purchase,MasterCard,75.24,0
+f9a7f790-35c0-4ba3-a26d-558512a996e8,Valerie Atkinson,montgomeryamanda@salas-lamb.com,Bethanyport,Starbucks,1466.21,Bill Payment,MasterCard,44.27,0
+709d7cb1-df66-41de-95b0-6f66fa7a259e,Brett Smith,bnash@vega-cox.com,Jenniferborough,Spotify,1542.04,Bill Payment,Visa,1.68,0
+1ac0a62a-fa07-44d9-a856-c397935d6b1b,Tammy Simpson,jason63@gmail.com,West Joshuachester,Netflix,310.03,Hotel Booking,MasterCard,67.57,0
+dc276f73-721e-45ad-ab58-45f48e0d971f,Matthew Johnson,wolfmeagan@yahoo.com,South Ariel,Spotify,2232.2,Gas Station,Visa,37.51,0
+fd649cf5-dcc8-4908-a120-60bfed065794,Adam Adams,joshua02@fleming.org,Port Debrafurt,Google Play Store,4919.67,Electronics Purchase,Discover,46.05,0
+bbf2a95a-578f-4503-b1ec-ff569963a752,Thomas Pierce,youngroger@gmail.com,Dwaynefurt,Uber Eats,1515.68,Hotel Booking,Visa,91.4,1
+0ebb06d3-2cb1-4bfa-8abc-d3d2fdc79f7c,Nicole Krause,jose09@hotmail.com,Haleport,McDonald's,3609.37,Electronics Purchase,Visa,2.27,0
+b27266e9-a9ab-4421-9847-0ff29440ca75,Ashley Jones,roberto34@ashley-ferguson.org,New Michelleview,Amazon,3399.47,Food Delivery,American Express,63.71,0
+f9b4a79f-020f-4576-a3c0-b8037f4ff0ae,Robert Jones,linda45@fry.info,Harriston,Google Play Store,1882.36,Gas Station,Discover,29.24,0
+9ec686bf-36ba-4189-8185-9a431ac61598,Amy Downs,christophermoore@arnold.net,East Diana,Netflix,1814.61,Gas Station,Discover,38.18,0
+47625e53-bd8c-43dc-ace4-7cbeb7ead13e,Kenneth Powell,wendy31@hotmail.com,Kathleenfort,Tesla Supercharger,3226.16,Gym Membership,Visa,79.22,0
+19bc7a87-9e8e-43da-bd6e-46427ab36cfd,Edward Chapman,joshua29@snyder.com,North Teresa,Walmart,1118.43,Gas Station,MasterCard,42.02,0
+96746dee-ee84-4590-89b0-c52ea8ad7043,Bradley Aguilar,carmensmith@hotmail.com,West Thomas,Amazon,3360.79,Gym Membership,Visa,30.03,0
+f573f800-24ec-4669-84c0-c7ec49795a24,Mark Chandler,mariahescobar@walton.com,East Gary,Walmart,4946.43,Online Purchase,MasterCard,57.44,0
+cb87c8a1-c587-42a4-8c35-cc3fa9c60f1e,Kim Murphy,thomas96@gmail.com,Port Linda,Tesla Supercharger,1721.17,Bill Payment,Discover,13.68,0
+03318d69-188c-49c5-b743-1055c2c8a6bb,Margaret Stewart,wporter@ruiz-kramer.com,Branchview,Best Buy,595.79,Streaming Subscription,Visa,42.63,0
+bc9cb31f-e353-424f-b474-affcb96f59d9,Judith Burns,batesjoyce@brooks.com,New Tanya,McDonald's,4859.9,Clothing Purchase,Visa,80.94,0
+6191f6b1-bae9-48b4-a99d-30115880a9d0,David Patterson,ronald12@hotmail.com,Lake Lindaport,Google Play Store,1288.52,Hotel Booking,Visa,20.36,0
+80e2ad87-2e0d-478c-962e-e8a27ae9534c,Joseph Holloway,fsmith@gmail.com,New Rachel,Nike Store,4628.56,Gym Membership,Visa,37.55,0
+312735a2-ffe7-42c8-a76c-effd113f280c,Courtney Fields,jennybrewer@mendez.com,Harrisonville,Amazon,1313.29,Streaming Subscription,MasterCard,32.07,0
+a3b4022b-7cd8-4e08-88e3-a735b6f762ca,Karen Taylor,millerkyle@hall-owens.com,Brandonton,Walmart,304.07,Electronics Purchase,American Express,73.01,0
+03d06ece-1fc3-4d1c-914c-6351d74de76e,Garrett Forbes,padillakristin@doyle.org,Nancyshire,Apple Store,1947.47,Bill Payment,Visa,28.88,0
+656f7b24-3839-4f71-99af-31c380f28c2a,Elizabeth Gordon,ycherry@hotmail.com,Audreyland,Apple Store,3424.42,Grocery Shopping,Discover,58.44,0
+1272d46b-b43b-48cb-b7d1-94a165633b5c,Kristy Banks,kimberly94@yahoo.com,Lake Sherryborough,Adidas Outlet,1218.06,Streaming Subscription,Visa,42.48,0
+19baf806-fedb-4924-8533-0d63575acf7f,Eddie Martinez,gina88@gmail.com,Lake Monique,Amazon,1837.48,Hotel Booking,American Express,70.75,1
+ab0d84e4-581a-40b6-86d0-124a1501ed9e,Madison Miller,olsonnicole@smith-gordon.com,North Jason,Tesla Supercharger,1895.43,Grocery Shopping,American Express,13.12,0
+03b816c5-8af3-4227-b32d-667ec4afae85,Stephen Hill,brianhardin@wolfe-jones.info,Kingmouth,Amazon,4704.92,Flight Ticket,Discover,86.05,0
+6c16a722-c681-4c64-9958-e37dd1023990,Andrea Mathews,jordanjames@yahoo.com,Michealburgh,PayPal Transfer,2631.1,Flight Ticket,Discover,54.08,0
+f3a08142-e8fb-499b-a7a2-a512b196ef10,Brianna Reyes,matthewjacobson@yahoo.com,Kyleside,Best Buy,2895.52,Car Rental,American Express,74.95,0
+c857c342-4585-493c-ad43-2901a41cf1ab,Michele Mccarthy,wellsjoseph@wilson.org,Schroederstad,McDonald's,1795.69,Online Purchase,MasterCard,22.46,0
+bfb338fe-7e80-4b0c-9711-289c64d311f4,Devin Chan,natasha56@brooks.com,Steventon,McDonald's,665.35,Gas Station,American Express,16.29,0
+6359d8da-569b-4426-9880-3f676ec0de03,Jonathan Levy,vwang@yahoo.com,West Brianport,Spotify,2737.48,Car Rental,MasterCard,45.58,0
+2ea50e6f-775b-4033-b846-78ff361470b6,Melissa Kim,thomas40@lambert.com,East Adriana,Netflix,3840.34,Electronics Purchase,Visa,30.24,0
+c6521fd5-5337-44a7-be28-f2d67c459eb6,Jesse Stevens,ehorton@hawkins.com,Katelynshire,Nike Store,45.35,Bill Payment,Visa,49.36,0
+de2051a9-1d2e-43c2-a87b-e1161370b3f2,Jamie Simpson,dsimpson@gmail.com,Jesseville,McDonald's,2790.99,Flight Ticket,Visa,94.15,1
+a9c0e572-f056-45ab-be3d-e68961fb376b,Mrs. Deborah Bradley MD,elynch@gmail.com,New Lisaville,Tesla Supercharger,52.63,Online Purchase,American Express,20.24,0
+b16d817e-8cff-4b40-8f79-0c81eaa51285,Benjamin Luna,pamelabruce@brown.org,South Jessicaburgh,Walmart,418.41,Food Delivery,American Express,5.26,1
+110caca6-56c3-4cd3-8f4a-7d50b8230fc0,Kristin Davis,oramirez@yahoo.com,Kennethmouth,Walmart,4170.89,Bill Payment,Visa,16.87,0
+1ccea220-d26f-4404-812c-8fde76e29024,Ryan Thomas MD,freemanchase@edwards.net,Phammouth,Adidas Outlet,2268.54,Car Rental,American Express,96.5,0
+760d1e13-a3fa-41f0-831d-128407aa73d8,William Barton,kturner@hamilton.biz,South Josephstad,Google Play Store,501.55,Flight Ticket,Visa,48.99,0
+63400be1-1518-42d7-a72d-079de8d2745e,Jeremy Snyder,shannonkim@adams.com,Patriciaborough,Target,974.8,Electronics Purchase,Visa,42.24,0
+43773ce6-e019-42e6-b7fb-00c02dc85f8f,Kathy Lambert,whitejustin@giles.org,West Shaneberg,Google Play Store,1488.57,Streaming Subscription,MasterCard,84.04,0
+7b55f965-077b-4ddd-906f-1ced2579a689,Robert Wheeler,bbowers@owens-jenkins.com,South Jennifer,Nike Store,4455.32,Hotel Booking,Discover,34.43,0
+4e204213-1bdf-48cf-b9a5-d9389bc08632,Matthew Barrera,gina93@berry.com,North Cynthia,Google Play Store,4040.7,Electronics Purchase,MasterCard,64.05,0
+e36949b6-bf55-4acb-9bcd-372ef1e254dc,Dawn Pittman,davidalexis@hotmail.com,Marshallland,Apple Store,4041.33,Hotel Booking,MasterCard,60.75,0
+5c219aff-4eb5-4638-aef8-6efcbfec9a48,Joshua Pena,angelicawarren@anderson.net,North Robertland,Adidas Outlet,4702.68,Car Rental,American Express,20.75,0
+d43fbaba-faa3-4c0f-af7d-2e0bfbaff628,Donna Gonzalez,eclements@yahoo.com,Howardburgh,Spotify,2645.27,Clothing Purchase,MasterCard,31.98,0
+23ebc6e7-1fa1-4e11-b6dd-978b0470297f,Karen Burnett,jennifer04@gmail.com,Trevinofurt,Amazon,3342.33,Grocery Shopping,Visa,75.34,1
+e24eb176-fab9-4558-b623-5bd2972ff57e,Stephen Olson,hughestroy@gmail.com,South Laurieburgh,Starbucks,3626.02,Bill Payment,Discover,68.77,1
+d658044c-0f7f-4823-9330-17e2bb246756,Marie Bates,gerald94@jackson-juarez.org,Scottfort,Spotify,1618.81,Hotel Booking,Visa,41.75,0
+c6a1c432-5c79-4146-b101-f499440bbe46,Michele Smith,camposjamie@gmail.com,Maryside,Apple Store,3632.68,Grocery Shopping,MasterCard,55.03,0
+d98e214f-95c1-4d5a-933e-bf4b35ad764d,Alex Newton,ksantos@hotmail.com,New Robert,Target,3546.0,Online Purchase,Discover,65.49,0
+3e983981-347f-4791-99bf-42dda4e903ae,Heather Martin,lhaley@hotmail.com,Walkerhaven,Starbucks,3842.94,Gym Membership,Discover,29.87,1
+afe900c0-c5ac-4c31-ab05-43a7d649d632,David Gray,brandonmcclure@yahoo.com,North Sharonmouth,Netflix,4024.02,Online Purchase,American Express,51.59,0
+da6c97ea-619b-474e-910f-da38e54d6ad9,Evan Ford,harrisandrew@hotmail.com,Banksfort,Uber Eats,3157.1,Grocery Shopping,Discover,99.17,0
+8caebf4e-7fc9-466b-824d-4a88e46c1e1e,Billy Burke,gabriellafry@campbell.com,Moodyfort,Adidas Outlet,3397.54,Car Rental,Discover,90.73,1
+57f7ab24-e81b-494e-9e2f-12f30c7ccd72,Justin Hughes,qmoore@yahoo.com,West Maria,Best Buy,2307.44,Gas Station,Discover,93.07,0
+aca7a28a-973b-403c-993a-07b5d1a0b0d6,Andrew Oliver,kiddjulie@green-anderson.com,East Travis,McDonald's,3802.32,Gas Station,MasterCard,77.85,0
+f7420314-b6c6-47cd-ab49-cf9fa8e4ff6a,Shane Cameron,wilkinscassidy@hotmail.com,Lake Jonathan,Netflix,3369.35,Streaming Subscription,MasterCard,11.67,0
+fcff0ad9-fef0-48eb-9e5b-157b732316d7,Margaret Johnson,blackkathryn@yahoo.com,New Carriechester,Tesla Supercharger,812.82,Electronics Purchase,Discover,10.79,0
+ca974005-323d-4516-80dd-4aa2f35f3efd,Cheryl Holland,williamsemma@hotmail.com,North Emilymouth,McDonald's,586.4,Car Rental,Discover,75.8,0
+7a43b4e0-8ab3-4f6f-b9e5-c43e707ca996,Veronica Henry,sara89@chapman-beltran.org,North Paulhaven,Amazon,4836.25,Flight Ticket,MasterCard,59.98,0
+2e4639f9-b3d7-46b8-918d-3771a856780c,Courtney Cox,zgarcia@yahoo.com,Lake Justinville,Starbucks,3129.54,Grocery Shopping,American Express,87.47,0
+9d07ea43-5cfb-4c2f-984d-96d9cc89e127,Kimberly Douglas DDS,melissamclean@hotmail.com,Dunlapfort,Google Play Store,1748.68,Food Delivery,MasterCard,69.19,0
+ba9d616a-5ee4-4e97-8f5c-b82c1a556b79,Tonya Ford,brianparrish@campbell-hensley.net,Lake Lisaburgh,Best Buy,2186.59,Streaming Subscription,American Express,8.42,0
+3c4c51e3-4f5c-45f4-a352-9e3e9714888b,Joanna Padilla,kara21@brady.com,Bowersfort,Amazon,1439.61,Electronics Purchase,Discover,16.79,0
+8b339f04-cc33-4ff6-a6d2-73babd7a3361,Paige Cunningham,floresangela@wright.net,New Janice,McDonald's,4113.52,Streaming Subscription,MasterCard,39.92,0
+5ffa6c47-4ff9-4c45-91bf-28752d274518,Joshua Martin,emitchell@thomas-ramirez.info,Amyport,Netflix,1320.55,Bill Payment,American Express,54.07,0
+be4590de-9d19-416e-9179-64db594fcee9,Marie Blevins,wallzachary@gmail.com,Dennismouth,PayPal Transfer,150.93,Car Rental,MasterCard,56.36,0
+f0806ad2-d86b-4db9-9713-b884702c1a55,Steven Murphy,robertsrichard@gmail.com,Ashleybury,Starbucks,3462.3,Flight Ticket,MasterCard,73.0,0
+4f909d4a-c87a-4a9f-b990-e725458a887f,Lindsey Davis,jamesroberts@lopez-evans.com,East Josephfurt,Starbucks,2439.52,Hotel Booking,Visa,83.47,0
+4f0c2e60-ec10-4b17-bf2a-b1d21f89afaf,Michael Friedman,jorgepearson@gmail.com,South Julie,Netflix,1354.19,Bill Payment,Discover,11.08,0
+f25fad17-5311-437d-8c94-fab287e1dff2,Robert Bryan,baxtermelanie@yahoo.com,Schultzmouth,McDonald's,807.69,Bill Payment,Discover,92.13,0
+12e27d1c-678d-4a20-9467-a7dce8f65c7b,Brian Johnson,branchamber@yahoo.com,East Robertmouth,Google Play Store,1697.69,Streaming Subscription,MasterCard,10.61,0
+96cae130-da3e-486e-9bbf-a3e2ce1251e0,Brian Huff,ymoore@gmail.com,New Jacobton,McDonald's,4922.86,Gym Membership,Visa,17.1,0
+d4e6e06e-43f5-4fe6-b1d3-f320d82e44ba,Mikayla Arnold,robert17@braun.com,North Alexander,Netflix,2989.95,Flight Ticket,MasterCard,39.86,0
+e4fd3db9-a430-4ba0-84ba-aa76d069df6d,Scott Oconnell,garrettjoyce@hotmail.com,Westside,Spotify,2830.02,Hotel Booking,Discover,60.54,0
+218b62a6-eeb6-4e2c-97a0-4bff5c0568ee,Robin Davis,linda88@gmail.com,Port Brian,Tesla Supercharger,4736.24,Car Rental,Discover,79.88,1
+3e16c73b-3779-42a3-a879-53236bda0b15,Jacqueline Hutchinson,pattersonmary@hotmail.com,East Charlesberg,Netflix,549.09,Electronics Purchase,Visa,43.3,0
+fda85fb9-c63d-47e2-bfff-321564a19805,Ronald Mullins,daviddunn@yahoo.com,Stephanieberg,Best Buy,1099.72,Grocery Shopping,MasterCard,26.47,0
+fd8aff5c-2430-4cf4-b6b3-ba0040561f73,Brooke Rice,abigailthomas@king.com,Yatesmouth,Tesla Supercharger,233.71,Online Purchase,MasterCard,52.24,0
+9a4da2a1-b230-434c-9678-72d14471fa3e,Jose Beard,heatherdavis@velazquez.com,Allisonton,Netflix,720.7,Food Delivery,MasterCard,97.0,0
+10ef668c-d440-4c07-ace0-7cfa6baf6f7b,Sherri Orozco,tracyhunter@yahoo.com,East Roger,Google Play Store,2278.28,Bill Payment,Visa,24.58,0
+f6c8f087-b42d-4d6d-9e2b-c589ae446438,John Moore,hector65@underwood.com,North Felicia,Best Buy,4845.01,Clothing Purchase,Visa,57.71,0
+14898b70-94d7-42e4-a062-9b70bdb73f0e,Cynthia Lewis,natashabryant@gmail.com,Phillipsland,Spotify,621.45,Food Delivery,Visa,46.72,0
+6dc1013b-1f18-43a0-b446-3100377b9dc9,Tiffany Patton,kylemiddleton@gmail.com,Lisaberg,Amazon,1288.31,Gas Station,MasterCard,50.49,0
+b7f80e33-13f6-409b-8ae8-6654f7188388,Dustin Carlson,richard77@yahoo.com,Port Megan,PayPal Transfer,3582.4,Electronics Purchase,MasterCard,60.0,0
+a588ab05-f562-48fe-9ca0-34dd47568677,Tracy Riggs,reginawalker@hotmail.com,South Elizabethton,Spotify,1223.18,Streaming Subscription,Visa,83.24,0
+c9745d7a-ba36-4f24-aca1-847399efa602,Darryl Cervantes,sarachase@yahoo.com,Evansfurt,Amazon,1596.19,Bill Payment,MasterCard,10.61,0
+4c94aad7-c431-430a-9dac-8342b143a744,Jesse Kelly,adamsolomon@williams-lynch.com,Sotoport,Nike Store,2005.36,Gym Membership,American Express,86.43,0
+b51be5b2-20aa-4ef7-921e-f2e704d6863b,Sharon Miller,lisa80@yahoo.com,Simstown,Target,4944.83,Flight Ticket,American Express,3.68,1
+a18da3f6-89e2-4c7a-b4a9-b1def2a6f10d,Cole Ortega,deborah21@martinez.biz,New Kristy,Uber Eats,4212.33,Hotel Booking,Visa,11.9,0
+bbe1dd09-ae53-417a-afbd-73c7d1c47409,Megan Willis MD,brownamanda@golden.net,Briannamouth,Apple Store,665.31,Online Purchase,Discover,4.96,0
+14eed944-2629-453d-a1b8-6ddbd48cd43b,Alicia Carter,ccaldwell@gmail.com,Lake Lindsay,Tesla Supercharger,3688.38,Bill Payment,Visa,98.17,0
+541badcc-98f3-4d4d-a15b-723727b48ae9,Ashley Benton,sjohnson@hotmail.com,West Jeanettetown,Google Play Store,1490.59,Food Delivery,MasterCard,37.57,0
+ba9fefa7-d054-4b65-ba77-3d164db8ae3c,Barbara Edwards,brownlaura@park-woodward.com,Lake Michaelton,Target,408.07,Grocery Shopping,Visa,18.86,0
+77729602-0c36-4371-915c-1af789d07236,Aimee Johnson,jonathan69@yahoo.com,Chavezside,Target,2901.31,Electronics Purchase,Visa,8.46,1
+486d63bc-f614-41a0-8789-21c834001bda,Mark Simpson,michaeljohnston@brown.info,Blaketon,PayPal Transfer,1480.99,Food Delivery,Discover,10.58,0
+1d3c9373-9117-44a0-a014-e1417b96ce6c,Jonathan Gray,williamromero@lee.biz,West Emily,Walmart,1857.27,Grocery Shopping,Visa,63.58,0
+a0cdef26-9db8-407c-9022-290905783b89,Amanda Reid,pblair@gmail.com,Grahamland,Best Buy,157.55,Flight Ticket,American Express,56.8,0
+0b752406-58b3-4b3d-9c4d-433a2ba5eb25,Emily Jackson,johnsonjessica@yahoo.com,Kennedyton,Spotify,364.24,Gas Station,MasterCard,86.5,0
+cb0c638a-f175-4e44-9018-7285f0e9ed61,Pamela Daugherty,aodonnell@hotmail.com,East Courtneyview,Spotify,4237.72,Electronics Purchase,Visa,33.25,0
+f842595e-511e-41c1-9168-28b0147ec2dc,Kenneth Lawson,plittle@ward.com,New Kendrastad,Google Play Store,4616.89,Car Rental,American Express,5.39,1
+c93a6026-83ac-4cd7-940d-73ccfa36130a,Dawn Marshall,wayne27@rhodes.com,Cainhaven,Spotify,4023.18,Grocery Shopping,American Express,61.39,0
+98f0f1db-3a40-4346-83d0-6660159abff2,Wendy Rice,amandaavery@hotmail.com,West Melissaborough,Google Play Store,2766.79,Gym Membership,Visa,75.54,0
+b080986b-091a-440a-b206-3fcf91da1a47,Edwin Hernandez,williamsonjames@gmail.com,South Ianfurt,McDonald's,4821.09,Electronics Purchase,Visa,19.17,0
+d6109dd9-1d5a-4444-85e2-14850cc572b7,Erin Mendoza,utorres@yahoo.com,Hendersonmouth,Spotify,2642.08,Car Rental,Visa,42.69,0
+5212582c-1792-42d5-8689-126e5c1231a3,Stacy Jacobson,erivera@holloway-parker.org,Frazierbury,Nike Store,4825.5,Streaming Subscription,Discover,24.63,0
+33b3102d-d75f-4770-ba98-6889cffffcc5,Grace Walters,knappcharles@mccormick.com,West Debra,PayPal Transfer,512.24,Gym Membership,MasterCard,20.43,0
+a63f2a3c-51ea-4337-92b0-3bedead64f6b,Amber Mcmahon,jason97@gmail.com,West James,Google Play Store,746.51,Clothing Purchase,MasterCard,85.73,0
+d6be0938-4f32-4ae7-b1b2-f673c76e08d3,James Moran,powelljason@bishop.com,Loritown,Uber Eats,248.54,Hotel Booking,MasterCard,65.39,0
+b02aeb3d-7741-4165-955a-f356e331a2ff,Kimberly Cummings,baileymary@yahoo.com,Theodoreview,Amazon,2380.61,Clothing Purchase,Visa,51.03,0
+eb837d37-7aeb-47c0-b5b8-a96d5892d94a,Jacob Williams,santosanthony@li.com,South Jeffrey,Target,1896.1,Clothing Purchase,Visa,62.17,0
+28586c9b-c8c9-4b82-91c9-f08f1cc69506,Patrick Sanders,clarksarah@johnson-roberts.info,Melissafort,Nike Store,2126.78,Gym Membership,MasterCard,23.12,0
+aa1a3e78-0b7f-4f29-b75d-52b40816b28f,Jeffery Miller,gwendolynvaldez@dixon.com,Burtonshire,Tesla Supercharger,3576.19,Grocery Shopping,Visa,33.76,0
+efd5d861-7274-4f39-b8d7-54c3732ea3c2,Thomas Mayer,tellis@yahoo.com,Rasmussenland,Apple Store,3796.58,Hotel Booking,MasterCard,12.66,0
+b4804995-d001-4063-bf23-863dd2277369,James Jones,bryanttheresa@hotmail.com,Davidland,Walmart,2941.53,Gym Membership,Visa,28.98,0
+4f1bc5df-fcbc-4d87-965b-2f5cd7219ece,Aaron Mills,bergsally@yahoo.com,Rossbury,Target,1407.98,Bill Payment,Discover,86.77,0
+08a722fa-9f11-4fa4-bc88-c33b285944b4,Kathleen Stewart,aimeedavis@yahoo.com,Lauratown,Apple Store,980.34,Gym Membership,Visa,35.09,0
+aa3e239e-0b2b-43ac-964e-81d1c57485e5,Brian Lopez,teresajones@yahoo.com,South Patrickberg,Starbucks,2042.59,Gym Membership,Discover,74.3,1
+0c8841c0-a319-41e0-895f-5c2cde6fc7ab,Autumn Foster,pagekim@hotmail.com,Martinezfort,Nike Store,693.53,Food Delivery,MasterCard,31.59,1
+8b483cd2-9e87-4d80-9d9d-8039febd0c01,Tiffany Shepherd,kingvictoria@johnson-murphy.com,Pamelafurt,Uber Eats,3040.23,Gas Station,MasterCard,85.74,1
+c88551a4-9c66-4846-bf12-f60b6fc61943,Christine Salazar,jennifer53@greene.com,Port Kiara,Starbucks,2234.72,Clothing Purchase,Visa,91.26,1
+dbdcc234-df6e-4c9b-a4e3-4bcbfd51fee3,Aaron Edwards,jacob03@gmail.com,Terryview,Best Buy,4862.57,Gym Membership,Visa,58.19,1
+c2d1afbd-5b71-44d7-86f5-37cd64177c19,Christopher James,jodimiller@owens.info,North Rubenburgh,Target,2433.66,Gym Membership,Visa,2.1,0
+876c98b5-b01e-4b2a-8ed2-074b9c248764,Erin Bowers,corey65@gmail.com,Amberhaven,Nike Store,312.37,Gas Station,Discover,68.45,0
+4180a7b2-fb92-4994-948a-0bf16175a3d9,Mark Schultz,gibbsmaxwell@gmail.com,West Dawnside,Spotify,4994.91,Streaming Subscription,Visa,5.22,0
+0e15e693-ad07-43f1-b242-cab7ad20f680,Willie Davis,danielsoto@gmail.com,Kathleenview,Apple Store,2115.34,Car Rental,Visa,53.3,0
+55c0b779-4ee2-4ec6-8808-4d78901c5e49,Dr. Sheryl Key,powelljustin@gmail.com,Frazierland,McDonald's,720.06,Car Rental,Visa,13.11,0
+ae32bb6f-666e-4809-971f-f1b0445541e7,Ann Cooley,jose63@roberts.info,Juliechester,Uber Eats,967.04,Food Delivery,Visa,39.25,0
+45bf026e-c50a-4a08-9770-e5dcde8d5e57,Joshua Rodriguez,imalone@hotmail.com,East Justin,Uber Eats,1456.0,Online Purchase,MasterCard,3.97,0
+23857a09-272b-4adc-90de-28140b53e8c5,Angela Taylor,stevengordon@hotmail.com,Amandaville,Amazon,2267.91,Bill Payment,Discover,18.21,0
+f291a731-01f1-4517-9059-6ac78fb8bade,Joseph Rollins,pspencer@dennis.com,North Kathryn,Starbucks,987.27,Electronics Purchase,Discover,88.3,1
+c69f62a3-ec66-4c72-bd5d-84345a5bc2c5,Matthew Forbes,roachtammy@yahoo.com,Port Williamborough,Best Buy,2085.04,Electronics Purchase,Visa,10.8,0
+31c4f91f-ca85-4af9-9d60-88810ccc7f6b,Jennifer Schneider,colleenmoore@gmail.com,West Rogerburgh,Google Play Store,3425.3,Food Delivery,Visa,61.92,0
+64d4f5a5-cca5-4bfb-87f9-8060f6cdfa5e,Andrew Navarro,nmoody@hart.com,Smithburgh,Walmart,911.24,Car Rental,American Express,33.75,0
+988a7358-da12-4793-a02a-4843cac56416,Manuel Lewis,leegreg@parker.org,Kelseyfort,Nike Store,3221.71,Online Purchase,MasterCard,54.57,0
+b60c2cd9-f5e1-4042-bb1b-0c1ccee3af17,Arthur Watson MD,jake27@young.com,Schmidtport,Uber Eats,3690.65,Gas Station,Discover,34.84,0
+6389d3d4-b853-4c06-bb3f-c8c8635cbe90,Karen Riley,guzmannathaniel@yahoo.com,New Jonathan,Starbucks,2123.92,Gym Membership,Discover,52.34,0
+4c529eee-7604-4d70-8422-1af770c1f634,Karina Martinez,fmiller@mejia.net,Higginston,Adidas Outlet,175.51,Online Purchase,American Express,36.36,0
+199c3efd-d554-4cc4-a6ff-194d0a127811,Katherine Russell,aburns@yahoo.com,Victoriatown,Adidas Outlet,448.94,Car Rental,American Express,25.26,0
+68c11fef-b3b9-483e-a070-738c59e43773,Wendy King,krystalirwin@jacobs.com,North Janet,Walmart,4287.17,Hotel Booking,MasterCard,77.57,1
+81876907-cc6f-4e36-9a7e-184fba4b299d,Candice Medina,rogerslauren@hotmail.com,West Robertland,Target,804.36,Hotel Booking,Visa,7.95,0
+7b15792a-e4b6-4442-bc0e-43585f9fbfe2,Beth Gallegos,twells@nichols.com,New Kimberly,Target,1026.98,Grocery Shopping,Discover,15.35,1
+ad240d0f-bf7e-4e39-8142-2e4e6364f0bc,Pamela Walker,bwu@gmail.com,East Danielleberg,McDonald's,4188.38,Car Rental,Visa,83.85,0
+f7152877-02dc-473a-946a-89fbbce98d3b,Timothy Carter,durandaniel@jones-richardson.com,Tamaraborough,Target,4414.92,Hotel Booking,American Express,39.16,1
+aee8aa84-531f-4417-8374-d9c709cadff8,Bruce Mercado,kwillis@yahoo.com,Fitzpatrickfort,Amazon,1079.53,Car Rental,Visa,1.83,1
+15dc05d8-5572-405c-bc8e-ef592860bd56,Victoria Zimmerman,krystalmckee@jackson-hernandez.info,Cruzberg,PayPal Transfer,3093.02,Food Delivery,Discover,48.36,1
+2cf2ea9f-aef1-4033-81b0-daccac08a4ca,Adam Ray,coryfreeman@smith.net,West William,McDonald's,4354.83,Clothing Purchase,Discover,91.0,0
+ab294d60-8907-4539-8e92-a074b2014e0a,William Johnson,zachary05@yahoo.com,Rileyshire,Nike Store,4028.87,Food Delivery,Discover,26.19,0
+02ffb3f3-352b-4422-90a0-d3339de46ab1,Melissa Wallace,gabrielmedina@gmail.com,East Kelly,Walmart,714.47,Streaming Subscription,American Express,9.26,0
+d7eeffdb-54a5-42d6-8380-a20d79e24208,Michael Rodriguez,matthewyoung@campbell.com,Lozanoburgh,Amazon,1348.86,Bill Payment,Discover,70.8,1
+122de552-d2df-4242-b803-26d71026f095,Whitney Bates,kcabrera@velazquez.org,Lake Denise,Tesla Supercharger,709.65,Flight Ticket,American Express,77.72,0
+37efcf23-125d-4d2e-a0f6-742820f2b0dc,Brian Perez,cgarcia@gmail.com,East Ryanbury,Tesla Supercharger,1828.01,Car Rental,Discover,31.67,0
+daa82a2d-4c67-405d-917e-7b3f01596f81,Gabriella Simmons,michaeloconnell@watson.com,Samanthaberg,Walmart,2170.9,Car Rental,Visa,52.71,0
+4712350a-2731-4b43-a85d-6230714c03bb,Robert Hooper,iriddle@yahoo.com,Rileyport,Netflix,2819.65,Online Purchase,Discover,44.35,0
+f86e5c13-5843-4b80-89c7-69f295b8ec3c,Emma Clements,twilliams@gmail.com,Port Mark,Apple Store,2604.7,Food Delivery,Visa,10.14,0
+4f26ca79-e15f-40f8-a0f7-255c0b62613c,Shelly Frazier,todd18@hotmail.com,East Richard,Amazon,2517.02,Clothing Purchase,Visa,47.73,0
+260e67bc-c364-40c6-94f3-824bf1df2ede,Heather Guzman,michael54@smith.com,Jacksonland,Best Buy,1242.88,Online Purchase,Discover,28.52,0
+b5f32f0c-858b-40e5-a604-0d1e2ac077cf,Kenneth Nelson,kristingarcia@barajas-barnes.net,East Victor,Adidas Outlet,2295.53,Online Purchase,Discover,2.3,0
+f9973d4b-9bdc-40d7-aedd-ec9fd5f78a9d,Margaret Tran,brianjohnson@yahoo.com,Lewisville,Walmart,1480.62,Clothing Purchase,Discover,6.23,0
+8620b536-4195-40e8-b69a-654cd5ce44d7,Keith Cordova,sarah35@mcdonald-chung.biz,New Tiffanymouth,Starbucks,2595.6,Online Purchase,Visa,28.01,0
+78e4d184-635f-4af4-b78f-1cda74f6f7cf,Michelle Alvarez,rogersjimmy@robinson.com,New Erichaven,Best Buy,533.39,Bill Payment,Discover,22.29,0
+be6b49fc-42ac-47a3-9742-007af9f7e26c,Brittney Ortiz,melissapope@howard.net,Troyberg,Best Buy,412.61,Car Rental,Discover,14.05,0
+19b303c4-59db-4e79-af7a-49ec2ced5796,Elizabeth Mills,miajensen@lee-diaz.biz,North Casey,Amazon,3348.63,Electronics Purchase,Discover,7.42,0
+97bf252f-c549-4412-b64a-6a2b98ccb489,Logan Williams,kennedychristopher@gmail.com,Brownville,Tesla Supercharger,2891.62,Gas Station,Discover,57.95,0
+83413fd0-d6a7-45aa-b22d-19e21303a56a,Michael Banks,jfowler@gmail.com,Salinasview,Netflix,2970.7,Streaming Subscription,Visa,30.76,0
+702c8350-ae9a-4c2e-805c-b4ef76ed76aa,Kimberly Cohen,kevinfoster@gmail.com,Kingfort,Google Play Store,4239.88,Grocery Shopping,Discover,75.67,0
+f2d40139-584b-4ea0-be33-6ab6edd6d8c0,Jaclyn Barajas,russellblackwell@yahoo.com,West Gary,Apple Store,3228.66,Flight Ticket,American Express,67.82,0
+93172269-477d-442a-88fe-ffe58c459069,Kristen Johnston,richardsonjessica@gmail.com,South Karina,Best Buy,1276.2,Car Rental,MasterCard,46.81,0
+a5b1e50d-01cd-4686-976f-443d4110df07,Brent Webb,joe24@watson.net,Troyfurt,McDonald's,1149.35,Streaming Subscription,American Express,58.33,0
+0fdfd160-9a29-42cf-b131-634b814d4b9d,Joyce Jones,jenniferhenderson@yahoo.com,Andersonland,Walmart,4105.62,Gym Membership,MasterCard,19.5,1
+87b058a3-7752-472c-a2b0-57562d047246,Michele Gordon,juancook@harris-kline.org,South Andrew,Tesla Supercharger,1543.38,Flight Ticket,American Express,71.46,0
+530fb958-1aa4-4163-9bcb-0b4819a14ece,Patrick Booth,james77@gmail.com,West Williamberg,Target,4698.23,Flight Ticket,MasterCard,33.61,0
+e1e29a3d-c826-481f-86b0-697f20d856a9,Joy Martinez,xbrewer@gmail.com,Lake Gregorybury,PayPal Transfer,2523.15,Food Delivery,Discover,37.9,1
+33517818-ffc3-4e6a-b252-7cdcf492b216,Luis Simmons,andreamullins@gmail.com,New Jon,McDonald's,2805.12,Flight Ticket,Discover,73.61,0
+d1583f76-4f99-4ba8-beef-7fbbbc0d5da9,Dylan Rollins,lynn63@evans-branch.com,Colonfort,Best Buy,598.13,Electronics Purchase,Discover,49.67,0
+953aa506-793f-46bb-b965-3d512be7b541,John Hopkins,austincooper@gmail.com,Watkinstown,Apple Store,833.39,Online Purchase,Discover,93.99,0
+ba58a300-f717-47b7-a51c-463a468c7468,Gilbert Campbell,jbradford@gmail.com,New Amandaport,Tesla Supercharger,400.92,Electronics Purchase,Discover,74.51,0
+b37a1a32-a71a-4f58-82af-30725cb50784,Brett Evans,aprilatkins@yahoo.com,Paulaport,Starbucks,526.99,Hotel Booking,American Express,58.32,0
+3ff6e8e9-bde3-42af-ac44-8a3328dcfb78,Kaylee Wilson,dana54@yahoo.com,Laurachester,Starbucks,1898.51,Hotel Booking,MasterCard,70.81,0
+224eeea3-9ad1-4a43-bf84-1d425c1123c6,Erin Fleming,stephen92@yahoo.com,Santiagoview,PayPal Transfer,2376.96,Gas Station,American Express,58.97,0
+c9e17372-ef35-4f52-8ad3-c6f64a1164e5,Amy Smith,christownsend@yahoo.com,Brownland,Spotify,1275.5,Car Rental,American Express,30.39,0
+4b9fdf1d-9768-49a2-adbc-d328b2917e5e,James Sherman,anthony39@bautista-fisher.info,North Christinaland,Adidas Outlet,4409.79,Food Delivery,American Express,9.19,0
+f15fbfed-5945-44cf-867d-8cb176b97cf4,Amber Long,alvinwoods@gmail.com,East Xavierland,PayPal Transfer,1476.45,Hotel Booking,American Express,98.64,0
+4589af5d-2167-4946-9bb9-d5c2bf3bd25c,Christian Bartlett,kendragarcia@phillips-moore.com,Normanbury,Spotify,1853.39,Food Delivery,Discover,45.34,1
+b3498272-de38-4f97-9789-a5ae61114151,Edward Walsh,julie82@jordan.net,Connieton,Tesla Supercharger,158.13,Grocery Shopping,American Express,10.23,0
+df84f57a-3bfc-4c56-b5b4-8b9ec503a53b,Robert Bailey,sara02@lowe-robinson.net,Port Kellyburgh,Nike Store,1253.93,Grocery Shopping,MasterCard,44.67,0
+f4ab7900-dc69-4beb-99ab-897cce1a09d6,April White,amystewart@gmail.com,New Brendaside,Google Play Store,2643.48,Streaming Subscription,American Express,1.04,0
+fe211236-12e8-45b4-8890-4db419429225,Stephanie Olson,lschneider@hotmail.com,New David,Tesla Supercharger,4309.41,Clothing Purchase,Discover,72.02,0
+40b20365-5bde-49b8-83c1-64fa9493ee6b,Maria Williams,timothyhunt@hotmail.com,North Brandon,Amazon,1160.95,Food Delivery,Discover,12.25,0
+068b36aa-89e8-4fd0-8ca8-2776fac267c7,Andrea Vasquez MD,mwheeler@yahoo.com,Ericabury,Netflix,1653.77,Bill Payment,MasterCard,95.93,0
+af9c598c-1ce5-40fe-b95c-a11576c207c7,Jordan Mitchell,shawn77@hensley.com,East Stephen,McDonald's,3931.71,Flight Ticket,American Express,43.68,0
+f9af7875-5723-4f02-b7f0-d76016dbc679,Charles Barr,davidjames@adams-ferguson.com,Lake Michaelstad,McDonald's,666.41,Food Delivery,Visa,65.45,0
+76102e80-7bff-4e56-a60c-7ace835731e2,Adam Foster,jsmith@robinson.com,Davidborough,Netflix,2124.28,Online Purchase,Visa,53.14,1
+502ca91e-de05-4ca8-bafe-7a35e8a43afc,Chad Villarreal,brianrobinson@morris.net,Jacobsview,Amazon,3782.06,Hotel Booking,Discover,94.69,0
+c535e5c6-8882-4621-8937-ea76c76b29fe,Kevin Dunn,weberchristy@yahoo.com,Owensfurt,Walmart,1342.87,Food Delivery,MasterCard,2.79,0
+435a3ae6-df6a-4377-855b-663848dc9ae2,William Thomas,robert47@dominguez.org,Port Angela,Tesla Supercharger,4675.48,Hotel Booking,American Express,22.89,0
+b49fd638-d6c4-45dc-b4aa-69a2d9dc4f4a,Carol Ortiz,sotojulia@lewis.com,Jameston,Adidas Outlet,4393.19,Hotel Booking,American Express,94.86,0
+ba527dab-16fa-4d28-960d-2421f79589f3,Tim Graves,richard92@allen-mcdaniel.com,Lake Nancyshire,Tesla Supercharger,375.5,Car Rental,American Express,6.37,0
+4d8a59ea-b362-4a96-b502-f20e8bd2a325,James Norman,jefferypayne@yahoo.com,Port Dylan,Starbucks,1094.16,Hotel Booking,MasterCard,69.78,0
+218870d0-e5ea-4018-8316-de0616a4c31a,Nicholas Jenkins,donna19@gmail.com,East Meredithview,Amazon,3915.77,Clothing Purchase,Visa,48.32,0
+3d85dabd-c373-4e9b-9e20-4eecfd493abc,Adam Miller,mdavies@gmail.com,Riverabury,Netflix,3503.02,Food Delivery,American Express,83.86,0
+b07822fc-9079-4b96-867e-f5a77d695f8b,Melissa Wheeler,edwardfrost@brock.info,West Allison,Best Buy,1152.44,Online Purchase,MasterCard,98.15,0
+202465f7-96e9-4b65-9804-8130e7609e83,Scott Hubbard,nicole16@gmail.com,Lisaport,PayPal Transfer,523.22,Grocery Shopping,American Express,39.35,0
+e2538556-7e12-40a2-8b7e-e6ab89d490f5,Ryan Brown,bjordan@hotmail.com,Russellview,McDonald's,3612.39,Streaming Subscription,American Express,69.59,0
+f5dc3561-1805-4784-8cb8-97166c01c2dc,Linda Haney,andrea88@hotmail.com,Lewishaven,Spotify,1912.46,Food Delivery,Discover,49.77,0
+1d417426-b4cc-444d-b2a1-a223cf03acea,Lori Rodriguez,grantmegan@phillips-taylor.org,Laurenhaven,Adidas Outlet,3910.34,Electronics Purchase,Discover,45.33,1
+6a350446-f318-4c79-b1e9-dab5c882c0c7,Cheryl Allen,trevinodarlene@coleman.org,Port Alexandria,McDonald's,3716.01,Grocery Shopping,Discover,98.87,0
+28d35749-916b-42ae-8029-f7dd98567a1f,Christopher Wilkins,holmesmegan@hotmail.com,East Tarachester,PayPal Transfer,1418.47,Grocery Shopping,MasterCard,97.0,0
+538b7123-7681-4063-b940-4246f9824d92,Sherri Fox,mooredarin@yahoo.com,Marymouth,Amazon,2346.5,Gas Station,Visa,95.49,0
+d76649c4-b97d-42fe-a060-48eaafc2d7d2,Ruben Smith,kylejohnson@yahoo.com,South Benjamin,Uber Eats,1178.3,Streaming Subscription,Discover,66.21,0
+e69e1f59-127f-48ff-91b6-c85400c1ca13,Christopher Kane,jhughes@yahoo.com,Martinborough,PayPal Transfer,3127.94,Grocery Shopping,Discover,57.37,0
+7379d8b9-15ab-40f7-adb9-aaa6858f2cf1,Michele Weiss,scottjenna@garner.com,Port Michelle,Tesla Supercharger,4409.0,Bill Payment,Discover,40.68,0
+ac16df5e-bb1f-4294-bdff-6c925dd457c2,Mr. Bradley Hunt,alexisgray@yahoo.com,Lake Marymouth,Uber Eats,641.84,Gas Station,MasterCard,47.47,0
+f3774e2e-9a50-4c70-aa94-ce9ae4d8b6ee,Matthew Jones,donaldchambers@gmail.com,South Maryland,Walmart,2012.97,Grocery Shopping,Visa,58.37,0
+0bbdfdf2-6ec2-4dc4-a815-5d62b29c2c83,Tami Richardson,oflores@gmail.com,Dawnmouth,Best Buy,4799.42,Bill Payment,American Express,5.4,0
+8fb98d8d-97c3-4b8d-bd1f-489c294a465a,Amy Wheeler,waynehall@medina.com,Johnstonfurt,Adidas Outlet,3632.55,Car Rental,American Express,75.78,0
+6afa7c09-575b-46f6-8db6-de7f732955ea,Erika Martinez,molly30@gmail.com,East Timothy,Apple Store,3543.35,Gas Station,MasterCard,6.86,0
+7dffc7a2-7d55-47c5-be23-97dd3727fcd5,Alejandra Thompson,teresa07@berry.info,North Dianashire,Adidas Outlet,467.48,Food Delivery,Visa,69.46,0
+2fe2374f-52e4-41ef-a9ca-25d85236d197,Alison Cook,brownmark@martinez.com,South Kristin,Uber Eats,3600.45,Streaming Subscription,Discover,72.34,0
+a1ca954e-cf67-46c2-b53f-a954ecb242e9,Marcus Smith,cunninghamstephanie@washington.com,Cabreraport,Uber Eats,4028.18,Online Purchase,Discover,82.43,0
+7ae85933-f026-4119-9db6-7fdb93b451a4,Donald Garcia,anthony93@jackson.com,South Briantown,Tesla Supercharger,2060.65,Online Purchase,MasterCard,9.26,1
+cbc3d3d2-e724-417a-8b93-914f2ab8d2b4,Nancy Johnson,stacyblackwell@fuller-andrews.net,Murrayhaven,Tesla Supercharger,4327.45,Gym Membership,Visa,59.45,0
+b4f7bba9-e14a-47cf-b3fb-aa9e2c5dd311,Arthur Dunn,longalex@gmail.com,Figueroaborough,Adidas Outlet,3727.43,Hotel Booking,Discover,44.81,0
+0c059a57-77d5-4d39-9760-e880bb96b144,Michael Fitzgerald,alejandro01@hotmail.com,Lake John,Apple Store,3437.88,Streaming Subscription,MasterCard,32.12,0
+249ee318-eb62-43a4-8ec0-291b30319cc7,Eric Ball,pwilcox@gmail.com,Lisaside,McDonald's,2484.13,Gym Membership,MasterCard,33.29,1
+9fac4189-4719-40a3-8d0b-d09ed87d96f3,Yolanda Powell,uhorton@bryan.com,Courtneyfurt,Nike Store,1325.66,Food Delivery,Visa,64.91,0
+64012795-a4f2-4c63-a387-76ef8125456c,Eduardo Steele,gbass@gmail.com,Collinsfurt,Starbucks,1754.7,Online Purchase,American Express,37.23,0
+a5a430e4-7ffe-4aea-aac4-b3132b262e40,James Garrett,youngjessica@hotmail.com,New Matthew,Target,4843.86,Flight Ticket,Visa,36.02,0
+4783dd41-4b1c-420c-b643-aac2f7b0d44a,Valerie Jenkins,martinezann@yahoo.com,Wilkinshaven,Uber Eats,4284.85,Bill Payment,Discover,52.31,0
+3ff45b2b-41a0-4ada-aba8-f99535f2026f,Kenneth Barrett,michael80@hotmail.com,Lake Meganburgh,Adidas Outlet,1221.3,Flight Ticket,Discover,45.88,0
+f79b0a27-87f0-4608-87c6-2ce726af7e50,Philip Taylor,davidbarrera@white-duffy.com,Lake Rachelhaven,Spotify,2565.22,Streaming Subscription,MasterCard,33.98,0
+109b04c9-325f-4eae-8fa0-4e60a8a509d7,Daniel Barr,wangjoseph@gmail.com,East Amanda,Target,4277.68,Online Purchase,Visa,60.39,0
+18135ed0-112d-4799-aaba-f9b2f5cdb359,Joshua Vaughan,kimjohn@hotmail.com,Kristahaven,Netflix,304.88,Flight Ticket,Discover,80.33,0
+753c7697-3dc6-4ef8-845c-851577703f02,Tonya Buckley,ethanmcintyre@hotmail.com,Barbaraberg,Uber Eats,1977.77,Electronics Purchase,Discover,20.48,0
+f6400050-9f7d-44c5-928d-9cefbea7a82a,Mallory Lee,jay03@bowman-hunt.com,East Barbara,Starbucks,3663.74,Streaming Subscription,American Express,10.75,0
+92e0846f-014b-4bfa-8c6b-e08751468c81,Melissa Hull,racheldavies@yahoo.com,Janiceland,Spotify,2532.23,Streaming Subscription,American Express,93.07,0
+128f4edb-6f63-43f6-a4a8-d11003c809bc,Anthony Williams,samanthadavis@gmail.com,Lake Christinetown,Apple Store,1474.16,Food Delivery,American Express,32.71,1
+5eb8df03-abe7-447a-b35a-fbc36feed0f6,Katie Herman,yleonard@gmail.com,Lake Natalie,Target,2366.75,Gas Station,Discover,27.02,0
+fac03f32-19dd-4bd6-bc0b-114c3309934b,Frank Wise,mtorres@gmail.com,South Angelamouth,Adidas Outlet,2825.67,Online Purchase,Visa,32.88,0
+b182cb46-603f-4785-959d-5430a835ad0d,Adam Green,gregwhite@hotmail.com,East Cassandra,Amazon,742.24,Online Purchase,Visa,76.31,0
+990b16fe-214a-4a2f-8e35-2b2888244a58,Brandy Peterson,perryclinton@wells.info,South Kevin,Target,4447.51,Grocery Shopping,Discover,54.78,0
+7fbf6b3c-7d87-4e92-a93b-a2d2395026fc,Nicole Davis DDS,upalmer@jones-flores.com,Samuelhaven,Tesla Supercharger,753.23,Flight Ticket,Discover,82.01,0
+7f54a5da-f9b3-4729-b902-6986db342f45,Anthony Martin,icruz@rowe-martin.com,Jorgeborough,Spotify,2574.25,Food Delivery,Discover,42.3,0
+f4dac5ba-11fa-442f-9de2-24a06f9f2292,Gloria Coleman,sjackson@soto.com,North Bradley,Amazon,258.55,Bill Payment,Discover,11.98,0
+158ef098-4e3b-4194-86cb-33851f3728c3,Margaret Garcia,collierkatrina@yahoo.com,West Nicolechester,Starbucks,3471.32,Electronics Purchase,Visa,53.43,0
+82fb65e9-1105-4dc9-9132-b3620abf7f37,Brandi Lester,langsandra@rivera.biz,Michaelhaven,PayPal Transfer,2746.87,Bill Payment,American Express,96.55,0
+85c7fb2c-20fb-443c-ba04-466aea6a15c0,Laura Rhodes,rebekahklein@russell.com,Lake David,Adidas Outlet,4004.17,Car Rental,Visa,88.26,0
+e905a479-3830-4733-9f8f-e1421289d44c,Michael Burns,holly84@yahoo.com,Hernandezton,Tesla Supercharger,3686.97,Hotel Booking,Discover,74.17,0
+fd71187e-0918-4a1c-ac55-2e983a9524db,Erica Vargas,oconnormiranda@harrell.info,Glentown,Target,3329.74,Bill Payment,Discover,22.82,0
+8b3cc4ec-51c6-44a6-a5cf-9ad737c22489,Joseph Bryan,dcox@williams.net,Murrayton,Adidas Outlet,2499.89,Flight Ticket,Visa,66.69,0
+d177d706-fd2b-4c1a-bdfe-f973c9fb89b8,Michael Escobar,betty58@spencer-ward.com,Karenbury,Spotify,546.14,Clothing Purchase,American Express,49.08,1
+c1c5531d-1ddd-4f35-a85d-6c6f6586ef59,Mrs. Nicole Spence MD,brettsmith@munoz-brock.com,Deborahside,Spotify,291.79,Bill Payment,MasterCard,46.24,0
+df2ad9a8-f71a-443c-a3bd-4a932c6e5241,Brett Anderson,steven72@gmail.com,West Bradley,Best Buy,914.46,Hotel Booking,Discover,87.54,0
+ca0004ba-0639-4314-97ab-29c6a9111068,Brett Ibarra,harrelltracy@yahoo.com,West Laurenport,Nike Store,4128.24,Clothing Purchase,Visa,32.92,1
+99f99bab-18f5-4b5b-8e65-a30021a6365c,Dr. Justin Dawson,bmoore@villa-carroll.net,Sharpview,Best Buy,3581.59,Car Rental,MasterCard,94.05,0
+61337128-04c1-468c-8784-f85de987ca69,Andrea Williams,katelyn68@gmail.com,Dakotaview,Nike Store,3312.57,Gym Membership,Discover,78.99,0
+d30f3466-07aa-4096-b8e9-6afa11f25872,Shaun Osborne,yguzman@welch.com,Huntville,Apple Store,3943.01,Electronics Purchase,Visa,25.82,0
+a8af2ec2-07fe-4881-9973-2983f7d0eeca,Thomas Martinez,ofigueroa@rodriguez-andrews.com,Port Cynthia,Adidas Outlet,3951.25,Car Rental,American Express,14.4,0
+2fa168e4-0107-4bd5-a724-3b15d8ffc585,Erika Lopez,jasonwong@yahoo.com,Reynoldsmouth,Apple Store,3305.11,Flight Ticket,Discover,55.96,1
+68a9fb14-562f-4a9e-b716-7ae6cd6693be,William Thompson,cynthia99@gmail.com,Josephchester,Netflix,3088.26,Grocery Shopping,American Express,32.43,0
+c82edbc4-d1d3-437b-bd77-7ab1beb17314,Linda Graham,james19@murray.info,North Alexview,Uber Eats,3870.42,Online Purchase,Discover,62.89,0
+5fd68c0c-73e1-44ba-ad9e-59eacca3637a,Michael Reynolds,valeriethompson@hotmail.com,South Melanie,Spotify,4243.6,Clothing Purchase,MasterCard,36.02,0
+1de37958-f923-466a-ad51-b244e782a67b,April Wells,foxphillip@hotmail.com,Port Patrick,Starbucks,1803.5,Car Rental,Discover,4.52,0
+7880de64-9d07-4055-b60a-6cafef0971fe,Rebecca Lopez,velliott@yahoo.com,New Darlenechester,PayPal Transfer,2125.5,Flight Ticket,MasterCard,31.61,0
+75dbbd28-9b0c-4e31-a66d-0f7ddc58870a,Christopher Dillon,pwallace@gmail.com,Lake Rodneybury,Best Buy,4475.82,Clothing Purchase,Discover,59.52,0
+47904589-2b4b-4673-9fe4-66e4be638497,Logan Burgess,osmith@king.com,East Alexandermouth,Starbucks,4057.76,Flight Ticket,Visa,54.06,0
+d986e84b-0f6f-4ab1-9dc1-495a44b94590,Eric Gray,brianallen@ray-johnson.com,East Davidport,PayPal Transfer,284.42,Gym Membership,Discover,93.66,1
+fb93af59-47c2-4152-8941-261777aa3003,Christina Simmons,sarnold@thompson.com,East Ianville,McDonald's,2971.08,Bill Payment,Visa,12.86,0
+3a599b04-8782-4006-92b2-dd3dd9fc1fc9,Donald Fischer,williamsspencer@moon-sullivan.com,Amandabury,Target,190.56,Car Rental,American Express,95.29,0
+921daf88-68d1-4bab-90dc-aba2bb40c8f2,Heidi Bowers,richard33@hotmail.com,Lake Susanhaven,Starbucks,301.25,Online Purchase,Visa,33.72,1
+31c3b889-e16e-4eb9-a85e-c6635963a13c,William York,michael83@yahoo.com,Robinsonside,Spotify,2329.86,Grocery Shopping,Visa,19.46,0
+41556c3c-3d78-44e9-b880-d5cc76e0af41,Angel Hicks,jessica17@gmail.com,Macdonaldbury,Amazon,4559.21,Flight Ticket,Discover,50.57,0
+31029dc5-c0e7-4547-ad19-46fa8ae65254,April Lee,caitlinsmith@hotmail.com,East Danielstad,Apple Store,845.1,Bill Payment,MasterCard,5.63,0
+edcddc18-bb2a-4951-b70e-162ae824d698,Jesse Payne,melinda05@yahoo.com,Newmanview,McDonald's,3888.76,Hotel Booking,MasterCard,76.21,0
+7b389c19-87cb-420a-bc25-4ea3dc33c4fb,Michael Bauer,henryrobert@smith.com,Samuelmouth,Apple Store,3727.94,Bill Payment,Discover,12.49,0
+1df9dca1-b654-4cfb-99c3-01bcc26a1a4d,Cody Miller,kathleenramirez@mayer.info,Port Michael,Target,4293.44,Bill Payment,American Express,52.3,0
+f5e98755-034b-4df7-843d-21c9d0479b45,Benjamin Anderson,jerome20@holmes-hardy.com,West Alexandria,Target,4364.28,Food Delivery,MasterCard,92.79,0
+0d8c7ee7-a525-456c-94ae-760ee773c86a,Jeffrey Frank,sharon62@yahoo.com,West Carlaland,Uber Eats,4489.86,Streaming Subscription,American Express,21.54,0
+5d48e8a2-5036-45c7-b93f-134b4d3449bf,Cynthia Hart,richard16@yahoo.com,East Ronaldstad,Tesla Supercharger,502.55,Food Delivery,MasterCard,62.66,0
+8be9975b-4c29-4bd8-9ff1-8f54db5ad7ab,Daniel Farrell,andrewstone@rodriguez.com,West Jeremy,Google Play Store,970.99,Grocery Shopping,American Express,76.03,0
+ab1db34c-d768-4037-b864-44053f6aad44,Michelle Gutierrez,jacobscott@gmail.com,Lake Timothy,Netflix,2664.5,Streaming Subscription,Visa,74.46,0
+52330cc2-43cc-4670-b206-cae798edc274,Clarence Alexander,ronald11@herman.com,Lake Claireland,Spotify,568.37,Flight Ticket,Discover,4.33,0
+6a5dcd79-ec93-4574-bbd3-671faceba898,James Brown,ramirezjacqueline@hotmail.com,Carpentermouth,Target,2603.02,Bill Payment,American Express,34.05,0
+cbdc93fd-7351-4176-a5fd-f18bfbcac840,Emily Thomas,jameshernandez@silva.org,Lake Emilymouth,Target,2280.11,Gas Station,Discover,3.28,0
+d59b02d5-0a68-4ad7-b883-2a797550ddd8,Daniel Ballard,eluna@tucker-rivera.com,East Jeffreyborough,Apple Store,1251.72,Grocery Shopping,Visa,46.69,0
+567a1773-de02-4dad-8d20-148199d985f8,Robert Chaney,robertunderwood@wright-mendez.com,Lake Dawnport,Starbucks,2201.69,Hotel Booking,Discover,12.52,0
+81950d06-4949-4859-b704-3c088129a2d8,Austin Rodriguez,jonesalbert@shaffer.com,Mcbrideport,Adidas Outlet,4408.63,Electronics Purchase,Discover,58.74,0
+be409979-f891-4ece-a623-e61101dbc784,John Rojas,patrick19@hotmail.com,Martinside,McDonald's,3688.89,Gas Station,MasterCard,98.63,0
+9f61cc96-d481-4d95-b5f9-9f55f1181059,Laura Maxwell,michaelbruce@hotmail.com,Troyshire,Target,4694.68,Streaming Subscription,MasterCard,87.45,0
+73679a28-c957-4bd0-958a-729af4baa5ee,Brandy Bennett,jacobsonlisa@gmail.com,Lake Drewmouth,Starbucks,4683.17,Grocery Shopping,American Express,31.19,0
+89cae12d-591d-4a72-88cf-c0c4ec3bfea7,Anne Watkins,webersarah@harris.info,West Thomasburgh,Netflix,4309.18,Gym Membership,Visa,77.61,0
+cbfa4fe5-395f-4b85-9e17-fe1633911a22,Erica Simmons,drobinson@marks-ball.com,Michellemouth,PayPal Transfer,3475.09,Hotel Booking,American Express,17.3,1
+332a0f5e-af9a-40de-9bd4-315d85c082c6,Leslie Wilson,brittanybranch@wagner-smith.info,Brandichester,Google Play Store,3070.8,Online Purchase,Visa,12.43,0
+2c4eafdc-b2c1-43e8-ae25-2ab4a662338f,Kelsey Scott,jennifer63@yahoo.com,Robertborough,Target,3815.78,Hotel Booking,Discover,43.08,0
+0e78986d-17cd-4470-b6ae-ecafac27c825,Martin Fowler,jennatucker@yahoo.com,Wolfberg,Apple Store,3032.66,Food Delivery,MasterCard,24.66,0
+af4612c1-084b-4dc2-90b3-f50a5be12acd,Lori Holloway,pkennedy@savage-jackson.com,Hughesville,Starbucks,1305.06,Car Rental,MasterCard,7.92,0
+04cb4cc0-a6c8-4699-901c-8d6ec924a67c,Richard Price,tmorales@martinez.com,Brandonburgh,Starbucks,410.72,Bill Payment,MasterCard,11.4,0
+f931cbdc-3c6d-4caf-92d7-14ee066ed185,Nancy Klein,nelsonmaria@diaz.net,Harrisport,Apple Store,520.5,Flight Ticket,Discover,73.62,0
+5d8027ba-bd27-489f-8bda-244b14a6af57,Brittany Cowan,uaguilar@graves.net,Crystalside,Tesla Supercharger,1600.21,Food Delivery,Discover,83.08,0
+6fa71941-852c-421f-bf3b-6588572bd47c,Kyle Griffith,xdixon@oconnor-chavez.com,East Jeffrey,Walmart,753.41,Streaming Subscription,Visa,40.96,1
+5de8cb37-8757-4e3c-94a4-2f064edaa8b9,Michael Myers,ryanmaria@allen.org,Lake Kristina,Nike Store,125.39,Grocery Shopping,Discover,27.42,0
+e75945a4-664a-428f-a238-512800119363,Gregory Rosales,michael77@yahoo.com,Juliastad,PayPal Transfer,2116.33,Car Rental,MasterCard,59.61,0
+906274cf-16d9-42fc-9849-6411cebcc70f,Henry Montgomery,destinynunez@soto-choi.com,Michaelberg,Walmart,3372.49,Online Purchase,American Express,69.85,0
+787af1ec-be00-435c-a9c8-6ea4415d8240,Michael Gonzalez,xfields@yahoo.com,Kathleenchester,Best Buy,3977.93,Food Delivery,Visa,81.17,0
+554e0918-119b-4be7-9243-c9bd21c3be2d,Miss Stacey Durham,jean92@hotmail.com,Lake Taylor,Target,174.05,Hotel Booking,Discover,95.11,0
+a360f7bc-e36e-4933-9f1a-f7d55e6143d6,Rebecca Andrade,uwebster@henry.com,New Nicholasville,Spotify,638.85,Online Purchase,Discover,45.82,1
+6a9f960c-e7b5-42ae-b660-b6bb29f66e86,Michael Schultz,joshuaroberts@hotmail.com,South Charlesbury,Spotify,2534.2,Electronics Purchase,Discover,46.9,0
+67a8552c-c3d1-46cb-a7d1-c89f1e3cb391,William Butler,williamrandolph@little.com,North Jennifershire,Tesla Supercharger,2132.83,Hotel Booking,Visa,53.21,0
+11e9d260-c6de-48ee-afe1-0e8d15d7fd4d,Laura Mann,mmckenzie@hotmail.com,Port Jerrystad,Target,1934.54,Electronics Purchase,Discover,90.16,0
+ec9eb28c-3407-46f7-beb8-fb803f902dcd,Cindy Hill,janetgill@henderson.biz,East Hannah,Target,2466.72,Car Rental,MasterCard,25.62,0
+52c84cfa-56e2-4f6c-9912-2929498c702a,Juan Romero,bmason@cole-reyes.net,East Reginaldbury,Starbucks,4723.0,Clothing Purchase,Visa,66.82,0
+d11be5f3-415e-42e0-a5f6-f324349252a7,Vanessa Barry,onguyen@garrett.com,Tammytown,Apple Store,3365.65,Online Purchase,MasterCard,21.8,0
+39856952-ac5c-4e93-bd45-5a3870715439,Lindsay Lopez,julia58@williams.net,South Sherryburgh,Adidas Outlet,996.6,Gym Membership,MasterCard,89.45,0
+61e2606f-3303-447b-9b31-c7552ca11b10,Danielle Simmons,lmason@hotmail.com,Monicaburgh,Target,3395.25,Flight Ticket,Visa,6.85,0
+0e45b2b1-8ad8-46d6-870a-03a44ff0152c,Crystal Kirk,cookthomas@hotmail.com,East Karenton,Adidas Outlet,2888.62,Grocery Shopping,Discover,32.49,0
+d98e74b6-ffa3-453d-bf13-a4bd8daae8d7,Traci Sampson,bryansingh@burns-chapman.com,Mcdonaldborough,Nike Store,1616.48,Streaming Subscription,MasterCard,20.25,0
+45bdf7aa-5ec8-4cbf-afcb-466e9560a446,Scott Lopez,janet04@gmail.com,Tonyborough,McDonald's,7.5,Flight Ticket,Visa,46.12,0
+e808e019-88e0-4943-9890-e02804a8ccad,Shawn Juarez,melissaspence@gmail.com,East William,Target,4673.34,Electronics Purchase,Discover,8.76,0
+5a48ef2a-018d-41f2-b003-cb25400c2aad,Kristi Simmons,dianasmith@richardson-garcia.com,Robertborough,Walmart,4854.43,Food Delivery,Visa,41.54,0
+efce617e-4f14-4111-b393-ca2860ca4207,Robert Young,rodriguezlisa@yahoo.com,Jonport,Nike Store,26.01,Food Delivery,MasterCard,65.4,1
+c8e5678e-1bd3-43d6-8f49-d8e86cebb778,Amy Duncan,charleskathryn@collins.info,East Davidville,Netflix,1463.9,Online Purchase,MasterCard,75.93,0
+16b081bf-300b-4c24-b8ec-79c5631194c1,Paul Kramer,tnunez@roman.org,Lake Susan,Starbucks,2611.49,Gym Membership,Discover,79.4,1
+396a4845-3420-4e3a-9511-141e8d866c7c,Eric Miller,nancymorrow@hotmail.com,West Christopherton,Adidas Outlet,1472.71,Car Rental,American Express,65.49,0
+d406c299-5aac-450d-9637-7d07ad807a67,Katie Ochoa,dixonbarbara@johnson-huff.org,Taylorburgh,Adidas Outlet,3466.42,Clothing Purchase,Visa,56.48,0
+ccc59103-e917-4761-ae95-2259c1d231b8,Mr. Charles Paul,thomasbrewer@ford.com,Wongburgh,Starbucks,4048.13,Electronics Purchase,American Express,30.12,0
+5c860354-5428-4158-b18b-bae39a426a56,Ruth Booth,thomas09@yahoo.com,New Elizabethport,Adidas Outlet,1228.52,Hotel Booking,Visa,90.29,0
+94878dc2-88d2-48b9-a169-c58bef52b49a,April James,gina47@dalton.com,South Pamela,Amazon,76.07,Electronics Purchase,Visa,3.67,0
+ef2f8932-771d-4ae6-ade2-fb726a750d00,Jennifer Avery,thompsonroger@gmail.com,Ortizshire,McDonald's,2222.24,Grocery Shopping,Discover,82.26,0
+c786ccc3-64c1-404b-a5aa-4005b2b2dabf,Adrian Padilla,john81@raymond.com,South Michaelfurt,Amazon,374.1,Gym Membership,Discover,76.85,0
+a952424e-9663-4df6-b1bb-f986ff350a78,Elizabeth Castaneda DVM,robert03@murphy.com,Waltersshire,Adidas Outlet,1875.45,Electronics Purchase,Visa,77.41,1
+abbed974-d282-4b05-be6d-460fc12957f1,Brandon Jimenez,travis24@navarro.net,Emilyhaven,Spotify,2554.18,Gym Membership,American Express,94.38,0
+f2e97c86-d5d7-4fea-9441-6f2b5a6c9b7f,Teresa Graham MD,georgecynthia@hotmail.com,Victoriabury,Adidas Outlet,998.85,Gym Membership,MasterCard,68.47,0
+523d8190-5828-4c37-803e-36ac4bf99ba0,Laura Turner,sandrafrench@gmail.com,East Lisamouth,Google Play Store,2456.0,Clothing Purchase,Visa,10.6,0
+893be1aa-fabf-4256-a916-cb2d60cd1284,Briana Martinez,christinamccall@gonzalez-maynard.biz,Jennifertown,Tesla Supercharger,369.61,Food Delivery,MasterCard,47.36,0
+27160dc0-fe16-4caf-8209-c2dbff0c8968,Catherine Stephens,katie87@schultz.biz,North Erikaton,Apple Store,4242.98,Grocery Shopping,American Express,91.84,0
+cf24b3d9-e8fe-47c2-b7c4-3028e3be27b7,Johnny Page,rachelcampbell@carter.net,North Donald,Netflix,4672.59,Flight Ticket,Visa,80.93,0
+cb834877-f233-4fe4-b4b0-e5d1fb37bdc1,Christopher Hansen,vfarmer@yahoo.com,Patrickshire,Google Play Store,3357.78,Hotel Booking,Visa,29.89,0
+06ae4386-c18f-4f9c-b4b7-53601c039416,Raymond Williams,njohnson@yahoo.com,East Michael,Best Buy,3821.0,Car Rental,Visa,92.57,0
+7be79e53-4c16-4fca-8759-bdc749d602ec,Dr. Andrew Lowery MD,chapmankayla@reynolds.com,Kaylaville,Nike Store,957.74,Online Purchase,American Express,14.47,0
+f58e9a4e-a523-4c8a-a648-852644e7e82e,Natalie Williams,contrerasyesenia@gmail.com,Mooreborough,Tesla Supercharger,3137.81,Online Purchase,Discover,81.43,0
+695df5a8-9276-40bc-aee9-ac90a33b643b,Alexa Williams,nhowe@perkins.com,East Jenny,Apple Store,2025.41,Gas Station,Discover,57.69,0
+064d2e45-098e-4e5c-8d5f-681f85b00c7c,William Dalton,andrewsgina@gmail.com,South Roberttown,Adidas Outlet,3434.34,Streaming Subscription,Discover,27.17,0
+b8aeb71a-35ec-499b-95a4-55dd7c0c6efa,Alicia Thomas,perkinsmolly@ward.com,North Brandyburgh,Spotify,4716.65,Gym Membership,Visa,51.41,0
+0c745f52-9e4e-419b-a7c2-67ae20f8d2b9,Anna French,tyler16@peters-lee.com,East John,Nike Store,684.11,Grocery Shopping,MasterCard,72.17,0
+7b4b7c6f-d7d2-43b0-a8cd-4034d41b281c,Darlene Yang,travismadison@hotmail.com,South Amandastad,Uber Eats,2980.53,Food Delivery,Discover,62.51,0
+9b15061e-5bcd-4f3c-8416-f62a9e204b1e,Stephanie Walker,christophermiranda@gmail.com,South Thomas,Walmart,970.56,Electronics Purchase,Discover,66.52,0
+0c8fb417-235f-4638-b38f-1e8096e95366,Rebecca Grant,alvarezjay@anderson.biz,Lake Elizabethshire,Spotify,1405.73,Online Purchase,Discover,24.06,0
+8cf40671-55f9-4019-b9b4-f4b94763b6e4,Emily Barber,brownkathleen@gmail.com,West Ronaldshire,Uber Eats,603.56,Food Delivery,American Express,39.7,1
+0ff26de3-b44e-441d-810b-e37c69c16389,Teresa Romero,hillkatie@hotmail.com,Williamsside,Nike Store,4441.67,Online Purchase,Discover,47.15,0
+ca628a94-3cc3-4a37-a734-cfcc611968c4,Lisa Bird,richard87@mckay.com,New Melanie,Target,1903.33,Hotel Booking,Discover,28.77,0
+5480478c-8cf0-4185-85f4-58571f2a0043,Christopher Baker,gsandoval@green-scott.com,East Cindy,Apple Store,3974.92,Clothing Purchase,Discover,90.81,1
+90dd3ea7-62f2-4459-8e62-d97bf1b44c47,Lance Miller,gregory94@gmail.com,New Caroline,Uber Eats,1047.65,Gym Membership,MasterCard,64.35,1
+8fc528c9-c95a-48cd-827d-8b1e5ff784b2,Sarah Diaz,vickisilva@hotmail.com,Michealfort,PayPal Transfer,1826.42,Electronics Purchase,American Express,19.06,0
+6f85e52b-767d-4762-9240-e05be2540268,Mason Johnson,justin08@hicks.biz,New Josephhaven,Uber Eats,1141.29,Car Rental,MasterCard,89.05,0
+a1393ca5-a803-4360-94c2-5630763b62b9,John Haynes,annetterowland@hotmail.com,Port Markside,Netflix,1399.28,Car Rental,Visa,38.54,0
+a55bcab5-9790-452d-bdbb-1e9016707aa0,Trevor Oliver,jameskim@yahoo.com,Kennethmouth,Nike Store,1271.93,Gym Membership,American Express,1.99,0
+74022dec-d3a9-46cb-a2f3-d2124456efb2,Jane Bradford,vincent46@thomas.com,Fisherfort,Walmart,4137.64,Grocery Shopping,MasterCard,44.83,1
+b0baa287-3c5a-4350-9643-b537edced7c6,Brenda Ramirez,joneskevin@deleon.com,Brianmouth,Best Buy,2929.67,Flight Ticket,American Express,81.35,0
+1c2a89a7-807b-446b-9f9c-70b84a68a53b,Teresa Gray,vanessamorris@hotmail.com,East Nathanberg,Google Play Store,3400.99,Food Delivery,Visa,74.44,0
+2a81959e-6dcf-47bb-bdd6-f31631280444,Logan Freeman,lorimcdonald@cook.com,Martinshire,Amazon,1818.99,Flight Ticket,American Express,19.48,0
+9701f8d6-ab8c-46f7-8aa6-c358886cfee8,Jordan Rodriguez,tlee@sellers.net,East Rebecca,Apple Store,1685.06,Online Purchase,Discover,72.74,0
+5390e669-d942-4ac3-9de4-a69607fa307f,Manuel Parker,haileyjones@keller-johnson.com,Sandramouth,Starbucks,4316.03,Food Delivery,Visa,4.0,1
+0041c486-b00f-4b48-9b54-91865bff82ea,James Campbell,ashley84@johnston-wright.info,West Laurabury,Apple Store,5.23,Hotel Booking,Discover,39.58,0
+5bbae4c6-b9de-4bdb-9435-1e0a5a98d1cb,Evelyn Lee,ntate@hotmail.com,Angelaborough,Walmart,645.89,Online Purchase,Visa,17.43,0
+1a319826-0b4b-49d4-b2a3-50935248c5ac,Joshua Mcknight,mmcpherson@gmail.com,Lake Maria,Netflix,2343.25,Bill Payment,MasterCard,51.4,1
+2f894140-2fc8-4391-94ee-bebfb5023b3a,Miss Amanda Hernandez DDS,gnicholson@yahoo.com,Knightside,Apple Store,4396.68,Bill Payment,Discover,81.14,0
+859ab1e4-ae01-4f6c-b922-eac78b0b1585,Tony Duncan,patricia29@freeman.info,Maldonadomouth,Tesla Supercharger,3740.47,Electronics Purchase,American Express,50.38,1
+0adcfbc2-efc9-4c2a-b09a-a9722351e3ff,Jessica Franklin,frankwilson@hotmail.com,East Jenniferside,Adidas Outlet,3982.17,Hotel Booking,Discover,51.34,0
+fc0a3cb7-15ae-40e1-8aff-7fdc825486dd,Rick Williams,ysullivan@black.com,Kirktown,Nike Store,4173.83,Online Purchase,Visa,18.5,0
+9fe2c875-be5b-45a3-b30f-995bdf9def9e,Jack Walker,williamsdanielle@gmail.com,Douglasberg,Adidas Outlet,1074.46,Food Delivery,American Express,45.04,0
+185e151a-156f-4798-a9d6-413a09c24d0c,Larry Pittman,yfry@powell.com,Courtneybury,Tesla Supercharger,2357.39,Car Rental,American Express,16.14,0
+4a1f5f10-f116-45f7-b0f4-31881ebf0cf7,Betty Mays,martharodriguez@winters.com,West Lindsay,Apple Store,1541.39,Grocery Shopping,American Express,25.13,0
+7c6bbead-baf0-4ae2-9b7f-9dc224b4edb5,Amanda Barber,phillipsryan@gmail.com,Myersmouth,Target,2733.56,Food Delivery,American Express,77.23,0
+3c531298-7a4d-497a-a6bd-50ca7956b40b,Kelly Watson,knelson@faulkner-combs.org,Port Robert,Best Buy,4757.03,Bill Payment,Discover,41.96,0
+53e4e295-6983-4c2b-860b-cd3b4ec4db60,Allen Buchanan,ashley51@morton-cummings.com,Markmouth,Tesla Supercharger,3593.54,Flight Ticket,Visa,79.94,0
+d568c52d-8d2c-4301-b3c8-358a052d9575,Brad Livingston,christianolson@gmail.com,Coleburgh,Adidas Outlet,2243.88,Online Purchase,MasterCard,84.35,0
+723124df-8d8f-489f-a4af-b6a79080c02e,Calvin Gillespie,dbautista@gmail.com,Williamsview,Nike Store,1290.43,Streaming Subscription,American Express,67.95,0
+b7a8c351-11db-4db3-b4ef-891232d9a9a1,Zachary Smith,christopher84@gmail.com,Candiceberg,Uber Eats,2982.65,Gas Station,MasterCard,23.46,0
+8542972b-7ebc-47eb-9a2d-a6849232b695,Nicole Alexander,joseph18@yahoo.com,Johnsonton,PayPal Transfer,4173.19,Online Purchase,Discover,67.15,0
+79867149-bffa-479f-a21b-c8f19ea628ef,Danielle Smith,traceyfranklin@rowe-johnson.biz,South Andrewview,Best Buy,2234.29,Hotel Booking,MasterCard,43.25,0
+5e148deb-6bc5-4300-b003-08af2c1613b0,Kimberly Marquez,shannonwatkins@hotmail.com,Port Douglas,Spotify,1949.75,Car Rental,MasterCard,23.03,0
+8daaa21b-fa96-434c-ac59-770edddd171e,Michael Miller,courtneylynch@mcpherson.com,Lake Shanemouth,Amazon,3984.51,Electronics Purchase,MasterCard,65.1,0
+20a97f2f-b3a0-4aef-9441-77b4bca5d854,Timothy Patterson,cleonard@diaz.com,Thompsonburgh,Amazon,2333.62,Hotel Booking,Visa,57.31,0
+905d7007-290e-4137-923a-ba922440df4c,Susan Barrera,smithjenny@goodman-sanchez.com,Craigfurt,Walmart,4818.7,Flight Ticket,Discover,19.93,1
+62705388-cab1-420b-9579-8dadd118ba3a,Jonathan Payne,ypage@lewis.biz,Youngview,Uber Eats,3961.57,Car Rental,Visa,64.14,0
+2b991c69-4a85-4a09-88c6-4ee1bbe75fd8,Kristin Herrera,petersonkevin@williams.com,West Victoriamouth,Uber Eats,3253.52,Bill Payment,American Express,18.65,1
+45f6c7b9-96db-4a02-a122-848f7eb1c153,Tyler Flores,derekanthony@hotmail.com,Lake Danielview,Spotify,2028.5,Food Delivery,American Express,44.71,0
+97141f46-c9d2-434d-a82d-e42814b5594e,Sandra Barr DVM,nmcclure@hotmail.com,South Bradleyburgh,Amazon,4022.12,Clothing Purchase,Visa,35.62,1
+5584ebe2-9ba3-4be1-b4c7-6dc53cf2981b,Kathryn Lee,stephanie14@steele.com,Armstrongchester,Best Buy,3071.22,Food Delivery,American Express,83.9,1
+dacadd37-0c47-4924-9bfe-5ce362bd37e3,Roberto Watson,jennifer08@gmail.com,Gomezport,Starbucks,3851.71,Streaming Subscription,MasterCard,10.9,0
+97a6b66e-b566-4fd7-8fc4-f0e95419462b,John Smith,oharris@yahoo.com,East Steven,PayPal Transfer,2597.49,Grocery Shopping,American Express,10.26,1
+441fbe07-61e5-4014-ab2f-aabe45f67ad2,Brandon Tapia,gonzalezalexandra@yahoo.com,New Jeremy,Apple Store,3222.37,Flight Ticket,Visa,50.49,0
+9e0b3558-0d58-42b4-b03f-7b641b058940,Reginald Carter,heather48@yahoo.com,Richardsonburgh,Amazon,2831.37,Clothing Purchase,Discover,68.23,0
+0f8df18d-3a2a-4cae-b0b9-a29726758983,Ashley Smith,robertcollins@yahoo.com,Whiteview,Netflix,1632.41,Gas Station,MasterCard,41.55,0
+3794e598-1bdf-4e7b-8ff8-68fa852bf76b,Heather Cordova,lori44@gmail.com,West Antoniobury,Apple Store,2372.22,Gas Station,Visa,66.86,0
+7bad9c3d-9cbd-4eda-a4bc-c4dc032755ad,Jacob Guerrero,calvin90@montgomery-williams.com,West Stephanie,Starbucks,2084.73,Car Rental,American Express,30.12,0
+cdec1fdc-39af-4920-b7c1-3f3d2fdaea73,Linda Moran,arroyoadam@morrow.org,Shannonchester,Tesla Supercharger,93.97,Food Delivery,Visa,26.11,0
+024b19a5-d9eb-4ad7-93b7-a93f6a4b77a4,Christine King,brendacoleman@yahoo.com,Nicolebury,Amazon,3962.63,Flight Ticket,MasterCard,74.81,0
+7ca816f3-d4ac-4715-80ea-e7baac39a829,George Stewart,jennifer01@gmail.com,Port Jacquelineside,Nike Store,2273.29,Flight Ticket,MasterCard,40.9,0
+14bc8d5d-8cc4-4144-8940-7a6bfce31d9b,John Sanders,swong@yahoo.com,Annaberg,Target,401.56,Gym Membership,Visa,23.15,0
+cb9f4b05-ed4e-45d6-881a-89bc095af430,Lance Smith,michelle65@hotmail.com,Lake Patricialand,PayPal Transfer,1311.32,Streaming Subscription,Discover,29.91,0
+d164b955-5922-4567-903d-0399bd9d853c,Nicole Maldonado,pherman@watson.com,Haydenside,Uber Eats,2072.68,Streaming Subscription,Discover,86.64,0
+86d1b957-64dd-411a-9fee-ed0fd0a4508a,Brittany Carter,usanchez@hotmail.com,Susanburgh,Tesla Supercharger,2628.35,Bill Payment,MasterCard,89.24,0
+1028d90b-a345-473e-9134-5432a1d719c4,Dr. Anita Lee,glenn51@thomas-hall.info,Barrettfurt,Walmart,4780.06,Online Purchase,Discover,3.45,0
+af91b999-29bc-4161-84f5-7cc05a8f42e9,Christopher Phillips II,jillian84@shaffer.net,Youngville,PayPal Transfer,1699.59,Hotel Booking,MasterCard,37.81,0
+058f71c3-a0b4-4ded-815c-9bf2d0796951,Trevor Brown,armstrongveronica@gmail.com,Lake Dustin,Walmart,1989.62,Hotel Booking,Visa,46.25,0
+5f5ae66d-c200-47b8-9678-39993de590e1,Brandon Barnes,lbrown@aguilar-wilson.com,Jamesville,Amazon,1638.05,Grocery Shopping,Visa,82.99,0
+a4e855e7-db6c-4659-a28b-24470937822c,David Walker,melissavaughn@yahoo.com,Lake Joelville,Best Buy,3822.55,Grocery Shopping,Visa,57.5,0
+a535dd03-76bd-432a-96ca-0c3c1e1e9123,Christopher Martin,cruzlynn@hotmail.com,East Eric,Nike Store,3828.21,Clothing Purchase,Visa,87.83,0
+b8d4aa18-2659-4cb6-8499-a8bdfcbeee60,Greg Powell,rayeric@yahoo.com,New Patriciaberg,Target,3998.63,Gas Station,Discover,97.27,0
+0c2279ab-156e-4ad6-9000-809aad0a07b4,Wendy Simmons,wmann@smith.net,South Stevenchester,Nike Store,116.62,Gym Membership,MasterCard,27.07,0
+361f22e9-2bd9-4599-9472-c9923a014033,Jade Casey,clinenicholas@hotmail.com,Meyersland,Google Play Store,2543.41,Car Rental,Visa,53.25,0
+b1e7e5c2-8cf5-4cb3-9935-9b5eaaefacd6,Christopher Green,powersevan@david.info,New Alexismouth,Walmart,3120.92,Online Purchase,Visa,87.43,0
+4367157b-ade1-4be8-a984-c6556e2dcf09,Susan Jones,sanchezcatherine@hotmail.com,Estradatown,Tesla Supercharger,1048.52,Flight Ticket,MasterCard,61.92,0
+2b4b7eb7-c037-42c7-813c-1ec79237a050,Peggy Marks,keithhartman@castro.com,Wyattborough,McDonald's,1555.16,Grocery Shopping,MasterCard,11.7,0
+928011d6-f161-49cb-8edb-8383250f35b4,Susan Nunez,fisherrachel@wright.com,West Thomas,Apple Store,3066.46,Electronics Purchase,American Express,64.96,0
+70fa8e5a-18b9-4cc9-984b-22e0794649d3,Jordan Alexander,bethhill@mcdonald-fox.com,Robertton,Nike Store,4687.64,Flight Ticket,Discover,88.93,0
+b8a31c93-01fc-40df-8e7b-7d7e0cd982ba,Sharon Lewis,amy46@rodriguez.com,Lake Brittany,Amazon,4367.6,Food Delivery,American Express,26.3,0
+140e038a-bddc-4cd8-87a4-10b52d906480,John Williamson,oconnorrussell@hotmail.com,New Allisonville,Starbucks,616.96,Streaming Subscription,Visa,12.03,0
+bac1df66-b15d-4a8c-84e0-dcdffdcf90bc,Teresa Peterson,qhernandez@johnson.com,West Seanland,Google Play Store,3701.39,Gym Membership,Discover,86.16,0
+75da3436-0570-4193-bd35-a89ee805114a,John Howell,benjaminbright@fitzpatrick.info,South Stacyshire,Amazon,2756.29,Bill Payment,Discover,7.41,0
+184707de-0491-443c-8c9d-a6d0eb227ed9,David Jarvis,martinezmichael@gmail.com,Ericborough,Tesla Supercharger,4912.78,Flight Ticket,MasterCard,68.86,0
+ada2ca4c-298c-4915-9522-f6b0aba8570f,Jennifer Stephenson,danielbowman@yahoo.com,North Darrelltown,Adidas Outlet,503.77,Streaming Subscription,American Express,82.1,0
+d980f3df-ac70-4a2e-90af-5d7d37b9cfd7,Gregory Shaffer,kevinhall@yahoo.com,Moraland,Target,744.0,Electronics Purchase,Visa,37.97,0
+2f8158f4-d626-490e-88f0-286926c3848c,Daniel Gonzalez,boyeranna@webb-roberson.com,West Joshua,Starbucks,2374.79,Electronics Purchase,Visa,47.99,0
+ca8d5047-08c2-4194-89d3-3eedd0dbe4b5,Jose Hall,juliacurtis@hotmail.com,Schneidertown,PayPal Transfer,4101.94,Hotel Booking,MasterCard,80.28,0
+a1c63e36-0861-408b-ae1b-f62d8140579a,Maria Ponce,vwatts@hotmail.com,Lawrenceland,Amazon,3942.91,Clothing Purchase,American Express,83.32,0
+4448e30b-276d-46e9-9e94-b8c75e9d43ca,Donald Evans,blanchardpamela@hotmail.com,Bethanyshire,Adidas Outlet,4739.31,Gas Station,Discover,42.12,1
+247e7086-d074-4b8e-8c87-8b507c208c42,Christopher Rivera,xyoung@yahoo.com,Kramerchester,Spotify,2890.63,Streaming Subscription,Discover,19.23,0
+0593003b-d0d4-4f8e-8da0-669a7bd477c5,Kathleen Gonzalez,annettelynch@yahoo.com,Christianshire,Netflix,4798.11,Gym Membership,MasterCard,14.72,0
+842b315d-0e87-4ad5-856c-f0dec467c3c0,Ryan Sanchez,johnbridges@yahoo.com,Andrewland,PayPal Transfer,2158.98,Bill Payment,American Express,39.16,0
+c422bdbb-66a3-41b3-90f5-da39c2ed97f6,Dana Davis,nicholas90@medina.com,New Haleyhaven,Nike Store,4961.23,Car Rental,MasterCard,75.03,1
+db490420-b870-4ff9-8243-135bbfb0a30b,Matthew Bowers,brittney90@gmail.com,Ryanchester,McDonald's,2848.71,Gas Station,Visa,48.07,0
+d6874dba-1c8d-4102-96bf-c79ba3df1c4a,Crystal Smith,dawnwilkerson@mercado.com,Josephland,Uber Eats,790.07,Gym Membership,Visa,80.12,0
+91b4f4ce-16a6-4079-809f-0615d6d5a3a5,Timothy Carr,isanders@hotmail.com,Jeffreyville,Netflix,4043.12,Streaming Subscription,Discover,31.77,0
+cfdd2b24-7654-460d-b092-47b22f3602c8,Victoria Moore,jenniferjohnson@yahoo.com,North Ericside,Uber Eats,1820.8,Clothing Purchase,MasterCard,65.1,0
+1ea72f59-d5e4-4824-b4f3-052042227825,Xavier Gonzalez,jacobjimenez@graham-rose.com,Donnaview,Target,3726.36,Grocery Shopping,MasterCard,9.56,0
+07815b2f-1d9d-4b5d-adb7-40a9461197d7,Richard King,michael65@yahoo.com,Jamesport,Tesla Supercharger,2145.66,Hotel Booking,Discover,69.92,0
+05a0c16f-7619-464c-ae85-b77950faa4ab,Jennifer Jones,cmiller@gmail.com,Williamville,Spotify,1714.83,Grocery Shopping,Visa,17.77,0
+23da1b90-5da3-4d57-99d1-dcd4657ff314,Annette Estrada,dbowman@harris.org,Port Thomas,Apple Store,4962.26,Bill Payment,MasterCard,6.27,0
+1c722816-1097-455e-956a-9392aec2dd6e,Amy Green,sherry11@hawkins-taylor.com,East Victoria,Apple Store,908.33,Grocery Shopping,MasterCard,20.12,0
+ad5b66d4-7adf-4a85-a782-095e6d17bf86,Diane Patton,fjones@clark.com,North Kenneth,Starbucks,3158.29,Gym Membership,Visa,65.93,0
+574745f1-8aee-4536-aab2-db612978cf89,Joshua Ware,allisonmorales@ellis-lopez.org,Cassidystad,Target,1979.88,Electronics Purchase,MasterCard,28.28,0
+df892ebc-9437-4ad4-b017-52a60401860f,Christopher Smith,wagnerrobert@morrison-reynolds.com,Port Tommy,Starbucks,992.85,Streaming Subscription,Discover,89.91,0
+4e9bea3d-4493-414c-87ea-5df64bd4191a,Melissa Brown,slewis@yahoo.com,Mcclainfort,Tesla Supercharger,4290.63,Car Rental,Discover,11.37,0
+3ab38920-4431-4424-b011-25924a578a37,Patricia Johnson,monicasmith@nguyen.biz,Lindastad,Starbucks,1556.69,Hotel Booking,Discover,26.69,0
+d1a19e6a-db9f-4065-b8bf-3f69f6c5a998,Derrick Pace,cgarcia@gmail.com,Griffinberg,PayPal Transfer,3434.92,Car Rental,MasterCard,73.12,0
+ddb02720-d9aa-406f-bb6a-9da44d0afb59,Zachary Stone,hhopkins@smith.biz,Brownbury,Netflix,1737.96,Electronics Purchase,Visa,26.87,0
+ee244d8e-f8af-4ab5-ac23-3cabd47d6c1a,Sharon Byrd,brendanwilliams@porter-gonzalez.com,South Ryanside,Nike Store,2849.87,Online Purchase,Discover,11.65,0
+5111bbb9-855b-43c3-9d6b-38b9c74ae69f,Jonathan Walker,vsutton@larson-coleman.com,Stevenbury,Uber Eats,4611.12,Flight Ticket,MasterCard,55.74,0
+c50bb650-7a5a-4db0-8b07-fe7b8ba5ff2e,Jacob Williams,hwelch@allen-hart.com,Seanshire,Google Play Store,3719.6,Online Purchase,American Express,12.62,0
+beab57cd-4802-4b78-991b-a082e03cdd9c,Miss Christina Smith DVM,cgamble@hotmail.com,South Patriciafort,McDonald's,3403.04,Gas Station,American Express,52.75,0
+50dc8a43-f868-49f2-bf0b-804c21cb6408,Kathryn Frost,susan37@hotmail.com,Kevinton,Walmart,3216.14,Electronics Purchase,American Express,9.61,1
+79a803eb-c2a1-4bfc-8844-53d0ef0fd719,Courtney White,david38@galvan.com,East Jasonberg,Target,1477.97,Hotel Booking,American Express,58.68,0
+b17323d4-070c-4ec2-9ac0-522c491b0adb,Justin Scott,tara72@riley.com,Laurentown,PayPal Transfer,810.48,Electronics Purchase,MasterCard,81.05,0
+9905ef94-ec7b-45ed-979d-b74d7bc6c773,Darlene Wilson,rwright@hotmail.com,Thomasfurt,Walmart,415.44,Food Delivery,Discover,81.52,1
+bc412909-8e1a-4616-a243-bbddeb9339b8,Joseph Morris,emayo@jimenez.com,Port Lucas,Google Play Store,859.1,Food Delivery,American Express,44.11,0
+7acd7d95-4b5c-4f9e-b9b7-3fcd85425c48,Aaron Wright,nsherman@yahoo.com,Lake Charleschester,Google Play Store,635.29,Streaming Subscription,American Express,68.43,0
+15f5976e-b602-41c8-99ff-5ca9c490d1b0,Theresa Collins,vincent39@gmail.com,New Rhondashire,Netflix,4057.16,Clothing Purchase,American Express,5.73,1
+194990ad-9aec-4a02-9a44-f48f602d4420,Anthony Morris,katelyn40@hunter.com,Craigtown,Apple Store,4336.62,Electronics Purchase,Visa,29.29,1
+3f25709c-03fe-47f1-a73f-e774044c6f65,Brian Wright,jasonharris@hotmail.com,South Rodneyport,Target,1347.3,Electronics Purchase,Visa,27.16,0
+a1e18296-d2b8-4811-b403-ca7de14be9f6,Taylor Huynh,amyingram@rosales.net,Santosport,Nike Store,4405.75,Car Rental,Visa,68.09,0
+53806a81-9dda-4eea-b84b-00c51fed88cf,Amy Cervantes,eric78@gmail.com,Stevenstad,Google Play Store,1401.3,Car Rental,American Express,21.2,0
+2c1828ef-4448-4aaf-bc00-b2793caa0850,Mrs. Cynthia Garcia,hdavis@hotmail.com,Lauraton,Starbucks,2775.61,Bill Payment,Discover,47.37,0
+e5fd573e-7707-4bdb-ad22-8b35102d81b8,Christopher Cunningham,ifitzpatrick@castro.org,Allenstad,Tesla Supercharger,4658.66,Gas Station,Visa,18.56,1
+c3a0e925-6e12-4a3b-8a89-023ff2e08026,Willie Smith,ramoskevin@gmail.com,Derrickborough,Spotify,1671.54,Food Delivery,MasterCard,86.81,1
+139dc771-e7f7-4650-9b3e-f641f0bf7800,Anna Wang,sbarnes@gmail.com,Mosleyport,McDonald's,2481.18,Streaming Subscription,American Express,51.79,1
+2666107e-2052-45e5-94f1-2aaa12ea9714,Jack Keith,jeffreytaylor@johnson-mendoza.com,Steeleborough,Adidas Outlet,3988.98,Car Rental,Discover,90.76,0
+e41e0233-8943-4be4-bc71-f0ffe3946680,Anne Lynch,garciaethan@hotmail.com,Bobbyborough,Amazon,617.8,Food Delivery,MasterCard,94.25,1
+25a2f947-48b9-46e6-8877-3a06f827c4b6,Matthew Moreno,ryangaines@yahoo.com,West Erin,Amazon,3129.88,Car Rental,American Express,38.91,0
+bc958467-4be7-41cd-80f7-fad66c027c22,Kyle Miller,cathyherrera@hotmail.com,Lake Mariaburgh,McDonald's,907.92,Online Purchase,Visa,2.3,0
+2f04f14f-276a-4050-9144-621eef18dc89,Ricardo Turner,lloydjonathan@gmail.com,Port Lisa,McDonald's,3888.12,Hotel Booking,MasterCard,30.65,0
+e16af3bf-5485-4d05-a5fb-48581e7b7382,Michael Hernandez,deanjeremy@martinez.com,Eileenstad,Amazon,499.42,Clothing Purchase,American Express,24.94,0
+9800f6b2-76f6-4dc2-9551-24eb00cf52fc,Darren Graves,matthewstewart@santana.biz,South Andrewberg,McDonald's,1675.49,Flight Ticket,Discover,90.58,0
+490d4870-179f-46a6-a3cf-7f5d149ed539,Veronica Kirk,lbradley@gmail.com,Bonnieside,Best Buy,3345.1,Hotel Booking,Visa,58.3,0
+f4399710-8776-421f-b827-b3d14a5ccffe,Kaitlyn Savage,pearsonjames@gmail.com,New Dennis,Starbucks,492.83,Clothing Purchase,American Express,34.13,0
+fcf909b2-0fef-4bf4-8418-11cf837f142b,Jeffery Kim,bgarcia@yahoo.com,Port Anita,PayPal Transfer,1404.02,Online Purchase,American Express,74.11,0
+11bbc236-cc37-4372-a93e-42131eef7992,Alan Davis,billy21@contreras.biz,New Melissatown,Tesla Supercharger,1688.79,Grocery Shopping,Discover,31.43,1
+4bbd996e-8068-469d-afd7-ce3b9996ed01,Hannah Peterson,tricia89@anderson.org,North Anthonymouth,PayPal Transfer,1104.9,Clothing Purchase,Visa,35.75,0
+0aa16dca-15f0-48f8-b1c9-69504d2af06d,Marc Baird,amanda10@hotmail.com,East Amanda,Spotify,4093.25,Gym Membership,MasterCard,90.04,1
+6ae50936-c8b5-4d7b-962b-170511ed27bd,David Anderson,dgraham@yahoo.com,Mosleyton,Amazon,2384.23,Grocery Shopping,Visa,95.39,0
+a54c2269-2a09-4f23-bf7a-5404cb4096ed,Jennifer Nelson,juan98@price.net,North Kathyborough,Adidas Outlet,2495.65,Streaming Subscription,American Express,63.39,0
+a3c5bc98-66ca-400a-bd4c-f01732644273,Connie Johnson,ivillarreal@hotmail.com,New Taylor,Walmart,3969.89,Gas Station,Discover,33.55,0
+523cefc8-e3a0-41d3-a26b-5404879ab07a,Jenna Montgomery,oscar21@gmail.com,Warrenstad,Google Play Store,4908.83,Gym Membership,American Express,21.89,0
+0a6d8ff9-a0ce-40bf-a140-573a4fe5831e,Dr. Alexis Henry,shelly25@yahoo.com,Lake Nathaniel,Uber Eats,32.6,Streaming Subscription,MasterCard,33.4,1
+9f1f1d39-418f-484d-88cf-f6a227e4e877,Michael Goodwin,adelgado@yahoo.com,Lake Abigailside,PayPal Transfer,399.02,Bill Payment,American Express,78.05,0
+f8cdd7b4-de64-4052-806e-3bf10efc43cd,Edward Wise,stephanieyoung@yahoo.com,Connorburgh,Spotify,3111.38,Online Purchase,MasterCard,1.04,0
+49b30238-59f5-4f0d-836a-c31cfc935ed2,Chad Garcia,ehaley@johnson-mitchell.org,Sullivanton,Tesla Supercharger,2881.04,Clothing Purchase,Visa,14.49,1
+1fe2f237-e734-4045-9991-e777c4c9cbbc,Hector Jones,ortegaashley@franco.org,West Katherine,Adidas Outlet,2442.6,Flight Ticket,Discover,90.97,0
+67784040-474b-4c12-a690-a6df54764194,Aaron Harper,melissareynolds@hanson.net,South Jacobchester,Best Buy,1236.26,Online Purchase,MasterCard,55.25,0
+06728737-56a6-4090-9bdc-e96de40d215a,Steven Baker,whitneywhite@rice-fuentes.net,Davisborough,Tesla Supercharger,1397.81,Online Purchase,Discover,30.19,0
+5dc7931b-84da-4589-ab38-538672843002,Bryan Melton,samantha42@johnson.com,North Williamville,Spotify,24.71,Food Delivery,MasterCard,8.33,0
+94753190-9962-4388-ad8d-c80e8a8e34db,Caitlyn Marks,robertstiffany@hotmail.com,South Jessica,Google Play Store,4300.12,Flight Ticket,Discover,60.41,0
+3fb717c6-ae75-4761-8d4f-b0d6100eac55,Megan Williams,bprice@yahoo.com,South Christopherfurt,Amazon,853.76,Food Delivery,MasterCard,34.12,0
+972a02b3-de7c-4312-8940-0508162205a1,Anthony Burke,jaime74@hood-bailey.com,South David,Nike Store,3787.97,Hotel Booking,MasterCard,72.96,0
+25ad0a5d-dafb-4733-a52c-6e57a79fe52a,Norma Graham,jennifer62@boyd-vazquez.biz,East Keithmouth,Walmart,1925.87,Food Delivery,American Express,24.0,1
+bdef57aa-5cef-4ecd-9820-f22fe40f6c5f,Erika Jones,mdaniel@yahoo.com,Dunnstad,Spotify,3973.04,Flight Ticket,Visa,92.3,0
+285746e7-6b8a-48be-9baf-10eda93901d4,Jacob White,simsjeremy@yahoo.com,South Markchester,Google Play Store,3993.55,Online Purchase,Visa,44.54,0
+a546b47e-21e3-4707-ab77-adc999292e37,Guy Price,tylerphillips@gmail.com,Millerview,Spotify,581.35,Streaming Subscription,American Express,89.34,0
+9beb1a49-4efa-452f-86ff-7e1c14cef129,Dustin Cohen,fuentesyesenia@white.com,Elizabethfort,Nike Store,2176.54,Food Delivery,MasterCard,67.62,0
+ed947f32-eb64-4b4f-b413-10110a167214,Jerry White,maureenmanning@gmail.com,South Jeanettebury,Adidas Outlet,3558.84,Clothing Purchase,Discover,87.11,0
+556e4392-f0d3-4e94-a45e-1ab3edac55f4,Lindsey Thompson,donnawoods@sanchez.com,East Waynechester,Apple Store,1964.44,Flight Ticket,Visa,48.66,1
+f2ed88c2-ebf9-4e7d-9d9f-158569814c00,Kelly Stanley,xrogers@hotmail.com,Timothytown,Amazon,3277.86,Flight Ticket,Visa,82.97,0
+3566e029-4438-478d-ba9b-c08b3238722f,Alexander Lam MD,xrocha@medina.com,East Courtneyberg,Google Play Store,4963.13,Gas Station,Discover,35.34,0
+123a8ba5-ecc0-4250-9d5b-ebb6eba10b24,David Osborne,hpham@gmail.com,New Jeremy,Nike Store,4754.84,Clothing Purchase,Discover,17.46,1
+44b3cb32-27a9-4f85-bc40-e3142290bcd1,Wendy Murphy,gary21@yahoo.com,Larsonhaven,Tesla Supercharger,3390.77,Bill Payment,Visa,22.84,0
+002d3d2b-f719-4d8c-bb5b-8d38470cb520,Martin Walsh,ioneill@yahoo.com,Karentown,Netflix,170.23,Online Purchase,MasterCard,53.06,0
+54fba1ba-9bed-4041-aa68-2065f2776da4,Lauren Greene,bradyjennifer@yahoo.com,Shaneport,Tesla Supercharger,2669.21,Hotel Booking,American Express,91.65,0
+fae9502f-78a5-40ce-8896-7a6d7106301e,William Mejia,rick89@turner-barnes.biz,North Chrisport,Apple Store,2169.02,Clothing Purchase,Visa,32.5,0
+10a888d9-eae1-4c1c-bf23-80f259dca851,Amanda Navarro,nathan84@durham.com,West Sarah,Adidas Outlet,3275.72,Clothing Purchase,Visa,97.91,1
+c70f5a3d-e886-4925-9c9e-807f480104ed,Jose Davis,davidperkins@hotmail.com,Campbellstad,Spotify,4364.74,Hotel Booking,American Express,87.45,0
+9495d0f4-3f87-4d99-829d-e321f4229878,Zachary Price,freemanjoanna@yahoo.com,Gonzalezberg,Spotify,2028.76,Clothing Purchase,Discover,49.34,0
+a8e22fdc-e075-4059-a9c2-053cf2e19bff,Max Harris,hudsonchristopher@hawkins.com,Lake Tina,McDonald's,3916.51,Flight Ticket,Visa,69.17,0
+af9b82cc-dfaa-42c5-8a27-f76b42a61410,James Brown,daviskatelyn@hotmail.com,Michaelstad,Amazon,736.51,Clothing Purchase,Discover,90.13,0
+6d75f9c6-6dc8-4ab3-b873-f47d87ccee35,Jennifer Lee,joseph90@lucas.com,Jillhaven,PayPal Transfer,3347.62,Hotel Booking,Visa,22.27,0
+d95b4ff0-d5f6-4935-8098-8e5848b2d6ef,Stephen Christensen,kimberlyodonnell@gaines.biz,Kerrychester,Uber Eats,4759.83,Car Rental,American Express,10.37,0
+482070da-6b3c-46c1-82f6-64003b288892,Casey Ortega,drichardson@gmail.com,Port Robert,Target,4775.69,Flight Ticket,Discover,52.66,1
+84dbc6a4-6e93-43be-9238-d708da74ffd7,Dawn Pittman,michael57@martin.org,New Katherine,Target,2761.65,Online Purchase,Discover,76.73,0
+207d8c21-b08f-46da-8304-279460af8a46,Nicole Williams,rhenderson@brown-king.com,Abigailborough,Amazon,70.22,Streaming Subscription,Visa,62.85,0
+d4a6ee00-3714-405b-873e-e6b208c5cc99,Gary Scott,angela78@hotmail.com,Colonland,Netflix,2766.45,Gas Station,MasterCard,39.79,0
+c895cf10-1b9f-49d8-88aa-6d61b2f61207,Isaiah Williams,herrerajacqueline@coleman.com,New Jonathan,Adidas Outlet,3164.79,Bill Payment,American Express,41.11,0
+785aa087-deb9-4afe-ac46-de4eaa95678d,Corey Novak,rrhodes@gmail.com,Christopherton,Adidas Outlet,4557.79,Online Purchase,Visa,25.43,0
+e1ba631f-443f-4173-97a9-580de96fc85c,Ms. Jennifer Smith MD,charlesgarcia@gmail.com,Stevenchester,Starbucks,1864.05,Flight Ticket,American Express,58.24,0
+f77848ea-5c24-43a2-87f9-110b802a0aa4,Mary Perry,mckaybrett@adams.com,North Timothy,McDonald's,1441.73,Bill Payment,Discover,22.76,0
+4e9c7140-2ec1-4944-a173-db645b5e848e,Isaiah Johnson,jason13@joseph.com,Williamhaven,Tesla Supercharger,513.35,Flight Ticket,MasterCard,73.6,0
+f2c7c3e0-b0c4-47f7-8c4b-2918d1b68c5b,Michael Hanson,krice@lynch-lewis.com,Henrymouth,Google Play Store,4119.26,Streaming Subscription,Visa,47.34,0
+763f48c1-3713-4484-a1e6-457f98500b7a,Sharon Anderson,pchristensen@gates.net,North Linda,PayPal Transfer,1996.29,Online Purchase,Visa,33.57,0
+f4c57f75-1f04-42db-8289-afc2f9118137,Donald Lewis,kristen60@hanna.com,Aprilview,Adidas Outlet,121.39,Online Purchase,MasterCard,49.52,0
+8c9467f5-125e-4d9d-a4f3-50ab07d3f46e,Timothy Cook,ksimon@gmail.com,South Tylerfurt,Walmart,592.1,Flight Ticket,Visa,87.4,0
+810bbf77-1a30-4feb-a746-d6ac29be295b,Scott Cross,jennifer11@hotmail.com,North Alejandra,PayPal Transfer,2594.17,Flight Ticket,Visa,87.05,0
+9edf7330-f1ef-45a7-8dd0-e85dcb77c1e1,Beverly Rodriguez,agross@gmail.com,North Kristinmouth,Tesla Supercharger,3505.83,Gym Membership,Visa,53.07,0
+e4a38059-3976-43c1-a53b-b753ff840b32,John Wilson,qmoran@ferguson.com,West Steven,Netflix,1933.75,Gas Station,Visa,17.49,0
+7d474260-dae6-40ba-bffb-903d0b400ce8,Victoria Sandoval,johnathanrobinson@yahoo.com,Josephchester,McDonald's,3282.71,Electronics Purchase,Visa,60.04,0
+a955dde9-9fbe-439b-8ffc-6d80460ce87e,Jacqueline Wilson,angela47@hanson.com,Brookeland,Adidas Outlet,427.07,Hotel Booking,Discover,36.56,0
+c664c95b-550f-4f0c-ae26-04596f80f19a,Heather Wells,nelsoncynthia@yahoo.com,Alyssahaven,Walmart,1735.75,Clothing Purchase,Visa,89.66,0
+8f1c1593-ea54-4e93-aa47-817b4fa69721,Richard French,candice97@yahoo.com,Dannybury,Google Play Store,294.93,Food Delivery,MasterCard,7.57,0
+111318a2-6f52-4ce7-9ba2-d844913c4f69,Laurie Parsons,aguilarscott@bush.com,North Dean,Starbucks,2290.01,Gym Membership,Discover,42.43,1
+2547fe96-2732-43d8-b572-8e9f1732627f,Jeremy Jordan,masonbrandon@yahoo.com,South Adam,Amazon,1460.36,Flight Ticket,Visa,53.09,0
+995fde68-1926-408c-bb51-a995ee56abd9,Ms. Alison Collier,mramirez@hotmail.com,Leestad,Apple Store,1952.26,Streaming Subscription,Visa,95.81,0
+d4ddf385-3c22-4e46-b983-f2c709190c2f,Mr. Shane Stephens,fcarlson@nguyen.biz,Howardborough,Uber Eats,3352.34,Electronics Purchase,Visa,44.31,0
+0166c858-db4a-40e9-8e4f-11692fa3782e,Jessica Murphy,bettyarellano@gmail.com,Adamsland,Target,3561.97,Food Delivery,Visa,1.34,0
+b10076d1-5af5-4fa6-b826-6eb0a3ade8d4,Joshua Nelson,michael79@hotmail.com,Port Ravenhaven,PayPal Transfer,3882.03,Car Rental,Discover,54.54,0
+93e9096b-597a-4504-9cff-ea344e440955,David Martin,barnesshannon@yahoo.com,Shannonhaven,McDonald's,337.66,Streaming Subscription,MasterCard,81.81,1
+c1714637-5550-4408-b7b6-e0912c8d582e,Nicole Cooke,ggiles@hotmail.com,Lake Marcus,Nike Store,774.12,Car Rental,Visa,5.02,0
+78014c2d-bcfb-421c-a22b-54af214ee2a3,Joyce Mckinney,irodriguez@faulkner.org,Brownfort,Netflix,4301.72,Clothing Purchase,Visa,51.37,0
+e4a21207-f038-4509-be00-a2dac388f46f,Isaac Scott,ngrant@williams.org,East Tracyville,Target,385.91,Gym Membership,MasterCard,72.5,0
+eb6ae7ef-b76a-4d7a-8160-de703dba41c1,Ronald Griffin,jasonjohnson@stewart.com,Petersonton,Starbucks,2216.77,Bill Payment,MasterCard,21.7,0
+6f0e7551-ba9f-4164-959b-69e01bac5226,Terry Castillo,leebrowning@wilson.com,Lake Angela,Adidas Outlet,1713.78,Car Rental,MasterCard,14.88,0
+63181b56-0bca-4eed-b9de-a573ecc29b81,James Obrien,ratkinson@gonzalez.biz,Underwoodchester,Starbucks,3215.47,Online Purchase,Discover,13.04,0
+44086e02-593b-4472-b89a-1f761b85b1dd,Melissa Sparks,baldwinjeremy@gmail.com,Abbottshire,Spotify,3225.25,Clothing Purchase,Discover,28.46,0
+a033f173-4392-4bcc-8117-98f461faa671,Emily Roberts,mitchelldouglas@yahoo.com,West Melanieborough,Amazon,3524.89,Bill Payment,American Express,33.24,0
+10c3f8d5-dfde-4a34-be97-49abd58c839e,Jesus Webb,edrake@marks.com,Angelaview,Apple Store,1724.5,Gym Membership,American Express,4.83,0
+8ce39d76-d435-431e-9260-f2c0405fa549,David Watson,amanda41@williams.com,East Scott,Walmart,4193.01,Electronics Purchase,Discover,52.57,0
+eeb86d4b-4dad-4058-a43e-491a9aeffc54,Jamie Murphy,dwatts@yahoo.com,Lake Coltonmouth,Walmart,996.98,Streaming Subscription,Discover,40.15,0
+ededeff3-db35-4b4a-9b69-61e295fe8b20,Ryan Taylor,michael06@williams.com,Chadborough,Apple Store,2449.47,Clothing Purchase,Discover,21.5,0
+13fa175e-03cb-4429-b0b2-a4c9e76e9d75,Jorge Williams,jenniferthompson@yahoo.com,Rhodeston,Apple Store,252.4,Car Rental,MasterCard,42.67,0
+9e8e6cee-5fa0-4091-9651-eeff4f921b8a,Laura Dickson,mathew07@cruz-smith.biz,Carrollport,Target,3204.78,Electronics Purchase,American Express,3.82,0
+9328ced9-181a-4b84-8f9b-408558f10c87,Jordan Baxter,williammeyer@gmail.com,Mcdowellport,Walmart,3215.89,Food Delivery,Visa,24.22,0
+c8d17700-b370-488f-b636-382859df51d2,Miranda Terrell,mark19@harrell-vasquez.com,Stephaniebury,Spotify,4150.74,Car Rental,MasterCard,73.96,0
+a6f865b8-ea3f-4be9-92a2-e652c4ee3367,Alex Santos,qking@yahoo.com,Holmesside,Adidas Outlet,4119.63,Hotel Booking,American Express,70.08,0
+c1995d0c-c608-4f49-ab43-e2bd9070ddee,Shirley Lane,xbrooks@yahoo.com,West Markstad,Best Buy,3894.78,Online Purchase,American Express,44.09,0
+537c51b6-6cb5-4c4f-94c1-7dcfa29a7a44,Helen Jones,cynthiadavis@hotmail.com,West Michellehaven,Apple Store,3526.3,Grocery Shopping,MasterCard,46.61,0
+ceea24f2-c4a0-42ad-8aa8-2c4ba402a407,Brandon Callahan,anthonymoore@yahoo.com,Leebury,Amazon,3380.16,Electronics Purchase,Discover,74.22,0
+723823ac-b3d1-4f1a-b58a-d7019821af4e,Samuel Campbell,nicholas40@yahoo.com,Franciscohaven,Spotify,1865.98,Gym Membership,Discover,43.22,0
+e91c4981-b584-47d6-b835-1578baf729c9,Darren Brown,stacey18@gmail.com,South Clayton,Google Play Store,261.44,Food Delivery,Visa,13.63,0
+9133c18b-2bdc-4a2d-8089-da22358a7498,Megan Garcia,amanda15@yahoo.com,Dixonburgh,Apple Store,4961.06,Food Delivery,American Express,73.74,0
+bc73970e-b319-4b2a-b0a0-93a7609a0eb3,Brandon Cook,erin31@yahoo.com,Lake Traceyview,Tesla Supercharger,304.73,Car Rental,MasterCard,29.85,1
+944ae3ee-be22-4dbc-9fb4-9ebb17e0e2be,Sydney Chambers,adavis@yahoo.com,Allenchester,Apple Store,2526.16,Car Rental,Discover,82.42,0
+b7a01398-bf95-41f0-b30f-9f1ca6344b5a,Susan Harris,moorematthew@holmes-johnson.net,Erinport,Uber Eats,1507.87,Clothing Purchase,Discover,27.29,0
+3246344d-1784-4559-aab9-57a9eb18766e,Frank Smith,ericnavarro@garcia-davis.biz,North Kenneth,Best Buy,869.17,Electronics Purchase,Visa,32.23,0
+73a36269-2364-48d7-92d3-527be3c9c2af,Jack Oconnell,vargasrodney@yahoo.com,Elizabethfurt,Google Play Store,2365.56,Electronics Purchase,American Express,41.91,0
+5708ffb2-f31e-4e2c-9204-06b0b8ac392c,Timothy Thomas,bmorris@west-singh.info,Douglasshire,Google Play Store,2245.94,Flight Ticket,MasterCard,97.37,1
+dde49557-e036-4204-ad4a-e91c74d58e92,Erika Hoffman,kristinakeller@reynolds.info,Robertland,Starbucks,2843.17,Gym Membership,Visa,20.12,0
+79513944-2379-4ee7-b73b-2fa3062b2d6a,James Kidd,patrickcraig@harris.info,Hardinstad,Amazon,4460.72,Hotel Booking,MasterCard,81.75,0
+c5b72e55-4377-49fa-9e88-26b91ea8d4c2,Kelly Lopez,fisherkimberly@mcpherson.com,Carrieland,Nike Store,1488.69,Food Delivery,American Express,67.95,0
+6eaa61a8-de3f-46c8-988e-9ce5acbb47b6,Nicholas Mcbride,david44@gmail.com,Port Logan,Adidas Outlet,3597.41,Flight Ticket,Discover,77.99,0
+8b1b358b-c528-43f1-b671-448d180679e7,Melody Smith,fwhite@gutierrez.net,North Elizabeth,Netflix,2724.54,Gym Membership,MasterCard,69.85,1
+91047de6-ba0e-40fb-b42d-932df2d3e062,Kelly Perez,melissa32@gmail.com,North Anna,Starbucks,4712.61,Hotel Booking,American Express,92.0,0
+fae6d17f-a1d9-4bd4-a9fa-d53eecda8f11,Calvin Davis,tarahill@scott.net,Paulland,Nike Store,2029.43,Online Purchase,MasterCard,39.84,0
+9d56a0b0-5e5c-448d-b69f-db8d7d8778e3,Michael Davis,maria81@gmail.com,Susanton,Apple Store,288.75,Food Delivery,American Express,13.99,0
+6206ef89-e3ff-4351-86f8-80c5f4bd6afa,Rickey Wilson,thomasbeverly@cook.net,Donnaland,Starbucks,3625.0,Gym Membership,Discover,86.22,1
+bfe40ccf-18c8-41b9-b03e-fd92d5988080,Kevin Black,jordanlinda@berry.net,West Coryburgh,Nike Store,4767.14,Online Purchase,American Express,21.03,0
+0588c252-9259-4eaa-a500-fbf86873d42f,Andrew Knox,emily87@yahoo.com,Lake Ian,Nike Store,2763.87,Food Delivery,Discover,73.14,0
+34bc2f62-0f70-401d-a356-20029e1c6f97,Robert Mora,samantha55@yahoo.com,Joshuaton,Google Play Store,1868.38,Streaming Subscription,American Express,79.04,0
+adb35f4d-9db6-4d08-b2cd-e33e6d1b6a43,Michael Vargas,dustinarias@hotmail.com,Perezstad,McDonald's,861.89,Hotel Booking,MasterCard,96.56,0
+23e2ea62-0888-4971-8c6b-cdc4fc433be0,Cristian Armstrong,hollandjuan@hotmail.com,Hallport,Spotify,2201.21,Online Purchase,Discover,94.61,0
+46104a26-c9e4-4f0f-ad5e-adeaa9d27856,Stephanie Garcia,ujackson@hotmail.com,North Wendyport,Uber Eats,3237.79,Gym Membership,Visa,66.76,0
+10f60fe3-4cec-451a-bd6b-add2e11cd7ee,Lisa Gaines,wchambers@yahoo.com,Thompsonmouth,Starbucks,4858.84,Gym Membership,American Express,35.23,1
+2736f31f-bcdc-4eb0-8035-edf92ee76d6c,Autumn Hunt,amymccarthy@phelps.com,Nancyhaven,Uber Eats,3809.58,Food Delivery,Visa,51.63,0
+8fdd8400-4c85-4483-863e-4fe11a1f5ff5,Michelle Morris,john73@gmail.com,South Scottshire,Tesla Supercharger,3315.63,Car Rental,Visa,93.62,0
+b848747b-4c22-45de-9303-8e216da94143,Joseph Tapia,aguilarmegan@hotmail.com,East Jefftown,McDonald's,3226.37,Streaming Subscription,Discover,55.48,0
+f60f590a-1717-4f87-b1a4-1403136c7fbc,Alexander Bates,pwilliamson@wilson.org,Port Charleshaven,Spotify,1447.78,Gas Station,American Express,78.15,0
+190451c5-304b-4875-b553-366b1c95001c,Julie Lindsey,davidsmith@yahoo.com,Kaitlinfort,Nike Store,4704.93,Online Purchase,Visa,2.37,0
+3bb6ae5a-7995-4032-9d86-521ee2d18fe1,Daniel Ortiz,kelseyhunter@wyatt-harris.com,East Kathleenmouth,Spotify,3611.82,Online Purchase,American Express,53.75,0
+6b94af1a-7e33-4604-8dca-79bbd10f3d2f,Amanda Carey,watkinskatherine@valdez-smith.com,North Chelseafort,Tesla Supercharger,2441.41,Bill Payment,Discover,58.72,0
+22608a0c-0bfb-4c7e-9a68-07e5db39232e,Susan Doyle,proctormichael@butler-ferguson.org,Reidfurt,Best Buy,1035.9,Car Rental,Discover,4.32,0
+e8b97211-d168-4590-ba8d-86d7d9d93318,Leslie Hogan,jason96@yahoo.com,West Josephtown,Spotify,711.03,Gas Station,MasterCard,1.96,0
+765d4eca-c92c-439e-b75f-7da491d8c86a,Adam Cummings,cartermelissa@smith.biz,South Jessica,Uber Eats,1016.93,Hotel Booking,Discover,4.26,0
+5307627c-6e3f-41d3-9d5c-8b2a58a441ec,Lori Williams,tlevine@miranda.com,Lake Lisaberg,Best Buy,829.51,Bill Payment,Discover,78.17,0
+a2dbe4b0-1bb1-4597-a881-d3e414b27c1d,Christopher Peters,mackcheryl@yahoo.com,Katelynmouth,Walmart,4350.78,Hotel Booking,Discover,7.65,0
+1c29004f-d59d-433e-9f0d-5d80eb3eda15,David Gibbs,joycehess@hotmail.com,Joshuafort,Netflix,218.62,Streaming Subscription,American Express,84.52,0
+1d674b26-0ce6-49d3-8b6f-75712805d210,Adrian Beltran,vjones@gmail.com,Macdonaldshire,Netflix,4966.71,Car Rental,American Express,53.39,1
+01ad979e-20c3-4faa-8b25-1332b56e8cae,Michael Hernandez,rodney69@gmail.com,Doyleton,Target,3303.91,Online Purchase,Discover,32.49,0
+7d4c050b-ae62-4a28-bf6e-ed814c36747f,Melinda Davis,sarah96@thompson.com,North Tammyland,Amazon,4415.4,Grocery Shopping,American Express,26.92,0
+fde2d07a-15d7-4ac4-b0d2-7dc71626cc46,Oscar Mcdonald,mfischer@harrison.org,South Todd,Best Buy,2806.1,Online Purchase,Discover,46.45,0
+fbeb044b-007f-4e5e-8dfe-2e140e4ea4c3,Kathy Callahan,jasmine86@yahoo.com,Lucaschester,Tesla Supercharger,4478.64,Car Rental,Discover,51.09,0
+3259141f-6f25-4402-9d6c-71f6eeeb7e89,Susan Ware,kristen01@yahoo.com,Ericton,Adidas Outlet,2125.05,Hotel Booking,American Express,76.62,0
+d80fe64f-5f59-4089-a161-334efa413a86,Monica Peters,jerry68@matthews.org,Jenniferbury,PayPal Transfer,3695.02,Electronics Purchase,Discover,15.17,0
+79eec065-a88e-4583-9e0b-12cd7c819ebd,Andrea Boyd,armstrongjohn@arias.com,East Anthonyborough,Starbucks,4858.93,Gas Station,MasterCard,96.14,0
+9ea05a66-8c12-43fe-9e4e-60f17a6cb839,Laura Ferguson,sara85@hotmail.com,Port Jacksonland,Uber Eats,2368.62,Hotel Booking,American Express,42.94,0
+5aedc747-d865-4844-b5de-4599f60189ce,Laurie Baldwin,bward@washington.com,Lake Danielle,Uber Eats,691.25,Food Delivery,American Express,83.48,0
+0ea8b2cc-d7d7-4ac2-8787-4c8dbe973d04,Christina Holloway,lawrenceamy@garrett.com,South Anthony,Starbucks,4786.45,Food Delivery,Discover,7.49,0
+9680e1b9-766f-40d2-8d62-c150356707f5,Allison Fisher,pcampbell@gmail.com,New Mark,Starbucks,2041.66,Streaming Subscription,Visa,67.66,0
+5a8851f7-c1d5-4e03-8bc5-074b631b15c7,Kristine Walters,christopherjohnston@guzman-mccoy.net,Cookview,Apple Store,735.88,Food Delivery,Discover,15.64,0
+f7d436f8-4269-4be4-94e7-50887252dd10,Tammy Brown,rachel15@gmail.com,South Patrickfurt,Tesla Supercharger,1431.69,Electronics Purchase,Visa,70.96,0
+56eb28d7-29cf-408a-8867-ec31b27a5a0d,Peter Maldonado,sheena63@bowen.com,Suarezstad,Amazon,317.32,Hotel Booking,American Express,68.61,0
+d4b62632-e33c-47a2-828f-4afef41330d4,Mary Perry,nmanning@gmail.com,North Natasha,Google Play Store,3701.12,Bill Payment,Visa,66.91,0
+be405057-d073-4199-b375-7c0628ce9e6b,Robin King,elizabethsanders@hotmail.com,East Christinaland,Amazon,594.68,Clothing Purchase,Discover,35.1,0
+5bc4c815-16cd-4454-b8de-af5cd079368d,Stephanie Lewis,gmarquez@lin-lynch.info,Christineport,Starbucks,1373.59,Streaming Subscription,Discover,8.35,0
+c5b40aa3-c35c-4eb5-a6fd-62001a2ba6d1,Cassandra Chase,priscillacoleman@yahoo.com,Bradleyborough,PayPal Transfer,2774.77,Grocery Shopping,American Express,28.15,0
+1cc23a0c-2a5a-428d-b1f3-6b5ef0f2f53c,Maria Anderson MD,brendablake@hotmail.com,Lake Kimberlymouth,Apple Store,4239.28,Grocery Shopping,MasterCard,80.55,0
+f347ce34-6b58-4912-9c25-aac81554e933,Angel Scott,wjackson@yahoo.com,Leahton,Target,4384.71,Food Delivery,Discover,15.69,1
+1a0a3cc3-f32f-4713-8a0e-dcb1cd201b3b,Deborah Lambert,diana83@hotmail.com,Jonathantown,Google Play Store,3657.64,Grocery Shopping,Discover,26.82,0
+5540f3b4-211e-48af-bb89-3d02ff8d8c57,Carol Romero,dominguezwilliam@yahoo.com,West Debrashire,Google Play Store,1930.48,Bill Payment,MasterCard,82.18,0
+7b7615d4-266d-4b83-b418-28aaff9652ea,Alexandria Dickerson,garciajoel@calderon-smith.biz,Newtonland,Nike Store,178.73,Grocery Shopping,Visa,84.98,0
+d14c9330-723a-4e31-bfcc-276360c81f66,Corey Thomas,cpark@yahoo.com,Seanview,Spotify,4256.65,Gas Station,Visa,48.9,0
+3f7dcbba-7cf8-423e-a53d-d135422830d4,Colleen Pope,smithdiana@sanford-padilla.com,Patrickmouth,Google Play Store,857.8,Grocery Shopping,American Express,48.03,0
+8b770316-f804-490f-820e-3b4a5479edad,Richard Ramirez,phicks@hotmail.com,Cunninghamchester,Starbucks,4903.08,Grocery Shopping,Visa,89.48,0
+b0e42e36-30a7-40f6-8232-36d2bf0d855c,Sabrina Duncan,ghenderson@gmail.com,Williamsburgh,Amazon,640.94,Flight Ticket,MasterCard,53.2,0
+2e1057f5-c338-46a5-92fa-313d20ae928a,Michael Nelson,james08@simmons.com,Cliffordfurt,Netflix,3312.27,Electronics Purchase,MasterCard,28.45,1
+7e1505b0-c435-4d04-8610-760ba2003f46,Amanda Acevedo,campbelljames@hotmail.com,Richardsonside,Netflix,673.83,Car Rental,Discover,85.71,0
+603b6b17-5e9f-4abc-a40f-ba26c8ac7557,Robert Young,mariaray@yahoo.com,Dustinhaven,Apple Store,2131.82,Clothing Purchase,Discover,80.33,0
+d6a9c067-771a-43ba-ab16-8117d7ce751f,Pamela Taylor,carrie03@patel-hernandez.com,South Sherrytown,Nike Store,167.26,Gym Membership,Discover,45.19,0
+751a5650-d19e-442b-9e89-f1b99fcf99ae,Kelly Baker,rossjeffrey@zimmerman-jensen.net,Williamsonmouth,Target,3746.88,Bill Payment,Discover,78.69,0
+e06fa2af-d997-4d29-9fab-a94defe8b1d5,Rachel Glover,ofernandez@hotmail.com,Sanderstown,Adidas Outlet,4083.19,Gas Station,American Express,35.5,0
+61caff67-c200-4d78-b621-5663d2211c77,Adrienne Lang,ycain@yahoo.com,Jennyborough,Adidas Outlet,3068.1,Food Delivery,MasterCard,89.54,1
+81256d6a-e3a6-49b1-87a1-e204f53676f0,Angela Kelley,tfigueroa@yahoo.com,Angelaborough,Tesla Supercharger,1805.66,Gym Membership,Visa,76.12,0
+4a7bc2d8-5b68-4417-a1e2-cc76714b24a8,Kimberly Davis,obecker@young.com,Maryborough,Target,16.63,Gas Station,MasterCard,85.47,0
+ee766d7c-ed94-4372-910e-d74f751ec0a2,Martin Ortiz,bryan13@payne.com,Vincentville,Uber Eats,2041.29,Clothing Purchase,Discover,65.21,1
+b354d469-41ce-4865-8606-260a802fe7f5,Bradley Meyers,smithamy@turner.com,Andrewtown,Google Play Store,2878.2,Online Purchase,MasterCard,82.51,0
+4c87b285-1acc-4880-b50e-8647ada6ed2f,Matthew Moore,cynthia09@beck.com,Lake Brandiland,Walmart,3197.9,Gym Membership,American Express,37.34,0
+ef1e3baa-a3b9-4229-a1cc-899ba99afd37,Diane Perez,elizabethrusso@alvarez.info,East Jonathan,Walmart,3735.9,Online Purchase,MasterCard,3.01,0
+e2e05ae1-8a60-4aaa-a04b-af1444183c8e,Samantha Lewis DVM,banksjared@hotmail.com,Reynoldsview,Netflix,3168.3,Gas Station,Discover,12.03,0
+2331436a-fa42-4fd8-80c6-e0152d2e8149,Christina Long,samantha99@taylor.com,New Russell,Uber Eats,284.79,Bill Payment,MasterCard,22.3,0
+e0ef170e-f8f3-4e54-9359-af2f280992a7,Martha Porter,rebeccawood@dean.com,Hubbardland,PayPal Transfer,2076.39,Bill Payment,MasterCard,27.72,0
+da0bc222-e261-4851-bdd2-088846aee394,David Rice,cgraves@harris.com,Millerside,McDonald's,4687.84,Flight Ticket,Visa,26.0,0
+cda47bf2-2987-458b-b303-5f9c5492899a,Austin Small,tranrenee@yahoo.com,Jonathanmouth,Starbucks,357.39,Gas Station,Visa,99.04,0
+f585d876-a237-4214-9f79-1cb2f34ea865,Jasmine Allen,pbowman@yahoo.com,West Dennisport,Adidas Outlet,3563.42,Car Rental,Visa,2.03,0
+4d8e35a0-a2ef-47a3-a3ee-781a51fc02f9,Robert Taylor,bateskevin@sloan.com,Lauraland,McDonald's,903.91,Flight Ticket,Discover,56.84,1
+bba7c10e-90ee-4fff-a708-babcdc194e25,Amy Flores,oduke@hernandez.com,Anthonyville,Target,4880.79,Grocery Shopping,Visa,84.3,0
+746ddae4-ef19-4770-9052-2cb4f11238ae,Carolyn King,laura31@gmail.com,South Tammie,Netflix,4700.74,Gas Station,MasterCard,21.58,0
+87c62e48-42f3-4114-aee8-5601e23c8e3c,Austin Murphy,raymondjuarez@hotmail.com,Georgeton,Nike Store,2828.36,Bill Payment,Visa,72.36,0
+627f990d-8ece-43d7-892d-14bc74ae8d68,Ashley Santana,jeremyarnold@henry-mcbride.com,New Alexandria,Netflix,3468.86,Hotel Booking,MasterCard,26.77,0
+477c8a6d-ad5b-4da8-9e1d-abcb4051cd7b,Lance Patterson,reyeskatrina@coleman-johnson.info,Chelseastad,Walmart,269.83,Grocery Shopping,American Express,58.39,0
+4b299485-f1f6-45e2-b564-fcf147cd57e2,Lisa Roth,dawndennis@hotmail.com,Williamtown,Netflix,4851.31,Flight Ticket,Discover,54.97,0
+dd85210e-dfec-400c-9c9d-9bcc4d787f0a,Monica Johnson,calhounjacqueline@mahoney.info,Nashbury,PayPal Transfer,4935.82,Clothing Purchase,MasterCard,28.87,1
+418d7a1c-2a0b-43c4-a21f-7845b77d7d17,Thomas Neal,ytaylor@mccann.com,Reneeshire,Uber Eats,2171.12,Streaming Subscription,Discover,97.16,0
+15423849-ad33-47c2-a27a-7f04844f157c,Todd Watkins,kimberlyburgess@torres.com,Lake Matthew,PayPal Transfer,4117.61,Hotel Booking,Discover,84.84,0
+774a9fb1-760c-4f5a-a776-7a094c07a506,Jasmine Kelly,patrickmartin@hotmail.com,South Williamberg,Apple Store,225.01,Online Purchase,MasterCard,90.87,0
+5bdd13b4-d4d4-478a-9a96-f4f901d896cf,Daniel Evans,lopezangela@lewis.com,West Christopher,Nike Store,2521.83,Gym Membership,Visa,59.89,1
+60f6e04e-a41d-456f-8e83-ee293699554b,Kelsey Robbins,hansonaaron@murphy.org,Elliston,Uber Eats,4492.8,Streaming Subscription,Visa,80.98,0
+49ff2f77-fc8f-44e6-adfb-c6e04c1af416,Angela Lopez,carlos07@hotmail.com,Johnhaven,McDonald's,427.63,Car Rental,Visa,54.47,0
+21eff0bf-ed0e-43a8-b3f5-b7089a6ea9fa,James Morgan,walkersamantha@gmail.com,North Jasmineside,Amazon,1109.08,Hotel Booking,Visa,62.33,1
+e5e55e37-65bd-4b48-8e9d-36640b82181d,Brittney Liu,harriskrystal@smith.com,Ritaborough,PayPal Transfer,4171.43,Streaming Subscription,Discover,99.0,0
+0d2c8e0a-465d-49b6-9fb9-910bc05e93b8,Melissa Sandoval,mariah50@kidd-crawford.com,Davidberg,Best Buy,2135.54,Streaming Subscription,MasterCard,85.64,0
+b4ae9015-03a0-465a-bab8-7824175d42c2,Paula Cross,amandabrooks@yahoo.com,West Mark,McDonald's,4094.36,Flight Ticket,Discover,69.06,0
+c0487cb8-c093-4274-93db-f555f40b10bf,Joseph Heath,tayala@boyd.biz,South Maria,Netflix,1916.13,Bill Payment,Visa,22.33,0
+c263774a-0fc2-4752-80f5-171292ad567e,Arthur Moore,erin16@morales.com,North Kelseybury,Walmart,4631.09,Streaming Subscription,American Express,23.28,0
+dbc30bfb-a4c4-4d15-8d7b-a1d09172875d,Angela Adams,pwalsh@hotmail.com,Port Edwinmouth,Spotify,2526.33,Streaming Subscription,MasterCard,76.44,0
+ede59185-4330-4c5d-ae7a-620416b5c77b,Joseph Lewis,howardjennifer@mendez.com,Youngland,Tesla Supercharger,4231.73,Clothing Purchase,American Express,73.57,0
+91f8f71c-adea-4f07-a6d5-f4eb81aecd0f,Douglas Carlson,jennifermcguire@velasquez.com,Evansstad,Apple Store,3167.06,Food Delivery,Visa,25.64,0
+30821940-0fac-4759-9826-be5f22bd6b6a,Jenny Black,blackrobert@hotmail.com,Lake Kaitlyn,Tesla Supercharger,1519.95,Car Rental,MasterCard,13.59,0
+6df81245-e610-47f9-83df-62b08f3b9c7c,Dustin Horn,jennifer45@chavez.biz,Christinaberg,Google Play Store,863.28,Bill Payment,Visa,97.42,0
+472d4f76-a1ab-49d1-bdfa-66ba1934f7eb,Jody Jones,chenjonathan@yahoo.com,East Andrewhaven,Uber Eats,293.04,Flight Ticket,Discover,62.72,1
+2217516f-3a20-460c-be6f-2dd202a2ea58,Eric Carlson,bobbyharper@ford.biz,Phillipsville,Netflix,640.33,Grocery Shopping,MasterCard,60.43,0
+99a21b13-f94c-4834-ba45-fe5c15889e64,Laura Hughes,prios@holmes-williams.com,South Wendy,Google Play Store,3354.89,Grocery Shopping,Discover,98.92,1
+689cdaaa-4b57-449f-9e2c-3e49f26f532b,Alec Pierce,jasonnorman@brown.net,West Davidborough,Starbucks,4525.38,Clothing Purchase,MasterCard,39.06,0
+46f906d0-92d3-4bb1-a7c8-beb9533b26ea,Eileen Bradley,byrddana@yahoo.com,New Williamberg,Apple Store,3384.91,Food Delivery,American Express,54.14,1
+641b95be-3f28-4a5d-8140-58e859d6ca9f,Amy Baldwin,davisroy@gmail.com,New Johnland,Walmart,2174.2,Electronics Purchase,MasterCard,63.33,0
+38f8b684-b372-4777-a8db-aaf1ade06be6,Jorge Burnett,lsalinas@glass-pearson.biz,West Gloria,McDonald's,4504.07,Food Delivery,Visa,5.58,0
+9dd44df0-8e06-44c3-8be8-afbea549b025,Lucas Knight,bsmith@hotmail.com,Nancyton,Best Buy,2620.18,Clothing Purchase,Visa,10.77,0
+72663ea4-71b2-46f7-8b12-2b958b2d16f0,Amanda Compton,rodneywilliams@lee-roberts.com,Lindaview,Netflix,4178.03,Electronics Purchase,MasterCard,95.29,1
+63783890-c59b-43c4-8168-2d1da930e602,Antonio Mccarthy,nathanmolina@yahoo.com,Port Gregoryborough,Netflix,3197.71,Electronics Purchase,Discover,49.18,1
+73c42c09-e755-4795-8e76-02fe2247c4a8,Breanna Guzman,briannarosario@hotmail.com,Maryshire,Amazon,1965.14,Streaming Subscription,MasterCard,82.37,0
+c8d0ad39-94ff-4298-9135-a28fa5304837,Keith Gutierrez,elizabeth64@williams.com,Davisberg,Google Play Store,1360.58,Gas Station,MasterCard,92.27,0
+e2821ec0-9ff4-4a26-996e-8b71ef71a4ed,Roy Bowers,kristybrown@hopkins.com,South Brian,Netflix,255.21,Grocery Shopping,Visa,51.81,0
+db8d05f4-9f20-4d2f-af11-66a9f5ebaa72,Lindsay Sanders,tstephens@hotmail.com,New Katrinatown,Uber Eats,4637.29,Streaming Subscription,Discover,63.72,0
+8b8e7679-0d3b-450b-ad1d-004097da3752,James Marshall,megan46@yahoo.com,Hudsonview,Uber Eats,2045.36,Electronics Purchase,Discover,83.66,0
+700ae754-17ab-480e-aec1-4e6cfc57daf3,Leslie Allen,rhonda28@gmail.com,Leahmouth,Uber Eats,3139.65,Streaming Subscription,Discover,55.05,0
+c8145184-fbea-496d-8e80-8301feb9ce3d,Jenna Powell,mclaughlinkristi@yahoo.com,East Tonyaside,Target,2850.89,Clothing Purchase,MasterCard,56.79,0
+d7ae0ea1-733d-4edd-b7d0-d02c43a8b9ff,Jacob Strickland,noblejesse@yahoo.com,East Brent,McDonald's,4380.86,Hotel Booking,American Express,95.92,0
+1c04b5c7-839e-477a-adb4-1a8dc283f70b,Mrs. Jessica Baxter,utorres@douglas.com,Port Andreaport,Google Play Store,3431.83,Grocery Shopping,Discover,95.73,0
+12c722e5-e739-40dc-aaec-cb1b22b5948f,Matthew Howard,clarkpamela@hotmail.com,Duranland,Netflix,2905.24,Bill Payment,Visa,31.63,0
+1aca240d-eb35-45a6-ab4b-7c687b121517,Heather Mcgee,klucas@watson.com,Deniseside,Best Buy,4287.57,Streaming Subscription,American Express,59.73,0
+9451fa9c-e237-4410-bee3-9ef14e38bf89,Phillip Holmes,cunninghamian@hotmail.com,Lopezville,Tesla Supercharger,1072.71,Online Purchase,MasterCard,65.75,0
+71fdb11d-addf-4cbe-9264-773b80d288dc,Hunter Simmons,adamslarry@yahoo.com,Samuelport,Amazon,3688.59,Bill Payment,MasterCard,32.47,0
+6e6ec045-632e-45b6-947a-bf6be4f3d162,Eric Carter,emilycontreras@wilson.com,Jessicastad,Spotify,1300.34,Grocery Shopping,American Express,7.95,0
+e092e111-d634-4c64-9bf5-9e00053abc1c,Daniel Garcia,millerjoseph@gmail.com,East Carlamouth,Nike Store,3751.52,Grocery Shopping,MasterCard,72.4,0
+24521c6d-8330-4947-a8c1-0449cdc20c4c,Christopher Davis,tabitha22@yahoo.com,Michaelmouth,McDonald's,34.85,Grocery Shopping,MasterCard,80.34,0
+0e168369-673e-4ab9-9768-b5247f088570,David Villanueva,rmoore@tucker.biz,South Vincenttown,Tesla Supercharger,864.16,Streaming Subscription,Visa,7.89,0
+63bbfb95-45f3-44d6-bc36-33449556950f,Kristine Davenport,ramseymelissa@mckee.com,South Matthew,Starbucks,393.06,Clothing Purchase,American Express,94.16,0
+646fe058-6700-406b-84e4-cea8f0ff6aad,Jerry Vasquez DDS,qlee@yahoo.com,Lake Tinaberg,Walmart,1814.81,Electronics Purchase,Visa,75.73,0
+5105eb64-738d-4078-aa29-2c26be37ff14,Brian Kirk,michaelhoward@hotmail.com,New Sheriburgh,Google Play Store,4744.88,Grocery Shopping,Visa,11.52,0
+050453e3-94c8-4dd6-a253-422bd5696089,Christina Gay,ujordan@gmail.com,Abigailview,Starbucks,1175.48,Grocery Shopping,MasterCard,44.71,0
+55b91d73-00ac-47fc-aef8-c8b68a657acd,Susan Smith,barreraannette@gmail.com,New Michelle,Adidas Outlet,2032.83,Hotel Booking,MasterCard,81.28,0
+78eb57b6-796f-4f01-9756-84b5b5bfb864,Susan Mann,travis71@bailey.com,Port Stephenberg,Best Buy,1639.64,Hotel Booking,MasterCard,91.69,0
+6a6f65e3-17dc-47fd-bc4c-03f58dc48389,Jessica Williams,lflowers@yahoo.com,South Jimburgh,Tesla Supercharger,4817.3,Bill Payment,Visa,17.46,0
+71828c16-afb4-4876-9e75-aea53472be35,Mary Dyer,rileymichael@wang.net,Robertfort,Spotify,4791.56,Gas Station,MasterCard,8.87,1
+07863d90-f100-4a2a-92a2-f4002db6691c,Juan Young,deannatalie@cross.com,Port Markborough,McDonald's,4255.54,Streaming Subscription,Discover,17.75,0
+177a74fd-4fd1-4389-8133-e3948ac7ec5e,Sarah Gonzalez,omartinez@yahoo.com,Colemanhaven,Starbucks,4433.27,Car Rental,American Express,48.74,1
+41036c38-452d-4ca1-8ddc-854599075067,Holly Woods,pettymargaret@hotmail.com,Nunezstad,Adidas Outlet,2589.56,Online Purchase,Discover,42.97,0
+30531653-e0b7-4650-9bcf-ac79581f0035,Amber Hodge,garzachristopher@bailey-garcia.net,Christensenbury,Walmart,2996.83,Bill Payment,MasterCard,8.3,0
+3433bf1f-843c-4dcd-95a0-b001a6a35a79,Ricardo Holloway,bgordon@hotmail.com,Samanthaport,Netflix,782.21,Flight Ticket,MasterCard,83.16,0
+e851bc80-40b7-42da-9470-00e345adcebc,Brandy Johnson,lawsonkelly@adams.com,Haneyport,Best Buy,4601.17,Online Purchase,American Express,46.83,0
+e8ba432f-9f4b-4453-8ec2-bd213cf07ef0,James Wallace,lmcdonald@reyes.com,New Tiffany,Spotify,2423.26,Food Delivery,Discover,40.41,0
+f16e3e48-9d48-4f88-81bf-44e1a3202ff7,Nicole Jacobs,michael68@yahoo.com,South Katie,Tesla Supercharger,4852.01,Gym Membership,MasterCard,29.99,0
+337ad4a1-fba0-406d-ac11-f0aa012b0c31,Rachel Rodriguez,kathryn69@yahoo.com,Andersonburgh,Starbucks,1805.25,Grocery Shopping,MasterCard,38.32,0
+f595f957-75f3-4d7b-8d67-5c0f7e46aa1b,Scott Perez,michael76@gmail.com,Solomonfort,McDonald's,730.7,Electronics Purchase,MasterCard,55.43,0
+ae2dcd74-c299-4569-84ae-f28757229595,Justin Austin,coffeythomas@gmail.com,New Patrick,Target,1630.05,Streaming Subscription,Discover,38.66,0
+a1e2c7a9-d7fd-4648-9167-d7615894ef9a,Nicolas Cortez,deleonsamantha@walker.com,Port Christina,Nike Store,1382.6,Flight Ticket,American Express,38.36,0
+04a0cf36-431e-453f-b55d-0b0f130b56c2,Dr. Jose Hill,iwolfe@gmail.com,Lake Ericborough,Apple Store,292.61,Grocery Shopping,MasterCard,23.89,0
+23d647f8-9ab4-4680-86fe-1fc5ec2694b9,Christopher Robinson,christopher54@patel.biz,East Alejandro,Amazon,4087.54,Flight Ticket,Visa,45.08,0
+c03595d7-60c9-4b5b-a2cb-755727c8c403,Molly Ritter,pottsgary@watkins.org,New Ericville,Apple Store,770.36,Gas Station,Visa,98.56,1
+9de3cc2d-dd22-4a50-93af-75432867563b,Jennifer Cox,ismith@williams.com,Justinborough,Nike Store,1356.84,Car Rental,American Express,42.64,1
+3ef10693-fcd1-43e8-8078-4e2933ebf6f7,Hannah Gray,tyler58@yahoo.com,Brentfurt,Walmart,315.31,Streaming Subscription,American Express,19.4,1
+aee3a980-a4fb-4814-abad-7164fcb683af,Jessica Joseph,campbellanne@hotmail.com,Marshallton,Nike Store,3881.34,Hotel Booking,American Express,9.32,0
+a74dd666-ee86-455d-890e-ba97c8422312,Robert Donovan,herreraedward@carter-wagner.com,New Isabel,Best Buy,1641.05,Clothing Purchase,MasterCard,32.11,0
+23a50e4f-275d-472b-be27-e6ccc632cf4a,Wendy White,rhughes@vang.org,Michaelshire,Walmart,1543.27,Gym Membership,MasterCard,52.52,0
+676781e9-1288-46e3-a2e0-45d5353c085b,Brian Hughes,jenniferhernandez@martin.com,Stewartburgh,Nike Store,2351.25,Electronics Purchase,Visa,30.49,1
+ebf9677a-4a35-42b7-a34d-7b14d4571fc6,Maria Johns,qtaylor@yahoo.com,Katherinefort,Adidas Outlet,4871.79,Flight Ticket,Visa,58.08,1
+01efa161-5c3d-4a5b-a844-4f3ba3afbd81,Johnny Garcia,adavis@yahoo.com,Catherineside,McDonald's,3830.68,Online Purchase,American Express,29.64,0
+b9153621-5068-4d60-91e8-1d22304a8e23,Shannon Davies,smendoza@yahoo.com,South Charlesberg,Target,3822.87,Flight Ticket,Visa,7.74,0
+24299fa1-a972-44f9-838b-56da14818639,Dylan Williams,frenchshannon@hotmail.com,Bishoptown,Walmart,1002.05,Electronics Purchase,American Express,17.14,0
+9b1493e3-1713-4808-8552-931e51a66448,Crystal James,rachelberger@yahoo.com,West Darren,Amazon,130.77,Clothing Purchase,Visa,13.29,0
+aba1eb48-5e10-4673-b85e-7b2371b24f62,Susan Miller,greenrobert@gmail.com,Collinsport,Netflix,3498.2,Hotel Booking,MasterCard,3.08,0
+516852d3-10a4-4e8c-a501-0459c4bb0f9a,Ralph Bailey,anna97@taylor.com,Gamblechester,Target,3482.94,Streaming Subscription,American Express,71.91,0
+299d43f7-60a5-46d4-97ab-2d35379b9b39,Nicholas Carr,barrerabrandi@wilkerson-garrett.com,Smithberg,Uber Eats,4193.37,Grocery Shopping,Discover,74.1,0
+0693f2b9-67a8-4acb-8dc9-9faf37db386b,Hannah Vasquez,zball@hotmail.com,Randallhaven,Apple Store,4655.82,Gym Membership,American Express,54.22,0
+cdd10416-dee2-430d-bbde-77f5c862e5b1,Lori Mccullough MD,william74@yahoo.com,West Angelatown,Tesla Supercharger,1721.45,Streaming Subscription,Visa,66.13,0
+a13b77c8-a75d-4afa-9d92-eeb19ab85e1e,James Peterson,ilindsey@bonilla.com,Micheletown,Nike Store,3260.54,Clothing Purchase,Discover,16.75,1
+2fadd87b-7e19-4365-8d7e-cd568d2300e2,Devon Boyle,smithjustin@farley.com,Sandraport,Starbucks,4051.52,Electronics Purchase,American Express,38.36,0
+0037bc0c-172d-448b-be12-f4a478458d42,Tyler Nash,richardboyd@hotmail.com,Julieton,PayPal Transfer,852.95,Grocery Shopping,Visa,50.39,0
+1b50e60d-7743-4d62-8ac1-5b1fe3d5408e,Samuel Strickland,brownsheila@crawford.com,West Aaronfort,Nike Store,2517.13,Gas Station,American Express,35.76,0
+0803c25d-f5f9-41e6-ab76-c94bb1758e7d,Kenneth Chaney,zgray@yahoo.com,Michelefurt,Spotify,3397.47,Flight Ticket,American Express,69.7,0
+b676d61a-4b5c-4df5-be3b-592f18198c3d,Luis Mclaughlin,herbertkemp@brock-beck.net,North Raymondchester,Amazon,4839.19,Car Rental,Visa,6.33,0
+4c2f7cf7-5a01-40c5-b428-c4b853762bb7,Billy Lewis,robert56@martin.com,North Kaylatown,Adidas Outlet,1332.83,Bill Payment,Discover,13.44,0
+532ec6ff-bbe3-48e9-9da5-fc801a88f2fe,Dr. Breanna Jackson,barellano@woods.net,Amyberg,McDonald's,1549.41,Streaming Subscription,Discover,97.43,0
+f8888d88-64d9-4805-8732-a716b247b005,Scott Hill,edwardsmith@gmail.com,East Laura,PayPal Transfer,1940.94,Grocery Shopping,MasterCard,26.12,0
+91a26307-9cfb-4b51-afd2-d543d6f8e979,Natalie Delgado,samanthacervantes@walton-reyes.com,New Tara,Target,1637.9,Streaming Subscription,Visa,49.32,1
+3fa9ed32-817b-426d-873f-7ad1f4101ce0,Jessica Knight,sjohnson@gmail.com,South Jamesshire,PayPal Transfer,1517.19,Food Delivery,MasterCard,71.13,0
+643a1430-5d49-4a07-86d3-6599ddbb182e,Leonard Cooke,amymyers@johnson-green.com,East Shanebury,Google Play Store,2245.86,Gas Station,Visa,33.82,0
+64f58d48-2790-4b33-b4ed-97e512cad995,Jennifer Turner,jonesjoel@thomas.org,Perezchester,PayPal Transfer,202.81,Bill Payment,Visa,11.54,0
+ad3a7649-61f9-4c72-a88a-cebda637422a,James Duncan,terrihenry@martinez.com,Johnsonland,Best Buy,2175.84,Gym Membership,Visa,34.44,0
+3cb65b2c-1841-4d27-b1c1-6b980b6a3a20,Collin Rodriguez,adam92@yahoo.com,Donaldsonview,Target,3485.69,Car Rental,Visa,48.08,0
+d045ecd2-57b8-454a-ab3f-7c264f4f46ab,Crystal Kelly,lisa37@alvarez.com,Michaelton,PayPal Transfer,2386.97,Clothing Purchase,MasterCard,26.58,0
+e7fa0b83-ca8c-4ae9-81aa-f08f23bbb67b,Holly Gray,codycoffey@ayers.biz,Dudleyside,Adidas Outlet,4732.59,Hotel Booking,Visa,22.69,0
+faf3a3e2-dfda-47e6-b49c-a7599d84b4b0,Amy Mann,cheryl27@rice-todd.com,Garciahaven,Netflix,2161.51,Flight Ticket,Discover,33.81,0
+86ef557b-d8c1-44d3-98d1-a904c71d36b8,Bonnie Guerrero,bailey88@yahoo.com,Riceville,Tesla Supercharger,1232.07,Bill Payment,Discover,17.82,0
+c118718a-2b20-424f-89d7-b7e9c35dddda,Richard Reyes,katherine51@flores.com,East Joel,Apple Store,2801.2,Bill Payment,Visa,89.61,1
+d2984fbc-57d4-4b69-b8bd-99b66b8f7c24,Melissa Edwards,cking@hotmail.com,North Heathershire,Apple Store,2998.06,Food Delivery,American Express,37.02,0
+deba6612-5587-4786-b1f1-56864bacd021,Eric Howell,ttownsend@randall.com,East Heather,McDonald's,3003.51,Streaming Subscription,American Express,77.38,0
+98cdf182-558b-48ca-bc11-793b989594f7,Donald Mccall,hbarrett@ibarra-cross.org,Jenniferland,Spotify,481.04,Gas Station,Discover,52.07,0
+e236373b-3a8f-45fc-b57f-86d514ce5db3,Joshua Brown,saracarr@hotmail.com,Nancyton,McDonald's,4416.0,Online Purchase,Visa,79.51,0
+d29fb326-e978-4029-a8c7-9a1775bb3fef,John Williams,cthomas@hotmail.com,South Laurentown,Tesla Supercharger,2294.16,Gym Membership,American Express,19.7,0
+8ceb65a5-85bd-4be3-b060-1d328f26ceba,Jessica Ward,henrythompson@wright.com,South Amandaview,Apple Store,1923.0,Bill Payment,MasterCard,78.42,0
+9c240996-d438-4308-a33c-e82b446b6b8e,Eric Ortega,samantha39@hotmail.com,Shieldsmouth,Walmart,1588.19,Gym Membership,MasterCard,30.54,0
+2b14c888-a579-4136-9532-4f3dfe22d1a8,Robert Wagner,ramirezmegan@gmail.com,Lewisshire,Best Buy,2270.01,Flight Ticket,American Express,57.04,0
+55b6946f-1e33-4ff3-9206-b385be631933,Taylor Lee,wrobinson@yahoo.com,Rogersville,Uber Eats,1933.81,Flight Ticket,MasterCard,94.36,0
+2d6cf39f-6ff7-450f-8f23-f1dc087b8208,Michelle Mercer,sawyerjonathan@hotmail.com,Brandonfurt,Nike Store,4697.4,Gym Membership,American Express,62.68,0
+90ac6a3f-4f71-4291-88e3-fa8e0136f617,Victor Oliver,jeffery26@yahoo.com,Kylestad,PayPal Transfer,2517.3,Food Delivery,Discover,69.83,0
+8940442b-6758-4637-8454-7ff5fea361f2,Harold Hays,erussell@smith.net,Port Nicholas,Starbucks,1417.59,Hotel Booking,Discover,42.46,0
+8b1eb7d1-0f35-4d52-9ecb-093f3aa9e512,Samuel Johnson,tamarajordan@jones.com,Jeremyberg,Google Play Store,1309.15,Grocery Shopping,Discover,97.58,0
+8b5397e9-31fa-46de-ba73-06086e43ef52,Lisa Garcia,vschaefer@wang-thompson.com,Bradleybury,Uber Eats,4103.6,Hotel Booking,American Express,31.28,1
+e7f37286-a193-46de-be79-2756c59d08cd,Jonathan Callahan,ingramjohn@gonzalez.org,Lake Karen,Adidas Outlet,3740.32,Online Purchase,MasterCard,24.8,0
+9b43f72b-66b2-4199-b23b-98fec6d9423b,Janet Watson,russellrebecca@hotmail.com,East Jessicabury,Starbucks,338.82,Food Delivery,MasterCard,31.38,0
+c1818038-7f9b-4358-91c9-bc5b437921e0,Tiffany Myers,lauren91@yahoo.com,Destinymouth,PayPal Transfer,3716.96,Car Rental,MasterCard,66.56,0
+7b359d8c-e89c-491d-bc27-14bc10e880cf,Ms. Monica Tucker,bradleymitchell@williams.com,South Patriciabury,PayPal Transfer,189.47,Food Delivery,Visa,1.45,0
+d8355e54-ddb9-46eb-adf1-a91240abe62e,James Morris,bwood@yahoo.com,Michaelshire,McDonald's,4177.23,Gym Membership,Visa,78.42,1
+31ca8843-7115-4d61-b138-a058e81b2854,Taylor West,courtney30@howard.org,Millershire,Starbucks,2379.23,Online Purchase,Discover,79.77,0
+6dd11d28-4860-43f6-ba32-ce075bb23cb8,Anthony Morales,michelle81@gmail.com,Matthewston,Target,1719.77,Electronics Purchase,Discover,4.07,0
+0884d4ae-a2a0-41d0-b68c-0f833044d08d,Christopher Floyd,ericaholmes@rodriguez.com,Lake Kenneth,Google Play Store,2619.9,Bill Payment,Visa,92.77,0
+5477417b-3bea-4953-887b-0549d6cc209e,Dana Parker,jenniferrobinson@bean-boyer.com,Nicolebury,Amazon,2746.28,Online Purchase,American Express,20.83,0
+6f318fa7-f6fd-49b6-8f31-003003e74266,Deborah Miller,iramirez@yahoo.com,Shawnberg,Spotify,4752.74,Clothing Purchase,MasterCard,50.14,1
+0de14c59-087e-41d8-a4f9-3191a9ed5864,Stephen Palmer,rodriguezsusan@hotmail.com,Lake Thomasside,Amazon,4730.14,Hotel Booking,Discover,77.61,0
+68fc0b9c-ddd2-4c33-9e75-4b5adbdeebf8,Jeffrey Mejia,angela45@miller.com,Debbieland,Tesla Supercharger,53.2,Gas Station,MasterCard,12.93,0
+dc2a1f5a-b398-47f4-999e-f47525f5ac35,Martin Mayo,shawjessica@chan.biz,East Terri,Netflix,1018.07,Online Purchase,Discover,24.21,0
+f6783281-022f-4fa4-81ce-71070d4b6877,Howard Montgomery,cjohnson@gmail.com,Lake Carriehaven,Nike Store,1056.69,Online Purchase,Discover,21.88,0
+cdb6b410-a608-4f4f-802c-faad61b2cb0b,Peter Williams,kara98@neal.net,Margaretstad,Adidas Outlet,2622.73,Hotel Booking,MasterCard,78.79,0
+1bbd2194-8bfd-4e58-98d2-409e1588d712,Amber Johnson,lanceballard@hotmail.com,Travisville,Amazon,109.46,Grocery Shopping,MasterCard,9.03,0
+87237380-fa50-454c-a346-71f60d402a00,Colleen Smith DVM,douglaswright@gmail.com,Samanthabury,Walmart,2027.14,Streaming Subscription,American Express,31.19,0
+de96b76c-7b0d-4130-9e9c-e6d0bfdd7903,Pamela Kramer,donald08@rivera.com,Jonesport,Tesla Supercharger,2470.56,Electronics Purchase,American Express,22.07,0
+05680c59-8e7f-41dc-9708-0e9e3dd5e51e,Robert Preston,santanatroy@baldwin.com,North Nicole,Adidas Outlet,4013.58,Flight Ticket,Discover,14.34,1
+6d05fdde-329b-4ee5-9eda-fccf5e8260f5,Lauren Archer,awallace@yahoo.com,New Elizabethborough,Apple Store,3009.69,Electronics Purchase,American Express,78.78,0
+656caee8-1df7-4346-b674-36856c31d682,Amanda Delacruz,christinawhite@fox.net,West Thomas,Starbucks,3806.22,Electronics Purchase,American Express,98.87,0
+66cde1fd-2248-4c33-aece-429c9bed0953,Brian Moran,ruizwarren@moore.org,South Shannon,Amazon,457.52,Gym Membership,Discover,61.19,0
+ff45bfa4-2418-4a71-8a76-2b800a39d634,Yolanda Mckinney,gina00@hotmail.com,Carlosside,McDonald's,3551.81,Gas Station,Discover,70.91,0
+423f9730-bc42-4d39-ae5a-fd7169b2a353,Rhonda Parker,monicagarcia@johnson.org,Lake Amandaland,Uber Eats,4405.76,Electronics Purchase,MasterCard,37.8,1
+a7b0b1b7-c7bb-4e32-9227-dbe1794e1cfa,Jeffrey Garcia,lisa98@rodriguez.com,South Jamesland,Netflix,965.47,Grocery Shopping,American Express,58.14,0
+7f811753-f779-412e-836c-fe90fd7b54e4,Tracy Edwards,joshua60@page.com,Amandabury,Walmart,435.21,Online Purchase,Visa,81.01,0
+a28ff037-3b97-4ae8-8a06-9f5c2bbe9952,Charles Keith,victorcarroll@harris.com,Jenkinstown,Tesla Supercharger,4123.6,Gas Station,MasterCard,86.86,0
+539c8ea0-1062-4f8c-972d-07c9ab6da642,John Duncan,hollythomas@gmail.com,West Danielfort,Google Play Store,3697.88,Bill Payment,Visa,9.42,1
+e617d512-cacf-40fb-a2ab-1bdf4b408503,Kenneth Wong,marquezderek@kelley.net,East Danielside,Spotify,3295.6,Car Rental,American Express,37.93,0
+4ff477cc-e1e7-4713-9cdb-6dca4a46159e,Ryan Moore,pricegina@taylor-smith.com,New Donna,Target,3295.56,Car Rental,MasterCard,24.51,0
+ab2decf5-38e4-4c19-b1ff-7cccdd9f104e,Dylan Camacho,sarah61@cox-fox.com,Courtneystad,Spotify,2410.15,Streaming Subscription,Discover,72.78,0
+a2d7df9d-8e46-414f-a2bd-6fca9f6d5336,Lori Walker,amy42@freeman-thompson.info,Sandrafort,Walmart,4414.82,Online Purchase,American Express,21.96,0
+84df23c6-9985-41ea-a497-6597319437f5,Karen Flynn,xsmith@hotmail.com,West Robert,McDonald's,2637.38,Streaming Subscription,MasterCard,6.31,0
+1979a819-0edd-4cb0-b2e5-3d2996a42518,Ryan White,mcbrideandrew@yahoo.com,New Jonathan,Amazon,3244.73,Flight Ticket,MasterCard,21.8,1
+03569c8a-89ed-4fba-9857-cb53152dabce,Stacey Jones,michael90@nichols.com,Teresachester,Best Buy,3611.18,Gas Station,Visa,94.26,0
+009e156a-fde6-431b-90a3-db1f1a1d8a21,Rebecca Rodriguez,zwilkinson@thompson.net,Port Natasha,Uber Eats,2848.71,Gas Station,American Express,73.94,0
+1fc12967-f079-4828-96e5-8ef9e52e3994,Jenna Phillips,gmcintosh@garcia.biz,Port Jeffrey,Spotify,1243.3,Electronics Purchase,MasterCard,10.27,0
+afdba78c-6a9e-4b74-bea1-79ae517f5b2f,Matthew Eaton,xnelson@rodriguez-pennington.com,New Julieport,Walmart,4189.14,Electronics Purchase,American Express,89.46,1
+1a431601-a77f-4bb1-8f01-dd15ac5a6afe,Colleen Turner,angelmiller@mcdonald-gaines.com,South Deniseview,Uber Eats,601.67,Online Purchase,Visa,83.12,0
+a891905b-43c5-4f1b-8932-07be437d0a54,Emily Long,lopezcody@smith-travis.net,Meredithfurt,Amazon,1262.09,Clothing Purchase,Visa,83.11,0
+417c398d-4e01-402e-89cd-f190fdffd85c,Steven Williams,michael72@yahoo.com,Juliemouth,Nike Store,1585.25,Electronics Purchase,Discover,20.76,0
+99a868a4-5dcd-4859-9563-44e3765e398d,Tyler Anderson,edwardschris@hotmail.com,Annechester,Nike Store,3967.62,Hotel Booking,American Express,86.13,0
+fe89f124-223b-4f04-98f4-978d2d2ba0a1,William Jones,richard13@gmail.com,West Debbiestad,Amazon,3922.21,Gas Station,American Express,98.35,0
+775b2bde-3b9a-4789-872f-4a5d27873bba,Brittany Johnson,bradleylowe@yahoo.com,Morrisshire,Best Buy,1110.46,Car Rental,Discover,28.94,0
+e657e9d5-d30d-4b0b-9714-ae6b6a1cd967,Mary Morris,kelly88@yahoo.com,Kleinton,Uber Eats,2484.9,Grocery Shopping,Visa,3.34,0
+9ecc9d52-66bc-4722-920a-4689160478c4,Mark Best,kathygonzalez@watson-nguyen.org,Petersonfort,Uber Eats,3744.05,Flight Ticket,Discover,18.32,0
+7c786279-57fa-43d2-8d70-cd0691fc656b,Madison Knight,thenson@anderson.com,Maddoxshire,Best Buy,4434.52,Gym Membership,MasterCard,72.43,0
+a32fab4d-ae77-42fa-ba73-ed9065bcfe00,Katie Gordon,rtaylor@gomez-king.com,East Sherryview,Uber Eats,4274.16,Flight Ticket,American Express,31.43,0
+5e59d643-63c2-419e-80ed-69349a198b6a,Eugene Stark,vargasmichael@brooks.com,East Oliviaberg,Google Play Store,3554.3,Gas Station,American Express,87.36,0
+d4b56e6a-f434-4505-8125-de33a8add7bf,Michael Barajas,abarron@hotmail.com,Kimberlyview,Tesla Supercharger,4794.13,Streaming Subscription,MasterCard,89.37,0
+b30580d1-e6de-4ca9-a17b-56dc7c733ebb,Monica Clarke,molly22@richard-king.com,West Rogerstad,McDonald's,4817.38,Gym Membership,American Express,58.51,0
+941c4efe-f30a-4c34-960d-49472b39b84b,Jason Pineda,andreahall@yahoo.com,New Carlmouth,Walmart,1929.64,Hotel Booking,MasterCard,73.29,0
+6510c46d-abf4-4e91-825a-5ac25691091a,James Gilbert,michael81@cunningham-obrien.net,Churchberg,Spotify,1949.09,Online Purchase,American Express,79.15,1
+61c08fbd-4daa-4d40-8b1f-2b969198bb69,Jonathon Beasley,gestrada@yahoo.com,West Richardshire,Walmart,3086.85,Grocery Shopping,American Express,33.49,0
+46f868e5-72df-466c-acc4-a614bf9c77e3,Angela Bowers,dconner@gmail.com,East Rachelside,Starbucks,188.01,Online Purchase,MasterCard,52.09,0
+ab4dcfcf-c864-43c4-a8de-8798f851c136,Jesse Duncan,ndavis@pena.com,Lake Margaret,Netflix,769.26,Streaming Subscription,Visa,99.45,0
+d3d5f026-7a4b-45b2-9919-93f30ac8c56a,Deborah Jackson,christinawood@vasquez-williams.biz,West Lauren,Netflix,645.4,Grocery Shopping,American Express,49.4,1
+6411dcef-63c2-4bf8-a9d4-2c6d18d7d71e,Charles Vega,sarah52@hotmail.com,Pattyshire,Target,1683.76,Food Delivery,Visa,2.25,1
+6b75974d-9c92-45c6-bdc7-2dc043f0bb57,Brian Hall,edwardhansen@harris-phillips.com,Lake Michael,Apple Store,169.95,Online Purchase,MasterCard,28.03,0
+e77bf688-a567-4480-99cd-846d44731f51,William Anderson,qalexander@yahoo.com,Rayport,Best Buy,2848.71,Clothing Purchase,American Express,96.37,0
+77e3d9e2-a6f9-4f08-9212-afb48659344c,Debra Rivera,bradley41@yahoo.com,New Nancystad,Netflix,4264.43,Electronics Purchase,MasterCard,83.73,0
+d311d3f1-50e8-4700-a6ea-5d3036066112,Brandy Golden,jonesjoshua@robertson.com,Miashire,Target,1462.41,Clothing Purchase,Visa,40.88,0
+d5df4494-8c7b-44cf-ba12-73f3bde5fb97,Carlos Steele,yelliott@mcdowell.com,Lake Kimberly,McDonald's,3557.72,Flight Ticket,American Express,68.55,0
+3ab41e0a-746d-4313-b6e7-304c94c7c127,Joshua Robinson,robert42@ford.com,Jordanfurt,Netflix,2573.17,Gym Membership,Visa,37.15,0
+693d205d-724a-4a79-960a-8faf3782dfb9,John Harvey,samantha52@garcia.info,North Kevin,Target,2854.22,Online Purchase,Discover,48.93,0
+efff4d38-8061-48ed-a02a-9dced5041341,John Proctor,jasmineadams@hotmail.com,West Stephen,PayPal Transfer,4587.13,Bill Payment,Visa,52.84,0
+d3816c18-b58f-4e32-8591-9bd9d00b6bbd,Alicia Velez,melissa17@gmail.com,Coleshire,PayPal Transfer,3902.29,Food Delivery,American Express,18.15,0
+60323cfe-3ce6-4267-a206-f78ee0ef4694,Christy Ritter,rebekah67@hall-sparks.net,Port Jeffreychester,Tesla Supercharger,2153.01,Hotel Booking,MasterCard,27.27,0
+cb2ad68e-22e6-4eb8-bf37-04403498a753,Stephen Gonzales,raymondortiz@walker.com,North Todd,Tesla Supercharger,3533.62,Gym Membership,MasterCard,82.94,0
+8a6fc65e-6ac0-459a-a61d-c1bcb110d59c,Joseph Lowery,gallowaykara@morales.org,Maddoxborough,McDonald's,3784.93,Hotel Booking,American Express,97.57,0
+f62ab191-102b-4485-b56e-9f6b0544b013,Allison Johnson,patriciawilson@gmail.com,Theresaport,Google Play Store,1732.99,Bill Payment,MasterCard,58.48,0
+1e0aeb79-b7e7-4ecd-b1cd-74d92344e570,David George,qcox@bradford-irwin.org,East Cherylchester,Best Buy,831.87,Streaming Subscription,MasterCard,90.25,0
+801e9253-f8cc-4bf0-8318-0d8bb0246e71,Jacob Guzman,mayomichael@yahoo.com,Benjaminside,Netflix,3711.08,Car Rental,Discover,68.56,0
+06433389-8bc0-4b52-95b1-abed997b3183,Patrick White,walkercrystal@coleman.info,South Calvinbury,Tesla Supercharger,607.78,Streaming Subscription,Discover,55.27,1
+2af05270-b9e0-4fe3-8774-1077d5300d52,Shelly Bond,andrea00@peterson.com,South Shawnburgh,Starbucks,3229.92,Gas Station,American Express,86.29,0
+b9aa59ff-2225-4be8-bb70-44f236ce60e5,Mary Morris,jeremyhutchinson@gmail.com,North Jeffrey,Spotify,3434.98,Streaming Subscription,Discover,65.73,0
+e1714ed9-a54a-4f2d-9bb9-a4bf3f373053,Brian Brooks,duane26@williams-graves.com,East Lisa,Target,4001.34,Bill Payment,MasterCard,80.88,0
+269ed039-f010-4b30-b369-63a44620d532,Amy Moore,jasonmartinez@baker.com,Parkerstad,Walmart,2216.7,Online Purchase,Visa,46.62,0
+6f71a4a3-e69e-4eef-b312-8379a1b61ae8,Frank Ortiz,andrewduffy@black.net,Moyerstad,Netflix,4270.2,Gas Station,Discover,9.63,1
+64120146-da87-47d9-b5e1-047c9fd29d60,David Andrade,burtonkimberly@hotmail.com,Rodriguezstad,McDonald's,3447.48,Gas Station,American Express,45.29,0
+a113eb2e-c0f8-4c79-ad20-5fc38f9396be,Lori Yoder,knelson@dickson-guerra.com,Port Kimberly,Starbucks,2941.42,Grocery Shopping,Discover,91.68,0
+4e3858f8-fd06-4b29-bc87-88375853733f,Cheryl Collins,jeremiah09@hotmail.com,Nicholasport,Starbucks,2183.62,Clothing Purchase,Discover,27.6,1
+97138432-e2d5-4fba-95a3-c17fb91ddb6e,Daniel House,williamyoung@ortega.com,North Marco,Apple Store,2988.27,Clothing Purchase,MasterCard,30.55,0
+ca87c8ff-9b40-4131-b8c8-bdd9c384522b,Victoria Diaz,afigueroa@hotmail.com,Camposburgh,Google Play Store,4445.66,Food Delivery,MasterCard,20.64,0
+855e1083-4213-4812-99c2-e5afa98d9653,Karen Nelson,sean35@gmail.com,Thompsonmouth,McDonald's,4104.77,Gym Membership,MasterCard,74.31,0
+9d63b836-6edd-4972-8948-808bec867472,Tonya Herrera,jessephelps@hotmail.com,Taylormouth,Tesla Supercharger,2452.34,Gym Membership,Visa,8.19,0
+7ceda1e3-8703-4687-b9af-96f5cfbc6900,Robin Barnes,steven76@yahoo.com,Jonesbury,Walmart,552.63,Grocery Shopping,Discover,9.5,0
+72d5303c-12ae-42d2-a134-d7a6e4243907,Adam Macdonald,josephross@parker.com,Port Erinville,Spotify,4488.72,Gym Membership,American Express,59.57,0
+1a513b45-2899-4290-94f8-46404f6070bf,Raymond Johnson,vware@hotmail.com,North Rachelfort,Amazon,1818.12,Online Purchase,Discover,5.03,0
+d4965bb8-0522-4b83-8fa5-48a0e23a8bde,Terri Roy,brandtjessica@gmail.com,North Peter,Target,2231.69,Online Purchase,Discover,57.01,0
+f15a84ef-69ed-4c67-9951-04a105d7d6ce,Marc Becker,daniel66@gmail.com,Erikaside,Adidas Outlet,3242.0,Car Rental,Discover,46.51,0
+082ee118-bbfa-4a4f-8b81-524f7bcd4617,Julie Schultz,danielstephens@yahoo.com,Josephfurt,McDonald's,614.75,Electronics Purchase,Discover,98.3,1
+ff4adff2-7f58-4a03-891c-5321519f26b4,Ashley Fowler,jennifer07@yahoo.com,South Katelynshire,Amazon,583.7,Streaming Subscription,Visa,24.47,1
+d985d6aa-ad02-4fee-a106-6857a02722a1,Alicia Gray,esmith@marsh.com,New Michaelberg,Spotify,3741.7,Electronics Purchase,MasterCard,12.48,0
+799e3a67-e584-4025-8ada-2a4dfebaebd8,Matthew Clark,royjohn@gmail.com,Griffinfurt,McDonald's,4744.03,Streaming Subscription,MasterCard,57.87,0
+27766f86-1d62-491c-9005-390502dc9911,Charlotte Rich,jennygonzalez@jones-king.com,New Erinhaven,PayPal Transfer,4997.69,Gas Station,Visa,8.1,1
+f24ddb8a-d531-469a-a9d8-be5ea22c0025,Gregory Hall,jthompson@yahoo.com,Robertview,Nike Store,4516.95,Bill Payment,MasterCard,12.13,0
+5bfc9103-0cad-42dd-a6c4-74afc02a982f,Edgar Dunlap,boylemariah@king.com,Rodriguezshire,McDonald's,3122.82,Bill Payment,MasterCard,76.93,0
+5d4b2510-4c48-40ea-888a-1df555c975fb,Javier Simmons,jamesking@kane-anderson.com,South Amandaview,Walmart,4280.7,Car Rental,Discover,55.96,0
+b30c6649-05da-4aeb-a635-acaf17ad46d9,Deborah Chavez,vfaulkner@gmail.com,Juliemouth,McDonald's,4238.98,Clothing Purchase,Discover,92.67,0
+db4f7975-d24c-4f5c-b141-9f42e38b8bfe,Deborah Williams,whitneyrose@edwards.biz,Lake Christopherfort,Best Buy,1777.93,Car Rental,Discover,13.19,0
+aa9fe74b-87b1-45b7-95f3-617ed3e90054,Kaitlyn Richardson,garycooper@hotmail.com,Burkestad,Spotify,3216.49,Electronics Purchase,Visa,54.99,0
+2b6caa46-9956-4a7c-9bb3-9cc103cfdcd9,Jason Jenkins,christine62@hotmail.com,Moorebury,Netflix,359.18,Bill Payment,MasterCard,42.29,0
+c3959359-fc01-4c4a-9abc-cff796b2da37,Charles Lawson,brian35@gmail.com,Erinborough,Target,3520.86,Gym Membership,Visa,38.52,0
+872cd03e-c111-46fe-8e48-51d65ce438f8,Scott Esparza,hpierce@hotmail.com,Lake Kimmouth,Best Buy,2157.09,Car Rental,American Express,76.54,0
+79d9c3d7-6693-48e6-ae02-2a6a4c3e852a,Gordon Cannon,garnerscott@yahoo.com,Pittmanville,Google Play Store,4985.48,Food Delivery,MasterCard,32.47,0
+5551e178-fa15-4c95-a6f1-e10a845ebe39,Lindsey Anderson,carloshartman@yahoo.com,Lake Mercedes,Netflix,3586.32,Car Rental,Visa,44.15,0
+95c316f7-bd17-474e-b6ae-3ce47441afcb,Carlos Pace,haledaniel@clayton-byrd.com,East Sean,Walmart,713.84,Gas Station,Discover,91.9,0
+412eb5fa-a125-45eb-86a0-f8364d7cedca,Tracy Ritter,lindsey47@yahoo.com,Vickiehaven,Adidas Outlet,92.83,Food Delivery,Discover,62.49,0
+ca647eab-3d33-4c09-b5c9-9b572792fc20,Sheila Davis,kathytyler@west.org,Richardshire,Spotify,2531.26,Gas Station,American Express,14.16,0
+70c59638-dd0d-4f00-b90c-aab7dbb27371,Shawn Howe,aliciaramsey@gmail.com,Drakeborough,Starbucks,2599.95,Gas Station,Visa,31.0,0
+c0b630db-6ee0-4b39-8d50-fd0107945b26,Jamie Baker,angela41@yahoo.com,West Christopherbury,Spotify,4956.76,Hotel Booking,MasterCard,89.32,0
+4b80f907-aaf3-45d0-9589-9970869121bd,Felicia Arellano,brian20@gmail.com,Matthewchester,Uber Eats,237.67,Food Delivery,Discover,65.51,0
+1d3f57eb-1764-44ad-a96d-1d2392288d8e,Jacqueline Thompson,nshepard@rhodes.com,Rothfurt,Uber Eats,374.54,Streaming Subscription,Discover,1.79,0
+dce3c862-a712-4913-aeb0-4a90d201e39a,Roger Rubio,nschmitt@gmail.com,New Omarbury,Uber Eats,819.84,Gym Membership,Discover,32.16,0
+4d684d0c-9035-4c3b-9837-8b476206e4bb,Paul Randolph,williamsalicia@sullivan.com,Jamesville,Nike Store,3991.79,Food Delivery,Visa,76.96,0
+819d3aad-0ab2-401a-86a2-caaaad4e624a,Julie Reyes,floressamuel@hotmail.com,Yuview,Tesla Supercharger,455.2,Electronics Purchase,Discover,33.45,0
+b4b1ae63-81cd-4531-9679-0694c474d029,Melanie Gordon,tfreeman@stephenson-hernandez.org,South Katrina,Adidas Outlet,3128.14,Streaming Subscription,American Express,97.34,0
+b1fb04f5-fc82-492c-8046-20f9ce2ff73c,Annette Harmon,jameswilliams@yahoo.com,Lake Timothyburgh,Nike Store,2346.76,Online Purchase,MasterCard,32.22,0
+e9b01dcd-92e4-44fb-8ac2-86baced8ac27,Dawn Short,cheryl44@house.com,Sullivanshire,Netflix,4840.58,Bill Payment,Visa,38.79,0
+112b678b-ff57-44fe-bc6d-9d1ca80d76ba,Sean Dudley,wthompson@yahoo.com,Robertville,Amazon,4986.72,Streaming Subscription,Discover,51.04,0
+9162a496-b2ae-4c13-9c74-c05de748bd26,Glenn Martinez,townsendheidi@yahoo.com,New Amy,PayPal Transfer,4111.43,Hotel Booking,American Express,41.83,1
+4374a8bd-6e3e-4615-925a-b9c6be0ea8ff,Kristen Fischer,regina94@hotmail.com,North Bryan,PayPal Transfer,3703.94,Hotel Booking,Visa,45.6,0
+df31103b-ef1d-4500-8887-25c06175a530,Kevin Roberts,raylisa@fletcher-lee.biz,Port Kellystad,Starbucks,4903.51,Grocery Shopping,MasterCard,81.53,0
+f068a566-fcb4-4864-8bd9-ebec8dff3002,Jennifer Flores,blairkelly@yahoo.com,Walkershire,Google Play Store,709.42,Gym Membership,MasterCard,71.64,0
+cda471d7-6c4d-4581-92f6-f27acb55c502,Brooke Wallace,qwilliams@acevedo-hampton.net,South Elizabeth,Apple Store,1179.41,Gym Membership,Discover,68.24,1
+1199957f-a48a-4c84-b760-e9a3e2ea5b91,Dana Roberts,shannonsnyder@yahoo.com,New Edward,Spotify,1954.89,Grocery Shopping,Visa,57.53,0
+7c5c72a7-59ce-4699-b225-e7b01f3b8d88,Jeremy Davis,cjohnson@robinson.info,North Michael,Amazon,3499.32,Clothing Purchase,Discover,65.88,0
+351a20f9-491d-48c0-be97-0b2301149d3c,Leslie Scott,darrenbaker@greene.biz,Scottberg,Starbucks,1464.12,Grocery Shopping,Visa,76.41,1
+b00fddfd-ba42-4474-ba7a-07d011273574,Steven Scott,jeffersonamber@yahoo.com,Garrettmouth,Google Play Store,3490.35,Food Delivery,American Express,19.21,0
+3c5aebd0-0f93-43e4-bfc6-091169336d55,Nicole Sims,hardintroy@moody-vance.com,North Laurenside,Target,11.31,Flight Ticket,MasterCard,29.44,0
+de750b1a-3d83-4710-9d95-22b2704d8e44,Michelle Jackson,cwatson@rodriguez-charles.com,Calvinland,Adidas Outlet,3196.97,Hotel Booking,Visa,36.58,0
+c928b5bd-4e29-4b4d-bb74-8ed112678e2c,Mark Gonzales,alicia55@yahoo.com,Stephaniechester,PayPal Transfer,4173.09,Online Purchase,American Express,57.71,1
+ea2b5ef6-2c42-49d5-960a-a0eb692b4068,Stephanie Garcia,amylee@hotmail.com,New Christopherside,Apple Store,3560.78,Hotel Booking,American Express,47.94,0
+75290540-b2ad-4486-af1c-f5363739bd72,Carlos Wagner MD,dwilson@hotmail.com,Lake Troyside,PayPal Transfer,2241.38,Bill Payment,Discover,59.67,1
+a3173d32-0dc9-4424-87e8-feff5e9994d6,Matthew Cline,johnsonmark@wright.com,Michaelberg,Nike Store,555.78,Car Rental,Discover,63.39,0
+aab1283c-3c93-4bbd-a78c-aefe7d55f234,Christina Klein,bradleyjones@cabrera.com,Ortizburgh,McDonald's,3540.23,Gym Membership,MasterCard,89.04,0
+61135e66-574c-4af9-9da7-873ddf7913af,Deborah Hunt,gperkins@yahoo.com,South Monicaborough,Walmart,329.63,Grocery Shopping,American Express,89.31,0
+3cb1d68d-445d-47b2-a4a2-567aedb3b1ad,Jake Hall,john43@hotmail.com,Port Tracyborough,McDonald's,1136.97,Car Rental,American Express,14.34,0
+f930dce9-452d-4c4e-ade5-cc34ccf82142,Michael Obrien,preynolds@woods.com,Rachelmouth,PayPal Transfer,58.02,Gas Station,Discover,38.02,0
+14b568e4-de51-4376-a677-521a264d8dc5,Katherine Gonzales,jphillips@schmidt-jimenez.com,Melindashire,Adidas Outlet,826.92,Food Delivery,American Express,63.95,0
+1c82c040-eceb-4931-aba8-6f5ce2bc308e,Nicole Mcdonald,cooperdouglas@hotmail.com,Lake David,Netflix,2693.86,Food Delivery,American Express,75.26,0
+cfdbef76-aa56-41a1-8042-6a1e1cf443a6,Karen Buckley,pruitttony@johnson.com,Scottburgh,Nike Store,4811.95,Electronics Purchase,American Express,59.28,0
+17b5b2a2-f031-4a4b-b3b3-243ef4ffd9e5,Adam King,timothyjohnson@hotmail.com,East Michaelland,Spotify,3277.9,Bill Payment,Visa,46.66,0
+5245d62a-211b-42a4-8469-cfe4c17bfb37,Jacob Simpson,tiffany65@kim.com,Hesterchester,Adidas Outlet,209.63,Gas Station,Discover,25.65,0
+61e90e30-31b0-4559-a62c-2b5279ca9629,Juan James,kellyhaynes@davis.com,South Kaylachester,Google Play Store,2849.49,Car Rental,Visa,76.89,0
+ef5ddf39-9cd5-41cb-bd88-41a7998d9687,Jasmine Williams,jenkinsaaron@gmail.com,Cunninghamport,Best Buy,1777.15,Online Purchase,MasterCard,8.96,0
+4fade95d-dd62-4f10-8dd8-97d032a20c6b,Sheila Wiggins,yarmstrong@yahoo.com,Jasonland,Walmart,4550.91,Car Rental,Discover,53.83,1
+2b72402d-db63-4e2f-9182-042ffebc8e23,Joel Howard,brenda09@gmail.com,South William,Spotify,377.68,Car Rental,Discover,95.66,0
+e3fdb284-975d-4d6c-b424-74f067912dd8,Daniel Thomas,gilbertsherry@curtis.org,Jacksonview,McDonald's,1202.85,Car Rental,Discover,18.85,0
+ef347c4e-270c-4654-b70f-2d18f67232e2,Elizabeth Stokes,andrew99@acevedo.org,Lisaburgh,Google Play Store,2440.25,Bill Payment,American Express,60.3,0
+3d2b8386-d9a3-442e-9f40-fba38c7bbdc3,Kevin Green,qreynolds@anderson.com,Vasquezview,Target,1729.51,Flight Ticket,Visa,50.13,0
+5f29541c-d903-427d-8bd3-c77d17b28ec1,Thomas Edwards,reneedawson@hotmail.com,North Kimberlymouth,Amazon,3234.21,Streaming Subscription,American Express,82.81,0
+f44d3703-9df2-4338-a2e5-1e99774cc9e9,Rhonda Grant,guzmanjennifer@gmail.com,Butlermouth,Amazon,2561.08,Car Rental,Discover,66.18,0
+344a27e6-2a02-46d1-8a44-319661df3eaf,Rachel Snyder,icaldwell@rowland.com,North Alexander,Starbucks,1886.65,Online Purchase,Discover,45.76,1
+54a9cb6d-7be4-43a1-ac55-cb3dbbfba9b3,Allen Vega,mnavarro@miller.com,Lake Karl,Walmart,128.75,Hotel Booking,American Express,1.16,0
+36ffd7be-39ce-4359-862b-806118ae3eb0,Tara Reynolds,danielle58@yahoo.com,South Jared,Best Buy,4934.14,Online Purchase,Visa,64.3,0
+0e2a8a98-1f4b-4081-8bb3-8e35867d0b88,Michael Hicks,ymckenzie@hotmail.com,Kellymouth,McDonald's,1697.65,Gas Station,American Express,75.78,1
+46b2ca8a-6fce-47de-96ec-c83eb60790b4,Roy Willis,taylorwilliam@morales-johnson.com,Port Suzanneberg,Apple Store,4722.14,Electronics Purchase,Discover,61.84,0
+761979b5-a72e-471b-873b-88a76792e0c2,Christina Lewis,treynolds@gonzalez-ingram.biz,West Brandonchester,Best Buy,3053.74,Hotel Booking,Discover,86.44,0
+3053d430-b927-4096-bf4a-ececf62c80b6,Diana Shah,framos@simpson.com,New Troytown,Apple Store,2148.11,Grocery Shopping,MasterCard,71.71,1
+ecc0505c-389f-4912-881c-8b7d4139bcb9,Andrew Barrera,jaredmorales@hunter-price.com,Timothychester,Walmart,757.25,Food Delivery,MasterCard,72.98,0
