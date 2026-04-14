@@ -1,5 +1,7 @@
 # 💳 Credit Card Transaction Fraud Detection System
 
+Streamlit ap url: https://credit-card-transactions-fraud-detection-system-4yhwmwxdc7hbis.streamlit.app/
+
 ## 📌 Project Overview
 
 The goal of this project is to build a fraud detection system using machine learning that can identify fraudulent credit card transactions with high accuracy. A Streamlit-based interactive dashboard is developed to visualize predictions and model performance and model is deployed on streamlit colud community server
